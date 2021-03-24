@@ -1,0 +1,57 @@
+version: "3.7"
+
+services:
+  go-api:
+    container_name: go-marvel-forwarder-api-${CONTAINER_SUFFIX:-local}
+    image: golang:1.15.0
+    expose:
+      - "3000"
+    volumes:
+      - api:${API_WORK_DIR:-/marvel-forwarder-api}
+    networks:
+      - marvel-forwarder-network
+    environment:
+      CGO_ENABLED: 0
+      GOARCH: amd64
+      GOOS: linux
+      TZ: Asia/Singapore
+      DATABASE_URL: postgres://marvel-forwarder-api:marvel-forwarder-api@db-api:5432/marvel-forwarder-api?sslmode=disable
+
+  db-api:
+    container_name: db-marvel-forwarder-api-${CONTAINER_SUFFIX:-local}
+    image: postgres:13-alpine
+    expose:
+      - "5432"
+    networks:
+      - marvel-forwarder-network
+    restart: always
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready"]
+      interval: 30s
+      timeout: 30s
+      retries: 3
+    environment:
+      POSTGRES_USER: marvel-forwarder-api
+      POSTGRES_PASSWORD: marvel-forwarder-api
+
+  migrate-api:
+    container_name: migrate-marvel-forwarder-api-${CONTAINER_SUFFIX:-local}
+    image: migrate/migrate:v4.10.0
+    volumes:
+      - migration-files:/migrations
+    networks:
+      - marvel-forwarder-network
+    restart: "no"
+    entrypoint: ""
+    environment:
+      DATABASE_URL: postgres://marvel-forwarder-api:marvel-forwarder-api@db-api:5432/marvel-forwarder-api?sslmode=disable
+
+networks:
+  marvel-forwarder-network:
+    name: marvel-forwarder-network-${CONTAINER_SUFFIX:-local}
+
+volumes:
+  migration-files:
+    name: marvel-forwarder-migrate-${CONTAINER_SUFFIX:-local}
+  api:
+    name: marvel-forwarder-api-code-${CONTAINER_SUFFIX:-local}
