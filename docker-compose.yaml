@@ -2,12 +2,11 @@ version: "3.7"
 
 services:
   go-api:
+    build: .
     container_name: go-marvel-forwarder-api-${CONTAINER_SUFFIX:-local}
     image: golang:1.15.0
-    expose:
-      - "3000"
-    volumes:
-      - api:${API_WORK_DIR:-/marvel-forwarder-api}
+    ports:
+      - 8080:8080
     networks:
       - marvel-forwarder-network
     environment:
@@ -37,8 +36,6 @@ services:
   migrate-api:
     container_name: migrate-marvel-forwarder-api-${CONTAINER_SUFFIX:-local}
     image: migrate/migrate:v4.10.0
-    volumes:
-      - migration-files:/migrations
     networks:
       - marvel-forwarder-network
     restart: "no"
@@ -49,9 +46,3 @@ services:
 networks:
   marvel-forwarder-network:
     name: marvel-forwarder-network-${CONTAINER_SUFFIX:-local}
-
-volumes:
-  migration-files:
-    name: marvel-forwarder-migrate-${CONTAINER_SUFFIX:-local}
-  api:
-    name: marvel-forwarder-api-code-${CONTAINER_SUFFIX:-local}
