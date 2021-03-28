@@ -1,6 +1,7 @@
 package testutil
 
 import (
+	"os"
 	"path/filepath"
 	"runtime"
 	"strings"
@@ -36,8 +37,6 @@ func Asserts(tb testing.TB, condition bool, msg string, v ...interface{}) {
 	}
 }
 
-
-
 // CompareError tests if the err contains probe
 func CompareError(t *testing.T, probe string, err error) {
 	t.Helper()
@@ -50,6 +49,15 @@ func CompareError(t *testing.T, probe string, err error) {
 	} else if !strings.Contains(err.Error(), probe) {
 		t.Errorf("err is %v, expected it to contain %v", err.Error(), probe)
 	}
+}
+
+// MustOpen will panic if error
+func MustOpen(fileName string) *os.File {
+	file, err := os.Open(fileName)
+	if err != nil {
+		panic(err)
+	}
+	return file
 }
 
 // CheckTimeApproximately fails the test t if two times are not close enough

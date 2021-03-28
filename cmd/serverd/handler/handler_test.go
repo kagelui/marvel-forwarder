@@ -5,8 +5,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/kagelui/marvel-forwarder/internal/pkg/testutil"
 	"github.com/kagelui/marvel-forwarder/internal/pkg/web"
+	"github.com/kagelui/marvel-forwarder/internal/testutil"
 )
 
 func TestWrapError(t *testing.T) {

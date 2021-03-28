@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/kagelui/marvel-forwarder/internal/pkg/testutil"
+	"github.com/kagelui/marvel-forwarder/internal/testutil"
 )
 
 func TestWithStack(t *testing.T) {
@@ -29,7 +29,7 @@ func TestWithStack(t *testing.T) {
 			result := WithStack(tc.given)
 
 			// Then:
-			testutil.Asserts(t, result.Err!= nil, "err should not be nil")
+			testutil.Asserts(t, result.Err != nil, "err should not be nil")
 			testutil.Equals(t, tc.expectedStatus, result.Status)
 			testutil.Equals(t, tc.expectedCode, result.Code)
 			testutil.Equals(t, tc.expectedDesc, result.Desc)
@@ -58,7 +58,7 @@ func TestNewError(t *testing.T) {
 			result := NewError(tc.given, tc.message)
 
 			// Then:
-			testutil.Asserts(t, result.Err!= nil, "err should not be nil")
+			testutil.Asserts(t, result.Err != nil, "err should not be nil")
 			testutil.Equals(t, tc.expectedStatus, result.Status)
 			testutil.Equals(t, tc.expectedCode, result.Code)
 			testutil.Equals(t, tc.message, result.Desc)

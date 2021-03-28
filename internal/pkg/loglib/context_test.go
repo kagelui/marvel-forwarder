@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/kagelui/marvel-forwarder/internal/pkg/testutil"
+	"github.com/kagelui/marvel-forwarder/internal/testutil"
 )
 
 func TestContext(t *testing.T) {
