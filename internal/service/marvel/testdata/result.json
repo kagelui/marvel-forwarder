@@ -1,0 +1,7467 @@
+[
+  {
+    "ID": 1011334,
+    "Name": "3-D Man",
+    "Description": ""
+  },
+  {
+    "ID": 1017100,
+    "Name": "A-Bomb (HAS)",
+    "Description": "Rick Jones has been Hulk's best bud since day one, but now he's more than a friend...he's a teammate! Transformed by a Gamma energy explosion, A-Bomb's thick, armored skin is just as strong and powerful as it is blue. And when he curls into action, he uses it like a giant bowling ball of destruction! "
+  },
+  {
+    "ID": 1009144,
+    "Name": "A.I.M.",
+    "Description": "AIM is a terrorist organization bent on destroying the world."
+  },
+  {
+    "ID": 1010699,
+    "Name": "Aaron Stack",
+    "Description": ""
+  },
+  {
+    "ID": 1009146,
+    "Name": "Abomination (Emil Blonsky)",
+    "Description": "Formerly known as Emil Blonsky, a spy of Soviet Yugoslavian origin working for the KGB, the Abomination gained his powers after receiving a dose of gamma radiation similar to that which transformed Bruce Banner into the incredible Hulk."
+  },
+  {
+    "ID": 1016823,
+    "Name": "Abomination (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1009148,
+    "Name": "Absorbing Man",
+    "Description": ""
+  },
+  {
+    "ID": 1009149,
+    "Name": "Abyss",
+    "Description": ""
+  },
+  {
+    "ID": 1010903,
+    "Name": "Abyss (Age of Apocalypse)",
+    "Description": ""
+  },
+  {
+    "ID": 1011266,
+    "Name": "Adam Destine",
+    "Description": ""
+  },
+  {
+    "ID": 1010354,
+    "Name": "Adam Warlock",
+    "Description": "Adam Warlock is an artificially created human who was born in a cocoon at a scientific complex called The Beehive."
+  },
+  {
+    "ID": 1010846,
+    "Name": "Aegis (Trey Rollins)",
+    "Description": ""
+  },
+  {
+    "ID": 1011297,
+    "Name": "Agent Brand",
+    "Description": ""
+  },
+  {
+    "ID": 1011031,
+    "Name": "Agent X (Nijo)",
+    "Description": "Originally a partner of the mind-altering assassin Black Swan, Nijo spied on Deadpool as part of the Swan's plan to exact revenge for Deadpool falsely taking credit for the Swan's assassination of the Four Winds crime family, which included Nijo's brother."
+  },
+  {
+    "ID": 1009150,
+    "Name": "Agent Zero",
+    "Description": ""
+  },
+  {
+    "ID": 1011198,
+    "Name": "Agents of Atlas",
+    "Description": ""
+  },
+  {
+    "ID": 1011175,
+    "Name": "Aginar",
+    "Description": ""
+  },
+  {
+    "ID": 1011136,
+    "Name": "Air-Walker (Gabriel Lan)",
+    "Description": ""
+  },
+  {
+    "ID": 1011176,
+    "Name": "Ajak",
+    "Description": ""
+  },
+  {
+    "ID": 1010870,
+    "Name": "Ajaxis",
+    "Description": ""
+  },
+  {
+    "ID": 1011194,
+    "Name": "Akemi",
+    "Description": ""
+  },
+  {
+    "ID": 1011170,
+    "Name": "Alain",
+    "Description": ""
+  },
+  {
+    "ID": 1009240,
+    "Name": "Albert Cleary",
+    "Description": ""
+  },
+  {
+    "ID": 1011120,
+    "Name": "Albion",
+    "Description": ""
+  },
+  {
+    "ID": 1010836,
+    "Name": "Alex Power",
+    "Description": ""
+  },
+  {
+    "ID": 1010755,
+    "Name": "Alex Wilder",
+    "Description": "Despite being the only one of the Runaways without any superhuman abilities or tech, Alex Wilder became the de facto leader of the group due to his natural leadership skills and intellect, as well as prodigy-level logic and strategy."
+  },
+  {
+    "ID": 1011214,
+    "Name": "Alexa Mendez",
+    "Description": ""
+  },
+  {
+    "ID": 1009497,
+    "Name": "Alexander Pierce",
+    "Description": ""
+  },
+  {
+    "ID": 1014990,
+    "Name": "Alice",
+    "Description": ""
+  },
+  {
+    "ID": 1009435,
+    "Name": "Alicia Masters",
+    "Description": ""
+  },
+  {
+    "ID": 1010370,
+    "Name": "Alpha Flight",
+    "Description": ""
+  },
+  {
+    "ID": 1011324,
+    "Name": "Alpha Flight (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1011164,
+    "Name": "Alvin Maker",
+    "Description": ""
+  },
+  {
+    "ID": 1011227,
+    "Name": "Amadeus Cho",
+    "Description": ""
+  },
+  {
+    "ID": 1009567,
+    "Name": "Amanda Sefton",
+    "Description": ""
+  },
+  {
+    "ID": 1011382,
+    "Name": "Amazoness",
+    "Description": ""
+  },
+  {
+    "ID": 1011361,
+    "Name": "American Eagle (Jason Strongbow)",
+    "Description": ""
+  },
+  {
+    "ID": 1009151,
+    "Name": "Amiko",
+    "Description": ""
+  },
+  {
+    "ID": 1010672,
+    "Name": "Amora",
+    "Description": ""
+  },
+  {
+    "ID": 1010673,
+    "Name": "Amphibian (Earth-712)",
+    "Description": ""
+  },
+  {
+    "ID": 1010905,
+    "Name": "Amun",
+    "Description": "Amun is a ruthless teenage assassin, employed by the Sisterhood of the Wasp to serve under the mage Vincent after Araña interrupted the ritual to initiate the Wasp's new chosen one."
+  },
+  {
+    "ID": 1009152,
+    "Name": "Ancient One",
+    "Description": ""
+  },
+  {
+    "ID": 1016824,
+    "Name": "Ancient One (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1011396,
+    "Name": "Angel (Thomas Halloway)",
+    "Description": ""
+  },
+  {
+    "ID": 1011338,
+    "Name": "Angel (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1009153,
+    "Name": "Angel (Warren Worthington III)",
+    "Description": ""
+  },
+  {
+    "ID": 1017574,
+    "Name": "Angela (Aldrif Odinsdottir)",
+    "Description": ""
+  },
+  {
+    "ID": 1010674,
+    "Name": "Anita Blake",
+    "Description": ""
+  },
+  {
+    "ID": 1009346,
+    "Name": "Anne Marie Hoag",
+    "Description": ""
+  },
+  {
+    "ID": 1009154,
+    "Name": "Annihilus",
+    "Description": ""
+  },
+  {
+    "ID": 1011301,
+    "Name": "Anole",
+    "Description": ""
+  },
+  {
+    "ID": 1010802,
+    "Name": "Ant-Man (Eric O'Grady)",
+    "Description": ""
+  },
+  {
+    "ID": 1010801,
+    "Name": "Ant-Man (Scott Lang)",
+    "Description": ""
+  },
+  {
+    "ID": 1011208,
+    "Name": "Anthem",
+    "Description": ""
+  },
+  {
+    "ID": 1009156,
+    "Name": "Apocalypse",
+    "Description": ""
+  },
+  {
+    "ID": 1011253,
+    "Name": "Apocalypse (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1010866,
+    "Name": "Aqueduct",
+    "Description": ""
+  },
+  {
+    "ID": 1010773,
+    "Name": "Arachne",
+    "Description": ""
+  },
+  {
+    "ID": 1017438,
+    "Name": "Araña",
+    "Description": ""
+  },
+  {
+    "ID": 1009158,
+    "Name": "Arcade",
+    "Description": ""
+  },
+  {
+    "ID": 1010686,
+    "Name": "Arcana",
+    "Description": ""
+  },
+  {
+    "ID": 1009159,
+    "Name": "Archangel",
+    "Description": ""
+  },
+  {
+    "ID": 1009160,
+    "Name": "Arclight",
+    "Description": ""
+  },
+  {
+    "ID": 1010784,
+    "Name": "Ares",
+    "Description": ""
+  },
+  {
+    "ID": 1011275,
+    "Name": "Argent",
+    "Description": ""
+  },
+  {
+    "ID": 1011012,
+    "Name": "Armadillo",
+    "Description": ""
+  },
+  {
+    "ID": 1011298,
+    "Name": "Armor (Hisako Ichiki)",
+    "Description": ""
+  },
+  {
+    "ID": 1010827,
+    "Name": "Armory",
+    "Description": ""
+  },
+  {
+    "ID": 1009740,
+    "Name": "Arnim Zola",
+    "Description": "The frail, dwarfish Arnim Zola was born in 1930s Switzerland where he became the world's leading biochemist and genetic engineer."
+  },
+  {
+    "ID": 1010748,
+    "Name": "Arsenic",
+    "Description": ""
+  },
+  {
+    "ID": 1009161,
+    "Name": "Artiee",
+    "Description": ""
+  },
+  {
+    "ID": 1010718,
+    "Name": "Asgardian",
+    "Description": ""
+  },
+  {
+    "ID": 1009162,
+    "Name": "Askew-Tronics",
+    "Description": ""
+  },
+  {
+    "ID": 1010835,
+    "Name": "Asylum",
+    "Description": ""
+  },
+  {
+    "ID": 1010336,
+    "Name": "Atlas (Team)",
+    "Description": ""
+  },
+  {
+    "ID": 1009163,
+    "Name": "Aurora",
+    "Description": ""
+  },
+  {
+    "ID": 1009164,
+    "Name": "Avalanche",
+    "Description": ""
+  },
+  {
+    "ID": 1009165,
+    "Name": "Avengers",
+    "Description": "Earth's Mightiest Heroes joined forces to take on threats that were too big for any one hero to tackle. With a roster that has included Captain America, Iron Man, Ant-Man, Hulk, Thor, Wasp and dozens more over the years, the Avengers have come to be regarded as Earth's No. 1 team."
+  },
+  {
+    "ID": 1015239,
+    "Name": "Avengers (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1011766,
+    "Name": "Azazel (Mutant)",
+    "Description": "A mutant from biblical times, Azazel is the ruler of the Neyaphem and claims that the Earth and everything on it belongs to him."
+  },
+  {
+    "ID": 1009168,
+    "Name": "Banshee",
+    "Description": ""
+  },
+  {
+    "ID": 1009596,
+    "Name": "Banshee (Theresa Rourke)",
+    "Description": "The daughter of former X-Men member Sean Cassidy, a.k.a. Banshee, and Maeve Rourke, Theresa Rourke was raised by her first cousin once removed, mutant terrorist Thomas Cassidy, a.k.a. Black Tom."
+  },
+  {
+    "ID": 1009169,
+    "Name": "Baron Strucker",
+    "Description": ""
+  },
+  {
+    "ID": 1009170,
+    "Name": "Baron Zemo (Heinrich Zemo)",
+    "Description": ""
+  },
+  {
+    "ID": 1010906,
+    "Name": "Baron Zemo (Helmut Zemo)",
+    "Description": ""
+  },
+  {
+    "ID": 1011137,
+    "Name": "Baroness S'Bak",
+    "Description": ""
+  },
+  {
+    "ID": 1011354,
+    "Name": "Barracuda",
+    "Description": ""
+  },
+  {
+    "ID": 1009550,
+    "Name": "Bart Rozum",
+    "Description": ""
+  },
+  {
+    "ID": 1009171,
+    "Name": "Bastion",
+    "Description": ""
+  },
+  {
+    "ID": 1009172,
+    "Name": "Batroc the Leaper",
+    "Description": ""
+  },
+  {
+    "ID": 1009173,
+    "Name": "Battering Ram",
+    "Description": ""
+  },
+  {
+    "ID": 1009174,
+    "Name": "Beak",
+    "Description": ""
+  },
+  {
+    "ID": 1009175,
+    "Name": "Beast",
+    "Description": ""
+  },
+  {
+    "ID": 1010909,
+    "Name": "Beast (Earth-311)",
+    "Description": ""
+  },
+  {
+    "ID": 1010908,
+    "Name": "Beast (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1009176,
+    "Name": "Becatron",
+    "Description": ""
+  },
+  {
+    "ID": 1009177,
+    "Name": "Bedlam",
+    "Description": ""
+  },
+  {
+    "ID": 1009178,
+    "Name": "Beef",
+    "Description": ""
+  },
+  {
+    "ID": 1009179,
+    "Name": "Beetle (Abner Jenkins)",
+    "Description": ""
+  },
+  {
+    "ID": 1009329,
+    "Name": "Ben Grimm",
+    "Description": ""
+  },
+  {
+    "ID": 1010946,
+    "Name": "Jean Grey (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1009604,
+    "Name": "Jennifer Smith",
+    "Description": ""
+  },
+  {
+    "ID": 1011404,
+    "Name": "Jeryn Hogarth",
+    "Description": ""
+  },
+  {
+    "ID": 1010667,
+    "Name": "Jessica Drew",
+    "Description": ""
+  },
+  {
+    "ID": 1009378,
+    "Name": "Jessica Jones",
+    "Description": ""
+  },
+  {
+    "ID": 1009373,
+    "Name": "Jetstream",
+    "Description": ""
+  },
+  {
+    "ID": 1009374,
+    "Name": "Jigsaw",
+    "Description": ""
+  },
+  {
+    "ID": 1011105,
+    "Name": "Jimmy Woo",
+    "Description": "Jimmy Woo is a former FBI and SHIELD agent from the '50s who now leads the Agents of Atlas in the present."
+  },
+  {
+    "ID": 1009375,
+    "Name": "Joan the Mouse",
+    "Description": ""
+  },
+  {
+    "ID": 1009376,
+    "Name": "Jocasta",
+    "Description": ""
+  },
+  {
+    "ID": 1011171,
+    "Name": "John Farson",
+    "Description": ""
+  },
+  {
+    "ID": 1010812,
+    "Name": "John Jameson",
+    "Description": ""
+  },
+  {
+    "ID": 1009500,
+    "Name": "John Porter",
+    "Description": ""
+  },
+  {
+    "ID": 1009721,
+    "Name": "John Wraith",
+    "Description": "A mutant with teleportation powers, Wraith served with Wolverine, Sabretooth, Maverick and Silver Fox in Team X, a covert operations unit formed by Weapon X."
+  },
+  {
+    "ID": 1009196,
+    "Name": "Johnny Blaze",
+    "Description": ""
+  },
+  {
+    "ID": 1009630,
+    "Name": "Johnny Storm",
+    "Description": ""
+  },
+  {
+    "ID": 1009380,
+    "Name": "Joseph",
+    "Description": ""
+  },
+  {
+    "ID": 1010938,
+    "Name": "Joshua Kane",
+    "Description": ""
+  },
+  {
+    "ID": 1010937,
+    "Name": "Josiah X",
+    "Description": ""
+  },
+  {
+    "ID": 1011033,
+    "Name": "Joystick",
+    "Description": ""
+  },
+  {
+    "ID": 1009381,
+    "Name": "Jubilee",
+    "Description": ""
+  },
+  {
+    "ID": 1010936,
+    "Name": "Jubilee (Age of Apocalypse)",
+    "Description": ""
+  },
+  {
+    "ID": 1009382,
+    "Name": "Juggernaut",
+    "Description": ""
+  },
+  {
+    "ID": 1010772,
+    "Name": "Jule Carpenter",
+    "Description": ""
+  },
+  {
+    "ID": 1010679,
+    "Name": "Julian Keller",
+    "Description": ""
+  },
+  {
+    "ID": 1011314,
+    "Name": "Junta",
+    "Description": ""
+  },
+  {
+    "ID": 1010760,
+    "Name": "Justice",
+    "Description": ""
+  },
+  {
+    "ID": 1011310,
+    "Name": "Justin Hammer",
+    "Description": ""
+  },
+  {
+    "ID": 1011081,
+    "Name": "Ka-Zar",
+    "Description": ""
+  },
+  {
+    "ID": 1011193,
+    "Name": "Kabuki",
+    "Description": ""
+  },
+  {
+    "ID": 1009384,
+    "Name": "Kang",
+    "Description": ""
+  },
+  {
+    "ID": 1014983,
+    "Name": "Karen O'Malley",
+    "Description": ""
+  },
+  {
+    "ID": 1011357,
+    "Name": "Karen Page",
+    "Description": ""
+  },
+  {
+    "ID": 1011386,
+    "Name": "Karma",
+    "Description": ""
+  },
+  {
+    "ID": 1009385,
+    "Name": "Karnak",
+    "Description": ""
+  },
+  {
+    "ID": 1010752,
+    "Name": "Karolina Dean ",
+    "Description": ""
+  },
+  {
+    "ID": 1010783,
+    "Name": "Kat Farrell",
+    "Description": ""
+  },
+  {
+    "ID": 1010810,
+    "Name": "Kate Bishop",
+    "Description": ""
+  },
+  {
+    "ID": 1011250,
+    "Name": "Katie Power",
+    "Description": ""
+  },
+  {
+    "ID": 1011319,
+    "Name": "Ken Ellis",
+    "Description": "Former Daily Bugle and current DB! reporter Ken Ellis first made a splash during the public debut of Ben Reilly as the Scarlet Spider, providing the new costumed hero with his name following a pitched battle with Venom."
+  },
+  {
+    "ID": 1009386,
+    "Name": "Khan",
+    "Description": ""
+  },
+  {
+    "ID": 1010893,
+    "Name": "Kid Colt",
+    "Description": ""
+  },
+  {
+    "ID": 1011397,
+    "Name": "Killer Shrike",
+    "Description": ""
+  },
+  {
+    "ID": 1011289,
+    "Name": "Killmonger",
+    "Description": ""
+  },
+  {
+    "ID": 1011116,
+    "Name": "Killraven",
+    "Description": ""
+  },
+  {
+    "ID": 1009388,
+    "Name": "King Bedlam",
+    "Description": ""
+  },
+  {
+    "ID": 1010842,
+    "Name": "King Cobra",
+    "Description": ""
+  },
+  {
+    "ID": 1009389,
+    "Name": "Kingpin",
+    "Description": ""
+  },
+  {
+    "ID": 1011308,
+    "Name": "Kinsey Walden",
+    "Description": ""
+  },
+  {
+    "ID": 1009508,
+    "Name": "Kitty Pryde",
+    "Description": ""
+  },
+  {
+    "ID": 1017476,
+    "Name": "Kitty Pryde (X-Men: Battle of the Atom)",
+    "Description": ""
+  },
+  {
+    "ID": 1009390,
+    "Name": "Klaw",
+    "Description": ""
+  },
+  {
+    "ID": 1010818,
+    "Name": "Komodo (Melati Kusuma)",
+    "Description": ""
+  },
+  {
+    "ID": 1011147,
+    "Name": "Korath",
+    "Description": ""
+  },
+  {
+    "ID": 1011080,
+    "Name": "Korg",
+    "Description": ""
+  },
+  {
+    "ID": 1011312,
+    "Name": "Korvac",
+    "Description": ""
+  },
+  {
+    "ID": 1009391,
+    "Name": "Kraven the Hunter",
+    "Description": ""
+  },
+  {
+    "ID": 1011148,
+    "Name": "Kree",
+    "Description": ""
+  },
+  {
+    "ID": 1015017,
+    "Name": "Krista Starr",
+    "Description": ""
+  },
+  {
+    "ID": 1011178,
+    "Name": "Kronos",
+    "Description": ""
+  },
+  {
+    "ID": 1011029,
+    "Name": "Kulan Gath",
+    "Description": ""
+  },
+  {
+    "ID": 1011058,
+    "Name": "Kylun",
+    "Description": ""
+  },
+  {
+    "ID": 1009392,
+    "Name": "La Nuit",
+    "Description": ""
+  },
+  {
+    "ID": 1011327,
+    "Name": "Lady Bullseye",
+    "Description": ""
+  },
+  {
+    "ID": 1009393,
+    "Name": "Lady Deathstrike",
+    "Description": ""
+  },
+  {
+    "ID": 1011014,
+    "Name": "Lady Mastermind",
+    "Description": ""
+  },
+  {
+    "ID": 1014977,
+    "Name": "Lady Ursula",
+    "Description": ""
+  },
+  {
+    "ID": 1014976,
+    "Name": "Lady Vermin",
+    "Description": ""
+  },
+  {
+    "ID": 1009394,
+    "Name": "Lake",
+    "Description": ""
+  },
+  {
+    "ID": 1009395,
+    "Name": "Landau",
+    "Description": ""
+  },
+  {
+    "ID": 1009397,
+    "Name": "Lava-Man",
+    "Description": ""
+  },
+  {
+    "ID": 1011100,
+    "Name": "Layla Miller",
+    "Description": ""
+  },
+  {
+    "ID": 1009398,
+    "Name": "Leader",
+    "Description": ""
+  },
+  {
+    "ID": 1011092,
+    "Name": "Leech",
+    "Description": ""
+  },
+  {
+    "ID": 1009399,
+    "Name": "Legion",
+    "Description": ""
+  },
+  {
+    "ID": 1011403,
+    "Name": "Lei Kung, The Thunderer",
+    "Description": ""
+  },
+  {
+    "ID": 1009166,
+    "Name": "Lenny Balinger",
+    "Description": ""
+  },
+  {
+    "ID": 1011186,
+    "Name": "Leo (Zodiac)",
+    "Description": ""
+  },
+  {
+    "ID": 1010340,
+    "Name": "Leopardon",
+    "Description": ""
+  },
+  {
+    "ID": 1011375,
+    "Name": "Leper Queen",
+    "Description": ""
+  },
+  {
+    "ID": 1014988,
+    "Name": "Lester",
+    "Description": ""
+  },
+  {
+    "ID": 1011421,
+    "Name": "Lethal Legion",
+    "Description": ""
+  },
+  {
+    "ID": 1010977,
+    "Name": "Lieutenant Marcus Stone",
+    "Description": ""
+  },
+  {
+    "ID": 1009401,
+    "Name": "Lifeguard",
+    "Description": ""
+  },
+  {
+    "ID": 1011408,
+    "Name": "Lightning Lords of Nepal",
+    "Description": ""
+  },
+  {
+    "ID": 1010450,
+    "Name": "Lightspeed",
+    "Description": ""
+  },
+  {
+    "ID": 1009236,
+    "Name": "Lila Cheney",
+    "Description": ""
+  },
+  {
+    "ID": 1009402,
+    "Name": "Lilandra",
+    "Description": ""
+  },
+  {
+    "ID": 1011074,
+    "Name": "Lilith",
+    "Description": ""
+  },
+  {
+    "ID": 1011257,
+    "Name": "Lily Hollister",
+    "Description": ""
+  },
+  {
+    "ID": 1010337,
+    "Name": "Lionheart",
+    "Description": ""
+  },
+  {
+    "ID": 1010854,
+    "Name": "Living Lightning",
+    "Description": ""
+  },
+  {
+    "ID": 1011036,
+    "Name": "Living Mummy",
+    "Description": ""
+  },
+  {
+    "ID": 1011059,
+    "Name": "Living Tribunal",
+    "Description": ""
+  },
+  {
+    "ID": 1009403,
+    "Name": "Liz Osborn",
+    "Description": ""
+  },
+  {
+    "ID": 1009404,
+    "Name": "Lizard",
+    "Description": ""
+  },
+  {
+    "ID": 1010939,
+    "Name": "Lizard (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1011414,
+    "Name": "Loa",
+    "Description": ""
+  },
+  {
+    "ID": 1009405,
+    "Name": "Lockheed",
+    "Description": ""
+  },
+  {
+    "ID": 1009406,
+    "Name": "Lockjaw",
+    "Description": ""
+  },
+  {
+    "ID": 1009305,
+    "Name": "Firelord",
+    "Description": ""
+  },
+  {
+    "ID": 1009306,
+    "Name": "Firestar",
+    "Description": ""
+  },
+  {
+    "ID": 1011222,
+    "Name": "Firestar (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1010880,
+    "Name": "Fixer (Paul Norbert Ebersol)",
+    "Description": ""
+  },
+  {
+    "ID": 1010863,
+    "Name": "Flatman",
+    "Description": ""
+  },
+  {
+    "ID": 1010333,
+    "Name": "Flying Dutchman",
+    "Description": ""
+  },
+  {
+    "ID": 1009470,
+    "Name": "Foggy Nelson",
+    "Description": ""
+  },
+  {
+    "ID": 1009307,
+    "Name": "Force Works",
+    "Description": ""
+  },
+  {
+    "ID": 1009308,
+    "Name": "Forearm",
+    "Description": ""
+  },
+  {
+    "ID": 1009309,
+    "Name": "Forge",
+    "Description": ""
+  },
+  {
+    "ID": 1014993,
+    "Name": "Forge (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1011177,
+    "Name": "Forgotten One",
+    "Description": ""
+  },
+  {
+    "ID": 1009229,
+    "Name": "Frank Castle",
+    "Description": ""
+  },
+  {
+    "ID": 1011356,
+    "Name": "Frankenstein's Monster",
+    "Description": ""
+  },
+  {
+    "ID": 1009539,
+    "Name": "Franklin Richards",
+    "Description": "The son of Reed Richards and Susan Storm of the Fantastic Four, Franklin may one day be the most powerful person on Earth. Right now, he's the son of a genius who finds adventure and fun around every corner."
+  },
+  {
+    "ID": 1010980,
+    "Name": "Franklin Storm",
+    "Description": "Franklin Storm was the father of Susan and Johnny Storm."
+  },
+  {
+    "ID": 1011240,
+    "Name": "Freak",
+    "Description": ""
+  },
+  {
+    "ID": 1010799,
+    "Name": "Frightful Four",
+    "Description": ""
+  },
+  {
+    "ID": 1011389,
+    "Name": "Frog Thor",
+    "Description": ""
+  },
+  {
+    "ID": 1010670,
+    "Name": "Frog-Man",
+    "Description": ""
+  },
+  {
+    "ID": 1009377,
+    "Name": "Gabe Jones",
+    "Description": ""
+  },
+  {
+    "ID": 1009312,
+    "Name": "Galactus",
+    "Description": ""
+  },
+  {
+    "ID": 1011384,
+    "Name": "Galia",
+    "Description": ""
+  },
+  {
+    "ID": 1009313,
+    "Name": "Gambit",
+    "Description": ""
+  },
+  {
+    "ID": 1011201,
+    "Name": "Gamma Corps",
+    "Description": ""
+  },
+  {
+    "ID": 1010763,
+    "Name": "Gamora",
+    "Description": ""
+  },
+  {
+    "ID": 1017324,
+    "Name": "Gamora (Marvel War of Heroes)",
+    "Description": ""
+  },
+  {
+    "ID": 1010832,
+    "Name": "Gargoyle",
+    "Description": ""
+  },
+  {
+    "ID": 1012513,
+    "Name": "Gargoyle (Yuri Topolov)",
+    "Description": ""
+  },
+  {
+    "ID": 1011380,
+    "Name": "Garia",
+    "Description": ""
+  },
+  {
+    "ID": 1009383,
+    "Name": "Garrison Kane",
+    "Description": ""
+  },
+  {
+    "ID": 1009315,
+    "Name": "Gateway",
+    "Description": ""
+  },
+  {
+    "ID": 1009316,
+    "Name": "Gauntlet (Joseph Green)",
+    "Description": ""
+  },
+  {
+    "ID": 1011248,
+    "Name": "Geiger",
+    "Description": ""
+  },
+  {
+    "ID": 1009556,
+    "Name": "Gene Sailors",
+    "Description": ""
+  },
+  {
+    "ID": 1011285,
+    "Name": "Generation X",
+    "Description": ""
+  },
+  {
+    "ID": 1009317,
+    "Name": "Genesis",
+    "Description": ""
+  },
+  {
+    "ID": 1011098,
+    "Name": "Genis-Vell",
+    "Description": ""
+  },
+  {
+    "ID": 1014974,
+    "Name": "George Stacy (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1010749,
+    "Name": "Gertrude Yorkes",
+    "Description": ""
+  },
+  {
+    "ID": 1010925,
+    "Name": "Ghost Rider (Daniel Ketch)",
+    "Description": ""
+  },
+  {
+    "ID": 1009318,
+    "Name": "Ghost Rider (Johnny Blaze)",
+    "Description": ""
+  },
+  {
+    "ID": 1017329,
+    "Name": "Ghost Rider (Marvel War of Heroes)",
+    "Description": ""
+  },
+  {
+    "ID": 1011221,
+    "Name": "Giant Girl",
+    "Description": ""
+  },
+  {
+    "ID": 1009320,
+    "Name": "Giant Man",
+    "Description": ""
+  },
+  {
+    "ID": 1010720,
+    "Name": "Giant-dok",
+    "Description": ""
+  },
+  {
+    "ID": 1010926,
+    "Name": "Giant-Man (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1011055,
+    "Name": "Gideon",
+    "Description": ""
+  },
+  {
+    "ID": 1014982,
+    "Name": "Git Hoskins",
+    "Description": ""
+  },
+  {
+    "ID": 1009321,
+    "Name": "Gladiator (Kallark)",
+    "Description": ""
+  },
+  {
+    "ID": 1011256,
+    "Name": "Gladiator (Melvin Potter)",
+    "Description": ""
+  },
+  {
+    "ID": 1009645,
+    "Name": "Glenn Talbot",
+    "Description": "Major Glenn Talbot was member of United States Air Force, United States Army and Hulkbusters."
+  },
+  {
+    "ID": 1011144,
+    "Name": "Glorian",
+    "Description": ""
+  },
+  {
+    "ID": 1009322,
+    "Name": "Goblin Queen",
+    "Description": ""
+  },
+  {
+    "ID": 1011374,
+    "Name": "Golden Guardian",
+    "Description": ""
+  },
+  {
+    "ID": 1010927,
+    "Name": "Goliath (Bill Foster)",
+    "Description": ""
+  },
+  {
+    "ID": 1009324,
+    "Name": "Gorgon",
+    "Description": ""
+  },
+  {
+    "ID": 1010731,
+    "Name": "Gorilla Man",
+    "Description": ""
+  },
+  {
+    "ID": 1011076,
+    "Name": "Grandmaster",
+    "Description": ""
+  },
+  {
+    "ID": 1010702,
+    "Name": "Gravity",
+    "Description": ""
+  },
+  {
+    "ID": 1011041,
+    "Name": "Great Lakes Avengers",
+    "Description": ""
+  },
+  {
+    "ID": 1014985,
+    "Name": "Green Goblin (Barry Norman Osborn)",
+    "Description": ""
+  },
+  {
+    "ID": 1010928,
+    "Name": "Green Goblin (Harry Osborn)",
+    "Description": ""
+  },
+  {
+    "ID": 1010929,
+    "Name": "Green Goblin (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1009326,
+    "Name": "Gressill",
+    "Description": ""
+  },
+  {
+    "ID": 1011420,
+    "Name": "Grey Gargoyle",
+    "Description": ""
+  },
+  {
+    "ID": 1011292,
+    "Name": "Greymalkin",
+    "Description": ""
+  },
+  {
+    "ID": 1009328,
+    "Name": "Grim Reaper",
+    "Description": ""
+  },
+  {
+    "ID": 1010743,
+    "Name": "Groot",
+    "Description": ""
+  },
+  {
+    "ID": 1009330,
+    "Name": "Guardian",
+    "Description": ""
+  },
+  {
+    "ID": 1011299,
+    "Name": "Guardians of the Galaxy",
+    "Description": "A group of cosmic adventurers brought together by Star-Lord, the  Guardians of the Galaxy protect the universe from threats all  across space. The team also includes Drax, Gamora, Groot and Rocket  Raccoon!"
+  },
+  {
+    "ID": 1009331,
+    "Name": "Guardsmen",
+    "Description": ""
+  },
+  {
+    "ID": 1010709,
+    "Name": "Gunslinger",
+    "Description": ""
+  },
+  {
+    "ID": 1009207,
+    "Name": "GW Bridge",
+    "Description": ""
+  },
+  {
+    "ID": 1009619,
+    "Name": "Gwen Stacy",
+    "Description": "Peter Parker's first true love, Gwen Stacy was killed during a rescue attempt by Spider-Man, the guilt from which Peter has never overcome."
+  },
+  {
+    "ID": 1014994,
+    "Name": "Gwen Stacy (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1011400,
+    "Name": "H.A.M.M.E.R.",
+    "Description": ""
+  },
+  {
+    "ID": 1009332,
+    "Name": "H.E.R.B.I.E.",
+    "Description": ""
+  },
+  {
+    "ID": 1011391,
+    "Name": "Hairball",
+    "Description": ""
+  },
+  {
+    "ID": 1009333,
+    "Name": "Half-Life (Tony Masterson)",
+    "Description": ""
+  },
+  {
+    "ID": 1009334,
+    "Name": "Hammerhead",
+    "Description": ""
+  },
+  {
+    "ID": 1014995,
+    "Name": "Hammerhead (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1011490,
+    "Name": "Hank Pym",
+    "Description": " "
+  },
+  {
+    "ID": 1011091,
+    "Name": "Hannibal King",
+    "Description": ""
+  },
+  {
+    "ID": 1009348,
+    "Name": "Happy Hogan",
+    "Description": ""
+  },
+  {
+    "ID": 1010821,
+    "Name": "Hardball",
+    "Description": ""
+  },
+  {
+    "ID": 1011185,
+    "Name": "Harley Davidson Cooper",
+    "Description": ""
+  },
+  {
+    "ID": 1009336,
+    "Name": "Harpoon",
+    "Description": ""
+  },
+  {
+    "ID": 1011069,
+    "Name": "Harrier",
+    "Description": ""
+  },
+  {
+    "ID": 1009339,
+    "Name": "Harry Heck",
+    "Description": ""
+  },
+  {
+    "ID": 1009486,
+    "Name": "Harry Osborn",
+    "Description": ""
+  },
+  {
+    "ID": 1011218,
+    "Name": "Harry Osborn (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1010816,
+    "Name": "Hate-Monger (Adolf Hitler)",
+    "Description": ""
+  },
+  {
+    "ID": 1009337,
+    "Name": "Havok",
+    "Description": ""
+  },
+  {
+    "ID": 1009338,
+    "Name": "Hawkeye",
+    "Description": ""
+  },
+  {
+    "ID": 1010808,
+    "Name": "Hawkeye (Kate Bishop)",
+    "Description": ""
+  },
+  {
+    "ID": 1017311,
+    "Name": "Hawkeye (Marvel Heroes)",
+    "Description": ""
+  },
+  {
+    "ID": 1011131,
+    "Name": "Hawkeye (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1017108,
+    "Name": "Hawkeye/Clint Barton (MAA)",
+    "Description": "Hawkeye is an expert archer with an attitude just as on-target as his aim. His stealth combat experience and his ability to hit any target with any projectile make him a valuable member of the Avengers. However, he refuses to let things get too serious, as he has as many jokes as he does arrows!"
+  },
+  {
+    "ID": 1011046,
+    "Name": "Hedge Knight",
+    "Description": ""
+  },
+  {
+    "ID": 1017474,
+    "Name": "Deadpool (X-Men: Battle of the Atom)",
+    "Description": ""
+  },
+  {
+    "ID": 1009269,
+    "Name": "Death",
+    "Description": ""
+  },
+  {
+    "ID": 1009270,
+    "Name": "Deathbird",
+    "Description": ""
+  },
+  {
+    "ID": 1011037,
+    "Name": "Deathcry",
+    "Description": ""
+  },
+  {
+    "ID": 1010890,
+    "Name": "Deathlok",
+    "Description": "&nbsp;"
+  },
+  {
+    "ID": 1014997,
+    "Name": "Deathstrike (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1009713,
+    "Name": "Debra Whitman",
+    "Description": ""
+  },
+  {
+    "ID": 1010717,
+    "Name": "Debrii",
+    "Description": ""
+  },
+  {
+    "ID": 1011188,
+    "Name": "Deena Pilgrim",
+    "Description": ""
+  },
+  {
+    "ID": 1011023,
+    "Name": "Defenders",
+    "Description": ""
+  },
+  {
+    "ID": 1011071,
+    "Name": "Demogoblin",
+    "Description": "Jason Macendale, the newest Hobgoblin was down on his luck and offered the demon N'astirh his soul in exchange for power during the  Inferno crisis, turning him into the Demogoblin."
+  },
+  {
+    "ID": 1009271,
+    "Name": "Destiny",
+    "Description": ""
+  },
+  {
+    "ID": 1009272,
+    "Name": "Detective Soap",
+    "Description": ""
+  },
+  {
+    "ID": 1011107,
+    "Name": "Deviants",
+    "Description": ""
+  },
+  {
+    "ID": 1017583,
+    "Name": "Devil Dinosaur (Devil Dinosaur)",
+    "Description": ""
+  },
+  {
+    "ID": 1017102,
+    "Name": "Devil Dinosaur (HAS)",
+    "Description": "They say a dog is man's best friend, so naturally Hulk's best friend is a T-Rex! Devil Dinosaur is the team's trusty prehistoric pet that occasionally lends his massive jaws to the fight. Although he's got tiny arms, Devil's got a big heart and an even bigger bite!"
+  },
+  {
+    "ID": 1011142,
+    "Name": "Devos",
+    "Description": ""
+  },
+  {
+    "ID": 1011260,
+    "Name": "Dexter Bennett",
+    "Description": ""
+  },
+  {
+    "ID": 1009273,
+    "Name": "Diablo",
+    "Description": ""
+  },
+  {
+    "ID": 1009274,
+    "Name": "Diamondback (Rachel Leighton)",
+    "Description": ""
+  },
+  {
+    "ID": 1011040,
+    "Name": "Dinah Soar",
+    "Description": ""
+  },
+  {
+    "ID": 1010997,
+    "Name": "Dirk Anger",
+    "Description": ""
+  },
+  {
+    "ID": 1009275,
+    "Name": "Doc Samson",
+    "Description": ""
+  },
+  {
+    "ID": 1009281,
+    "Name": "Doctor Doom",
+    "Description": ""
+  },
+  {
+    "ID": 1011103,
+    "Name": "Doctor Doom (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1011206,
+    "Name": "Doctor Faustus",
+    "Description": ""
+  },
+  {
+    "ID": 1009276,
+    "Name": "Doctor Octopus",
+    "Description": ""
+  },
+  {
+    "ID": 1010921,
+    "Name": "Doctor Octopus (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1010689,
+    "Name": "Doctor Spectrum",
+    "Description": ""
+  },
+  {
+    "ID": 1009282,
+    "Name": "Doctor Strange",
+    "Description": ""
+  },
+  {
+    "ID": 1011358,
+    "Name": "Doctor Strange (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1011235,
+    "Name": "Dog Brother #1",
+    "Description": ""
+  },
+  {
+    "ID": 1009277,
+    "Name": "Domino",
+    "Description": ""
+  },
+  {
+    "ID": 1010330,
+    "Name": "Donald Blake",
+    "Description": ""
+  },
+  {
+    "ID": 1009278,
+    "Name": "Doomsday Man",
+    "Description": ""
+  },
+  {
+    "ID": 1009279,
+    "Name": "Doop",
+    "Description": ""
+  },
+  {
+    "ID": 1010879,
+    "Name": "Doorman",
+    "Description": ""
+  },
+  {
+    "ID": 1011195,
+    "Name": "Dorian Gray",
+    "Description": ""
+  },
+  {
+    "ID": 1009280,
+    "Name": "Dormammu",
+    "Description": ""
+  },
+  {
+    "ID": 1014992,
+    "Name": "Dormammu (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1017300,
+    "Name": "Dr. Strange (Marvel: Avengers Alliance)",
+    "Description": ""
+  },
+  {
+    "ID": 1010677,
+    "Name": "Dracula",
+    "Description": ""
+  },
+  {
+    "ID": 1011247,
+    "Name": "Dragon Lord",
+    "Description": ""
+  },
+  {
+    "ID": 1009283,
+    "Name": "Dragon Man",
+    "Description": ""
+  },
+  {
+    "ID": 1010735,
+    "Name": "Drax",
+    "Description": ""
+  },
+  {
+    "ID": 1010368,
+    "Name": "Dreadnoughts",
+    "Description": ""
+  },
+  {
+    "ID": 1015007,
+    "Name": "Dreaming Celestial",
+    "Description": ""
+  },
+  {
+    "ID": 1011322,
+    "Name": "Druig",
+    "Description": ""
+  },
+  {
+    "ID": 1009284,
+    "Name": "Dum Dum Dugan",
+    "Description": ""
+  },
+  {
+    "ID": 1009285,
+    "Name": "Dust",
+    "Description": ""
+  },
+  {
+    "ID": 1009286,
+    "Name": "Earthquake",
+    "Description": ""
+  },
+  {
+    "ID": 1010785,
+    "Name": "Echo",
+    "Description": ""
+  },
+  {
+    "ID": 1010787,
+    "Name": "Eddie Brock",
+    "Description": ""
+  },
+  {
+    "ID": 1009396,
+    "Name": "Eddie Lau",
+    "Description": ""
+  },
+  {
+    "ID": 1010999,
+    "Name": "Edward \"Ted\" Forrester",
+    "Description": ""
+  },
+  {
+    "ID": 1011072,
+    "Name": "Edwin Jarvis",
+    "Description": ""
+  },
+  {
+    "ID": 1011060,
+    "Name": "Ego",
+    "Description": ""
+  },
+  {
+    "ID": 1009287,
+    "Name": "Electro",
+    "Description": ""
+  },
+  {
+    "ID": 1010922,
+    "Name": "Electro (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1009288,
+    "Name": "Elektra",
+    "Description": ""
+  },
+  {
+    "ID": 1010923,
+    "Name": "Elektra (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1010355,
+    "Name": "Elements of Doom",
+    "Description": ""
+  },
+  {
+    "ID": 1009290,
+    "Name": "Elite",
+    "Description": ""
+  },
+  {
+    "ID": 1011082,
+    "Name": "Elixir",
+    "Description": ""
+  },
+  {
+    "ID": 1011122,
+    "Name": "Elloe Kaifi",
+    "Description": ""
+  },
+  {
+    "ID": 1010701,
+    "Name": "Elsa Bloodstone",
+    "Description": ""
+  },
+  {
+    "ID": 1009310,
+    "Name": "Emma Frost",
+    "Description": ""
+  },
+  {
+    "ID": 1009291,
+    "Name": "Empath",
+    "Description": ""
+  },
+  {
+    "ID": 1009292,
+    "Name": "Emplate",
+    "Description": ""
+  },
+  {
+    "ID": 1010671,
+    "Name": "Enchantress (Amora)",
+    "Description": ""
+  },
+  {
+    "ID": 1011432,
+    "Name": "Enchantress (Sylvie Lushton)",
+    "Description": ""
+  },
+  {
+    "ID": 1011313,
+    "Name": "Ender Wiggin",
+    "Description": ""
+  },
+  {
+    "ID": 1010445,
+    "Name": "Energizer",
+    "Description": ""
+  },
+  {
+    "ID": 1011065,
+    "Name": "Epoch",
+    "Description": ""
+  },
+  {
+    "ID": 1009293,
+    "Name": "Erik the Red",
+    "Description": ""
+  },
+  {
+    "ID": 1010807,
+    "Name": "Eternals",
+    "Description": ""
+  },
+  {
+    "ID": 1011061,
+    "Name": "Eternity",
+    "Description": ""
+  },
+  {
+    "ID": 1010771,
+    "Name": "Excalibur",
+    "Description": ""
+  },
+  {
+    "ID": 1009294,
+    "Name": "Exiles",
+    "Description": ""
+  },
+  {
+    "ID": 1009295,
+    "Name": "Exodus",
+    "Description": ""
+  },
+  {
+    "ID": 1009296,
+    "Name": "Expediter",
+    "Description": ""
+  },
+  {
+    "ID": 1011199,
+    "Name": "Ezekiel",
+    "Description": ""
+  },
+  {
+    "ID": 1011317,
+    "Name": "Ezekiel Stane",
+    "Description": ""
+  },
+  {
+    "ID": 1009248,
+    "Name": "Fabian Cortez",
+    "Description": ""
+  },
+  {
+    "ID": 1009297,
+    "Name": "Falcon",
+    "Description": "With a mental connection to all birds and a suit that gives him wings to fly, The Falcon has been both the partner to Captain America and an Avenger himself. Whether as a super hero or in his secret identity of social worker Sam Wilson, The Falcon dedicates his life to standing up for others."
+  },
+  {
+    "ID": 1017110,
+    "Name": "Falcon/Sam Wilson (MAA)",
+    "Description": "Recruited from S.H.I.E.L.D. by his hero and mentor Tony Stark, Falcon is the Avengers' newest and youngest recruit. Like Tony, Sam is a genius with machines and technology. What he lacks in experience, Sam makes up in enthusiasm and determination. Falcon's suit of armor comes fully stocked with holographic wings, explosive flechettes, and retractable talons."
+  },
+  {
+    "ID": 1011143,
+    "Name": "Fallen One",
+    "Description": ""
+  },
+  {
+    "ID": 1009298,
+    "Name": "Famine",
+    "Description": ""
+  },
+  {
+    "ID": 1009299,
+    "Name": "Fantastic Four",
+    "Description": "After being exposed to cosmic rays, Reed Richards, Susan Storm, Ben Grimm and Johnny Storm found they had amazing new powers. Reed Richards found he has the ability to stretch his body in any way he wanted, while Susan Storm can turn herself, objects and other people invisible. Ben Grimm transformed into a rocky, super-strong behemoth and Johnny Storm has the ability to set himself on fire. Dubbed the Fantastic Four, Mr. Fantastic, Invisible Woman, Thing and the Human Torch are Marvel's First Family."
+  },
+  {
+    "ID": 1011013,
+    "Name": "Fantastic Four (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1011111,
+    "Name": "Fantastick Four",
+    "Description": ""
+  },
+  {
+    "ID": 1009301,
+    "Name": "Fantomex",
+    "Description": ""
+  },
+  {
+    "ID": 1011233,
+    "Name": "Fat Cobra",
+    "Description": ""
+  },
+  {
+    "ID": 1009335,
+    "Name": "Felicia Hardy",
+    "Description": ""
+  },
+  {
+    "ID": 1009302,
+    "Name": "Fenris",
+    "Description": ""
+  },
+  {
+    "ID": 1011213,
+    "Name": "Feral",
+    "Description": ""
+  },
+  {
+    "ID": 1009303,
+    "Name": "Fin Fang Foom",
+    "Description": ""
+  },
+  {
+    "ID": 1010868,
+    "Name": "Firebird",
+    "Description": ""
+  },
+  {
+    "ID": 1009304,
+    "Name": "Firebrand",
+    "Description": ""
+  },
+  {
+    "ID": 1014987,
+    "Name": "Firedrake",
+    "Description": ""
+  },
+  {
+    "ID": 1009696,
+    "Name": "Viper",
+    "Description": "After the apparent death of Baron von Strucker, Viper took the name Madame Hydra and took control of the New York-based faction of Hydra."
+  },
+  {
+    "ID": 1010697,
+    "Name": "Virginia Dare",
+    "Description": ""
+  },
+  {
+    "ID": 1009697,
+    "Name": "Vision",
+    "Description": "The metal monstrosity called Ultron created the synthetic humanoid known as the Vision from the remains of the original android Human Torch of the 1940s to serve as a vehicle of vengeance against the Avengers."
+  },
+  {
+    "ID": 1009698,
+    "Name": "Vivisector",
+    "Description": ""
+  },
+  {
+    "ID": 1011011,
+    "Name": "Vulcan (Gabriel Summers)",
+    "Description": "Vulcan is the third Summers brother and an Omega-level mutant who was thought long-dead by Professor X."
+  },
+  {
+    "ID": 1009699,
+    "Name": "Vulture (Adrian Toomes)",
+    "Description": "Adrian Toomes is a former electronics engineer who employs a special harness of his own design that allows him to fly and endows him with enhanced strength."
+  },
+  {
+    "ID": 1010990,
+    "Name": "Vulture (Blackie Drago)",
+    "Description": "Adrian Toomes, the Vulture, told his cellmate, Blackie Drago, the location of his Vulture costume."
+  },
+  {
+    "ID": 1010849,
+    "Name": "Wallflower",
+    "Description": "Laurie Collins began to involuntarily manipulate anyone around her once her genetic mutation manifested, unable to control its effects."
+  },
+  {
+    "ID": 1011267,
+    "Name": "Wallop",
+    "Description": "Walter was born, presumably in the decade of 1910s, into the ClanDestine-- his father, the immortal Adam Destine and his mother a magical genie."
+  },
+  {
+    "ID": 1009700,
+    "Name": "Wallow",
+    "Description": "Max Pressman murdered his wife and attempted to murder his two children Michael and Melinda, but after police officer shot him before he could so, Pressman returned as a ghost-like entity, with only the face of Melinda's doll as his own."
+  },
+  {
+    "ID": 1009701,
+    "Name": "War (Abraham Kieros)",
+    "Description": "A young veteran wounded during the Vietnam War, Abraham Kieros was selected by Apocalypse to become the Horseman War."
+  },
+  {
+    "ID": 1017322,
+    "Name": "War Machine (Iron Man 3 - The Official Game)",
+    "Description": ""
+  },
+  {
+    "ID": 1017304,
+    "Name": "War Machine (Marvel: Avengers Alliance)",
+    "Description": ""
+  },
+  {
+    "ID": 1010991,
+    "Name": "War Machine (Parnell Jacobs)",
+    "Description": "Parnell Jacobs was a member of the U.S. Army who fought in Sin-Congese civil war in Asia alongside Jim Rhodes and who later encountered the discarded armor of Rhodes' superhero alter-ego, War Machine, which Jacobs studied used for the basis of many arms designs."
+  },
+  {
+    "ID": 1011226,
+    "Name": "War Machine (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1009703,
+    "Name": "Warbird",
+    "Description": ""
+  },
+  {
+    "ID": 1011121,
+    "Name": "Warbound",
+    "Description": ""
+  },
+  {
+    "ID": 1010372,
+    "Name": "Warhawk (Mitchell Tanner)",
+    "Description": ""
+  },
+  {
+    "ID": 1009704,
+    "Name": "Warlock (Janie Chin)",
+    "Description": "College design student Janie Chin was transformed by Adam Warlock into a female version of him, who then tried to cure the planet."
+  },
+  {
+    "ID": 1011287,
+    "Name": "Warlock (Technarchy)",
+    "Description": "The New Mutants' Warlock is an alien being from an unidentified world where the a sentient life forms are \"techno-organic\" life that resembles circuitry and machinery in various ways."
+  },
+  {
+    "ID": 1009705,
+    "Name": "Warpath",
+    "Description": "James Proudstar was once a member of Professor X's New Mutants and is currently a member of the X-Men black ops team, X-Force."
+  },
+  {
+    "ID": 1010668,
+    "Name": "Warren Worthington III",
+    "Description": ""
+  },
+  {
+    "ID": 1009706,
+    "Name": "Warstar",
+    "Description": "Warstar, a former member of the Imperial Guard, was one of eight Imperial Guardsmen chosen to battle the team of superhuman Earthling mutants known as the X-Men over the fate of Phoenix, a primal force of the cosmos that had assumed the form of the X-Man Jean Grey."
+  },
+  {
+    "ID": 1009707,
+    "Name": "Wasp",
+    "Description": "When Janet Van Dyne's father died, she convinced her father's associate Hank Pym to give her a supply of \"Pym particles\"; Pym also subjected her to a procedure which granted her the ability to, upon shrinking, grow wings and fire blasts of energy, which she called her \"wasp's stings.\""
+  },
+  {
+    "ID": 1010992,
+    "Name": "Wasp (Ultimate)",
+    "Description": "Janet Van Dyne has the ability to shrink down to the size of an insect and has the insect-like properties of her namesake, the wasp."
+  },
+  {
+    "ID": 1011133,
+    "Name": "Weapon Omega",
+    "Description": ""
+  },
+  {
+    "ID": 1009709,
+    "Name": "Weapon X",
+    "Description": ""
+  },
+  {
+    "ID": 1011402,
+    "Name": "Wendell Rand",
+    "Description": ""
+  },
+  {
+    "ID": 1010742,
+    "Name": "Wendell Vaughn",
+    "Description": ""
+  },
+  {
+    "ID": 1009710,
+    "Name": "Wendigo",
+    "Description": ""
+  },
+  {
+    "ID": 1010765,
+    "Name": "Werewolf By Night",
+    "Description": "Jack Russell inherited the curse of lycanthropy from his father, Gregor."
+  },
+  {
+    "ID": 1009711,
+    "Name": "Whiplash (Mark Scarlotti)",
+    "Description": "Filled with dreams of grandeur, Mark Scarlotti was a brilliant young man with a bright future who graduated with top honors from college and immediately had a promising job at Stark International, but it all went south, however, when he became friends with the wrong people who wanted him to develop weapons, which Scarlotti used to become the first Whiplash."
+  },
+  {
+    "ID": 1010348,
+    "Name": "Whirlwind",
+    "Description": "David Cannon was always a bully, so his mutant abilities naturally led him to a life of crime and petty thievery, until his constant defeat at the hands of the Hank Pym and the Wasp led him to create the Whirlwind identity."
+  },
+  {
+    "ID": 1010342,
+    "Name": "Whistler",
+    "Description": ""
+  },
+  {
+    "ID": 1009712,
+    "Name": "White Queen (Adrienne Frost)",
+    "Description": ""
+  },
+  {
+    "ID": 1010853,
+    "Name": "White Tiger (Angela Del Toro)",
+    "Description": "Federal agent Angela Del Toro is the heir to a heroic legacy that began with the Jade Tiger, a long-lost enchanted statue from the fabled kingdom of K'un-Lun, and had been last held by her uncle, Hector Ayala, who fought alongside such heroes as Daredevil and Spider-Man."
+  },
+  {
+    "ID": 1016838,
+    "Name": "White Tiger (USM)",
+    "Description": "White Tiger takes everything very seriously. A constant overachiever, she wants to be better and wants the group to be better. With less flashy powers, she feels like she has to work the hardest. \r\n \r\nA skilled acrobatic fighter with feline senses and claws. Ava wears a small Tiger amulet on her belt that gives her supernatural powers.\r\n\r\nIn the field, sheâ€™s constantly frustrated with Spider-Man and his irreverent attitude. But the longer the two fight side by side, the more they will understand one another."
+  },
+  {
+    "ID": 1011425,
+    "Name": "Whizzer (Stanley Stewart)",
+    "Description": "Stanley Stewart is a native of the alternate Earth (Earth-S) on which the organization of the superhuman champions known as the Squadron Supreme arose."
+  },
+  {
+    "ID": 1009714,
+    "Name": "Wiccan",
+    "Description": "Believing himself to be one of the Scarlet Witch's twin boys, Billy Kaplan also has reality-altering powers and is a member of the Young Avengers."
+  },
+  {
+    "ID": 1009715,
+    "Name": "Wild Child",
+    "Description": "Kyle Gibney's mutant powers emerged at an early age and left him with a freakish appearance, horrifying his parents, who kicked him out of the house, where he was eventually found and experimented upon by the Secret Empire and, later, Department H, who dubbed Gibney Wild Child and placed him with Gamma Flight, the entry-level team whose recruits can eventually graduate to Alpha Flight."
+  },
+  {
+    "ID": 1010994,
+    "Name": "Wild Child (Age of Apocalypse)",
+    "Description": "Kyle Gibney was one of the original volunteers for Beta Flight, Canada's attempt at building a super soldier program to secure their borders against the onslaught of Apocalypse and his Infinite soldiers."
+  },
+  {
+    "ID": 1011067,
+    "Name": "Wild Pack",
+    "Description": ""
+  },
+  {
+    "ID": 1009716,
+    "Name": "Wildside",
+    "Description": ""
+  },
+  {
+    "ID": 1009633,
+    "Name": "William Stryker",
+    "Description": "William Stryker became convinced that Satan had a plot to corrupt humankind by taking over their souls while still in the womb, resulting in their mutations."
+  },
+  {
+    "ID": 1010680,
+    "Name": "Wilson Fisk",
+    "Description": ""
+  },
+  {
+    "ID": 1011009,
+    "Name": "Wind Dancer",
+    "Description": "Given the codename Wind Dancer, Sofia Mantega stepped up to lead the New Mutants."
+  },
+  {
+    "ID": 1010740,
+    "Name": "Winter Soldier",
+    "Description": ""
+  },
+  {
+    "ID": 1011043,
+    "Name": "Wither",
+    "Description": "When his genetic mutation manifested, Kevin Ford accidentally killed his father with his lethal and uncontrollable touch, after which he was recruited as a student at the Xavier Institute."
+  },
+  {
+    "ID": 1011290,
+    "Name": "Wolf Cub",
+    "Description": "Nicholas Gleason enrolled at the Xavier Institute after being saved from a pair of mutant-haters by X-Men members Cyclops and Chamber."
+  },
+  {
+    "ID": 1011281,
+    "Name": "Wolfpack",
+    "Description": ""
+  },
+  {
+    "ID": 1009717,
+    "Name": "Wolfsbane",
+    "Description": "Rahne Sinclair was an orphan in Scotland, raised by Reverend Craig, who, when her powers manifested, attempted to perform an exorcism to cast out what he perceived was the devil, after which Rahne was rescued by Doctor Moira MacTaggert who legally adopted her, and was introduced to Charles Xavier and enrolled as part of his New Mutants training team."
+  },
+  {
+    "ID": 1010995,
+    "Name": "Wolfsbane (Age of Apocalypse)",
+    "Description": "An only child, Rahne Sinclair's mutant powers emerged during the culling of Scotland by the Apocalypse's Horseman Mikhail when her parents attempted to hide her, but failed, and Rahne was discovered by Mikhail's hounds and brought before him alongside her parents whom Mikhail made Rahne beg for their lives, making her pledge allegiance to Apocalypse."
+  },
+  {
+    "ID": 1010729,
+    "Name": "Wolver-dok",
+    "Description": ""
+  },
+  {
+    "ID": 1009718,
+    "Name": "Wolverine",
+    "Description": "Born with super-human senses and the power to heal from almost any wound, Wolverine was captured by a secret Canadian organization and given an unbreakable skeleton and claws. Treated like an animal, it took years for him to control himself. Now, he's a premiere member of both the X-Men and the Avengers."
+  },
+  {
+    "ID": 1017297,
+    "Name": "Wolverine (LEGO Marvel Super Heroes)",
+    "Description": ""
+  },
+  {
+    "ID": 1017325,
+    "Name": "Wolverine (Marvel War of Heroes)",
+    "Description": ""
+  },
+  {
+    "ID": 1011006,
+    "Name": "Wolverine (Ultimate)",
+    "Description": "Decades after participating in military airdrops with Captain America during WWII, James Howlett was abducted and experimented upon by a covert government unit, who bonded unbreakable adamantium to his skeleton, implanted three claws in each arm, dubbed him Weapon X and supposedly programmed him to kill any human he came into contact with."
+  },
+  {
+    "ID": 1017479,
+    "Name": "Wolverine (X-Men: Battle of the Atom)",
+    "Description": ""
+  },
+  {
+    "ID": 1009719,
+    "Name": "Wonder Man",
+    "Description": "Simon Williams agreed to undergo an experiment to give him superhuman powers, and Baron Zemo gave him the costumed guise of Wonder Man, warning Simon that he would die without further treatments from Zemo in order to ensure his loyalty, but Simon betrayed Zemo to the Avengers and ultimately joined their ranks."
+  },
+  {
+    "ID": 1009720,
+    "Name": "Wong",
+    "Description": "When Wong reached adulthood, the Ancient One sent him to the United States to his disciple, Doctor Stephen Strange, where has served Strange loyally and well for many years."
+  },
+  {
+    "ID": 1015005,
+    "Name": "Wong (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1010737,
+    "Name": "Wraith",
+    "Description": ""
+  },
+  {
+    "ID": 1010884,
+    "Name": "Wrecker",
+    "Description": "Dirk Garthwaite, the son of a construction worker and abusive father and husband, grew up filled with resentment and anger toward his father, who abandoned the family, and quickly turned to crime, in which he used a crowbar as a reminder of his father, destroying each place he robbed."
+  },
+  {
+    "ID": 1010883,
+    "Name": "Wrecking Crew",
+    "Description": ""
+  },
+  {
+    "ID": 1009722,
+    "Name": "X-23",
+    "Description": "A clone of the mutant Wolverine, X-23 was trained as a living weapon by a secretive government agency.  Now residing with the X-Men, she strives to recover her stolen youth and become a fully realized person."
+  },
+  {
+    "ID": 1010804,
+    "Name": "X-51",
+    "Description": ""
+  },
+  {
+    "ID": 1011418,
+    "Name": "X-Babies",
+    "Description": ""
+  },
+  {
+    "ID": 1009723,
+    "Name": "X-Cutioner",
+    "Description": ""
+  },
+  {
+    "ID": 1010738,
+    "Name": "X-Factor",
+    "Description": ""
+  },
+  {
+    "ID": 1010739,
+    "Name": "X-Factor Investigations",
+    "Description": ""
+  },
+  {
+    "ID": 1009724,
+    "Name": "X-Force",
+    "Description": ""
+  },
+  {
+    "ID": 1009725,
+    "Name": "X-Man",
+    "Description": "A clone of Nathan Summers (Cable), Nate Grey was created in the \"Age of Apocalypse\" timeline by that timeline's Mr. Sinister for the sole purpose of destroying Apocalypse."
+  },
+  {
+    "ID": 1009726,
+    "Name": "X-Men",
+    "Description": "Feared and hated by humans because they're different, the X-Men are heroic mutants, individuals born with special powers who've sworn to use their gifts to protect mutants as well as humans."
+  },
+  {
+    "ID": 1011109,
+    "Name": "X-Men (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1010875,
+    "Name": "X-Ray (James Darnell)",
+    "Description": "James Darnell, along with his sister, was among the small group led by engineer Simon Utrecht to simulate the crash that gave the Fantastic Four their powers, and has remained with the U-Foes ever since."
+  },
+  {
+    "ID": 1010806,
+    "Name": "X-Statix",
+    "Description": ""
+  },
+  {
+    "ID": 1009732,
+    "Name": "X.S.E.",
+    "Description": ""
+  },
+  {
+    "ID": 1011094,
+    "Name": "Xavin",
+    "Description": ""
+  },
+  {
+    "ID": 1009734,
+    "Name": "Xorn (Kuan-Yin Xorn)",
+    "Description": "Xorn, whose mutation manifested as a tiny, powerful star inside his head, was brainwashed into believing he was the reincarnation of Magneto."
+  },
+  {
+    "ID": 1009736,
+    "Name": "Yellow Claw",
+    "Description": "The Yellow Claw is Plan Tzu, the 19th Century descendant of and rightful successor to the legendary warlord Temujin, a.k.a. Genghis Khan."
+  },
+  {
+    "ID": 1010996,
+    "Name": "Yellowjacket (Rita DeMara)",
+    "Description": "Rita DeMara, hoping to show off her talent of engineering, stole a copy of the Yellowjacket costume from the Avengers Mansion."
+  },
+  {
+    "ID": 1010698,
+    "Name": "Young Avengers",
+    "Description": ""
+  },
+  {
+    "ID": 1011277,
+    "Name": "Young X-Men",
+    "Description": ""
+  },
+  {
+    "ID": 1009738,
+    "Name": "Zaladane",
+    "Description": ""
+  },
+  {
+    "ID": 1010841,
+    "Name": "Zaran",
+    "Description": ""
+  },
+  {
+    "ID": 1010716,
+    "Name": "Zarda",
+    "Description": ""
+  },
+  {
+    "ID": 1011163,
+    "Name": "Zarek",
+    "Description": "Zarek is a member of the Kree race with no superhuman abilities or specialized weaponry, but as a blue Kree, he has enhanced strength, stamina and durability."
+  },
+  {
+    "ID": 1009739,
+    "Name": "Zeigeist",
+    "Description": ""
+  },
+  {
+    "ID": 1010780,
+    "Name": "Zemo",
+    "Description": ""
+  },
+  {
+    "ID": 1011127,
+    "Name": "Zodiak",
+    "Description": "Twelve demons merged with Norman Harrison, who, soon after, adopted the guise of Zodiac and used his abilities to harness powers based on the astrological Zodiac."
+  },
+  {
+    "ID": 1009741,
+    "Name": "Zombie (Simon Garth)",
+    "Description": "War hero Simon Garth was turned into a zombie by his secretary, Layla, who was also a voodoo priestess, after being killed by his gardener, Gyps."
+  },
+  {
+    "ID": 1011183,
+    "Name": "Zuras",
+    "Description": "Zuras was once the leader of the Eternals."
+  },
+  {
+    "ID": 1009742,
+    "Name": "Zzzax",
+    "Description": "A chain reaction in an atomic reactor, a result of a terrorist attack, accidentally created a force that absorbed the electrolytes of the nearby humans' brains, granting the explosion of energy a rudimentary sentience.  "
+  },
+  {
+    "ID": 1011211,
+    "Name": "The Renegades",
+    "Description": ""
+  },
+  {
+    "ID": 1011110,
+    "Name": "The Santerians",
+    "Description": ""
+  },
+  {
+    "ID": 1009658,
+    "Name": "The Shiver Man",
+    "Description": ""
+  },
+  {
+    "ID": 1009659,
+    "Name": "The Spike",
+    "Description": ""
+  },
+  {
+    "ID": 1009660,
+    "Name": "The Stranger",
+    "Description": ""
+  },
+  {
+    "ID": 1011112,
+    "Name": "The Twelve",
+    "Description": ""
+  },
+  {
+    "ID": 1009661,
+    "Name": "The Watchers",
+    "Description": ""
+  },
+  {
+    "ID": 1011181,
+    "Name": "Thena",
+    "Description": "Thena, a second generation Eternal, is the eldest daughter of Zuras, leader of the Eternals of Earth, and Cybele, and although she has lived for more than 4,000 years, she is still considered a young woman by Eternal standards."
+  },
+  {
+    "ID": 1009662,
+    "Name": "Thing",
+    "Description": "The radiation that mutated Reed Richards, Sue Storm and Johnny Storm into superhuman beings had also mutated Ben Grimm, transforming him into a grotesque, rock-hided strongman dubbed the Thing."
+  },
+  {
+    "ID": 1017313,
+    "Name": "Thing (Marvel Heroes)",
+    "Description": ""
+  },
+  {
+    "ID": 1010983,
+    "Name": "Thing (Ultimate)",
+    "Description": "When the time came for Reed Richards to demonstrate his teleportation device, his old friend Ben Grimm was invited to observe, but the device malfunctioned and Ben woke up in Mexico City, transformed into a rocky, brutish Thing."
+  },
+  {
+    "ID": 1009664,
+    "Name": "Thor",
+    "Description": "As the Norse God of thunder and lightning, Thor wields one of the greatest weapons ever made, the enchanted hammer Mjolnir. While others have described Thor as an over-muscled, oafish imbecile, he's quite smart and compassionate.  He's self-assured, and he would never, ever stop fighting for a worthwhile cause."
+  },
+  {
+    "ID": 1017576,
+    "Name": "Thor (Goddess of Thunder)",
+    "Description": "<p class=\"Body\">When the Odinson lost his ability to wield Mjolnir, the role of Thor, God of Thunder, was left unoccupied&hellip;albeit for a short time. A mysterious female figure picked up the hammer with ease, changing the inscription to fit her status as the Goddess of Thunder.</p>"
+  },
+  {
+    "ID": 1017106,
+    "Name": "Thor (MAA)",
+    "Description": "Thor is the Asgardian Prince of Thunder, the son of Odin, and the realm's mightiest warrior. He loves the thrill of battle and is always eager to show off his power to the other Avengers, especially the Hulk. Thor's legendary Uru hammer, Mjolnir, gives him the power to control thunder and the ability to fly. He's found a new home on Earth and will defend it as his own... even if he doesn't understand its sayings and customs."
+  },
+  {
+    "ID": 1017315,
+    "Name": "Thor (Marvel Heroes)",
+    "Description": ""
+  },
+  {
+    "ID": 1017328,
+    "Name": "Thor (Marvel War of Heroes)",
+    "Description": ""
+  },
+  {
+    "ID": 1017302,
+    "Name": "Thor (Marvel: Avengers Alliance)",
+    "Description": ""
+  },
+  {
+    "ID": 1011025,
+    "Name": "Thor (Ultimate)",
+    "Description": "He claims he is the legendary Norse thunder deity Thor, sent to Earth by his father Odin, but official records say he is Thorlief Golmen, who stole his scientist brother Gunnar Golmen's super-soldier technology after suffering a nervous breakdown."
+  },
+  {
+    "ID": 1010820,
+    "Name": "Thor Girl",
+    "Description": "Tarene, aware of her true nature as the Designate, a being foretold to elevate all life to greatness, sought adventure and, using Thor as a template, transformed herself into an Asgardian goddess and journeyed to Earth."
+  },
+  {
+    "ID": 1010885,
+    "Name": "Thunderball",
+    "Description": "Dr. Eliot Franklin was a genius-level physicist who was forced to turn to crime and helped form the Wrecking Crew alongside the Wrecker, Bulldozer and Piledriver."
+  },
+  {
+    "ID": 1009666,
+    "Name": "Thunderbird (John Proudstar)",
+    "Description": "An exceptionally strong and vigorous athlete in his youth, John Proudstar&rsquo;s mutant abilities first manifested when he wrestled a charging bison to save a young girl."
+  },
+  {
+    "ID": 1009667,
+    "Name": "Thunderbird (Neal Shaara)",
+    "Description": "Coming from an affluent family and the son of a Calcuttan police chief, Indian national Neal Shaara has not been a follower of Charles Xavier's philosophies for long, but appears to be one of their most dedicated supporters, nonetheless."
+  },
+  {
+    "ID": 1009668,
+    "Name": "Thunderbolt (Bill Carver)",
+    "Description": ""
+  },
+  {
+    "ID": 1014812,
+    "Name": "Thunderbolt Ross",
+    "Description": ""
+  },
+  {
+    "ID": 1010360,
+    "Name": "Thunderbolts",
+    "Description": "After a battle with Onslaught left the world without the majority of the heroes that made it feel safe, Baron Zemo devised a plan like no other in order to rule the world. Zemo gathered Beetle, Fixer, Goliath, Moonstone, and Screaming Mimi, all former members of the Masters of Evil, together to disguise themselves as a new heroic team in order to take advantage of the missing heroes and gain the trust of the authorities and public in general. "
+  },
+  {
+    "ID": 1011304,
+    "Name": "Thundra",
+    "Description": "Thundra was quite possibly her world's greatest female specimens, and as she won countless battles against the men, she was revered as the Sisterhood's greatest hero."
+  },
+  {
+    "ID": 1009669,
+    "Name": "Tiger Shark",
+    "Description": "A champion Olympic swimmer, Todd Arliss earned nearly half million dollars in advances for public exhibitions, but his dreams came crashing down around him when he injured his back and legs while rescuing a man who had fallen overboard from a private craft, sending Arliss into the arms of Dr. Lemuel Dorcas, who used his \"morphotron,\" which could imprint the genetic pattern of an animal onto a human, turning Arliss into a superhuman, amphibious creature."
+  },
+  {
+    "ID": 1011237,
+    "Name": "Tiger's Beautiful Daughter",
+    "Description": ""
+  },
+  {
+    "ID": 1009670,
+    "Name": "Tigra (Greer Nelson)",
+    "Description": "Although she was able to use the cat's-head amulet to change back to her human form, Greer Nelson became so accustomed to and enamored of her feline form that she seldom made the transformation."
+  },
+  {
+    "ID": 1010857,
+    "Name": "Timeslip",
+    "Description": "As a young child, Rina Patel experienced visions of her future, though she eventually learned to control this, triggering visions of specific times, and she realized she was swapping her consciousness across time."
+  },
+  {
+    "ID": 1011345,
+    "Name": "Tinkerer",
+    "Description": "The Tinkerer is an ordinary man who has an extraordinary talent for anything mechanical."
+  },
+  {
+    "ID": 1011960,
+    "Name": "Tippy Toe",
+    "Description": "After the senseless murder of Squirrel Girl’s first partner Monkey Joe, Tippy Toe remained by Squirrel Girl’s side and became her new partner."
+  },
+  {
+    "ID": 1010669,
+    "Name": "Titania",
+    "Description": "Despondent and hopeless after it was discovered that she was not, in fact, Spider-Woman, Mary MacPherran encountered Doctor Doom, who offered her a chance to become superpowered in exchange for joining his army, to which Mary readily agreed, and Doom transformed her into Titania."
+  },
+  {
+    "ID": 1009672,
+    "Name": "Titanium Man (Topolov)",
+    "Description": ""
+  },
+  {
+    "ID": 1009673,
+    "Name": "Toad",
+    "Description": "British-born Mortimer Toynbee, abandoned by his parents so early in childhood that he cannot remember them, was placed in an orphanage where the other children, who regarded him as a freak due to his ugliness, his unusual physique and his leaping ability, continually tormented him."
+  },
+  {
+    "ID": 1009674,
+    "Name": "Toad Men",
+    "Description": ""
+  },
+  {
+    "ID": 1011166,
+    "Name": "Tomas",
+    "Description": ""
+  },
+  {
+    "ID": 1009675,
+    "Name": "Tombstone",
+    "Description": "Known as Tombstone, Lonnie Lincoln filed his teeth to points to add to his already intimidating image and honed his fighting skills in numerous street fights."
+  },
+  {
+    "ID": 1010328,
+    "Name": "Tomorrow Man",
+    "Description": ""
+  },
+  {
+    "ID": 1009624,
+    "Name": "Tony Stark",
+    "Description": ""
+  },
+  {
+    "ID": 1011309,
+    "Name": "Toro (Thomas Raymond)",
+    "Description": "As the Torch approached Toro, his presence caused Toro to burst into flame like the Torch himself, but while remaining unharmed, causing the Torch to realize that Toro had the same powers that he himself did."
+  },
+  {
+    "ID": 1009676,
+    "Name": "Toxin",
+    "Description": "NYPD Officer Patrick Mulligan was implanted with a symbiote offspring during a chance encounter with Carnage."
+  },
+  {
+    "ID": 1009692,
+    "Name": "Toxin (Eddie Brock)",
+    "Description": ""
+  },
+  {
+    "ID": 1010822,
+    "Name": "Trauma",
+    "Description": "Terrance Ward was drafted into the Initiative training program because of his telepathic and shape-shifting abilities."
+  },
+  {
+    "ID": 1010825,
+    "Name": "Triathlon",
+    "Description": "After being exposed as a steroid user and stripped of his awards, gifted sprinter Delroy Garrett Jr. sought new direction in the Triune Understanding, a philosophical movement that preaches the fulfillment of one's innate potential by balancing various aspects of environment and self, after which he developed a superhuman triple-powered physique, and, believing the Triune teachings had unlocked his latent powers, Garrett became the costumed hero Triathlon and celebrity spokesman for the Triune Understanding."
+  },
+  {
+    "ID": 1009671,
+    "Name": "Trish Tilby",
+    "Description": ""
+  },
+  {
+    "ID": 1010335,
+    "Name": "Triton",
+    "Description": "Triton is a member of the Inhumans."
+  },
+  {
+    "ID": 1011352,
+    "Name": "True Believers",
+    "Description": ""
+  },
+  {
+    "ID": 1011047,
+    "Name": "Turbo",
+    "Description": "As Turbo, young journalist Michiko Musashi is the latest in a line of heroes who have worn the turbine-powered flying armor."
+  },
+  {
+    "ID": 1009678,
+    "Name": "Tusk",
+    "Description": ""
+  },
+  {
+    "ID": 1010852,
+    "Name": "Two-Gun Kid",
+    "Description": ""
+  },
+  {
+    "ID": 1009679,
+    "Name": "Tyger Tiger",
+    "Description": ""
+  },
+  {
+    "ID": 1010369,
+    "Name": "Typhoid Mary",
+    "Description": "Typhoid Mary, an enemy and former lover of Daredevil with psionic powers, including telekinesis, is also truly gravely mentally ill and not entirely responsible for her actions."
+  },
+  {
+    "ID": 1009680,
+    "Name": "Tyrannus",
+    "Description": ""
+  },
+  {
+    "ID": 1011315,
+    "Name": "U-Foes",
+    "Description": ""
+  },
+  {
+    "ID": 1009681,
+    "Name": "U-Go Girl",
+    "Description": "After a failed attempt at starting an acting career, Edie Sawyer turned to a life of crime until she learned of a new media savvy team of superhuman mutants named X-Force, and she decided to become a superhero."
+  },
+  {
+    "ID": 1009682,
+    "Name": "U.S. Agent",
+    "Description": "With the end of the Vietnam War, John Walker thought his dreams of becoming a war hero had also ended, until he learned of the Power Broker, who could give anyone superhuman powers, which Walker used to first become Super-Patriot and later, U.S. Agent."
+  },
+  {
+    "ID": 1009683,
+    "Name": "Uatu The Watcher",
+    "Description": "Uatu grew so fond of the lifeforms he observed that he occasionally violated his vow of non-interference when Earth's existence was threatened."
+  },
+  {
+    "ID": 1010358,
+    "Name": "Ulik",
+    "Description": "Ulik was a Rock Troll from the realm known as Nornheim, located underground within the dimension of Asgard."
+  },
+  {
+    "ID": 1016825,
+    "Name": "Ultimate Spider-Man (USM)",
+    "Description": "For the past year, Peter Parker has been saving New York City from villains as the masked hero, Spider-Man. Facing thugs and evil geniuses alike, he learns how to balance heroics with homework and friends. Despite being a Super Hero, Peter is very much an average 16-year-old.  With the added responsibilities of being Spider-Man, juggling all the aspects of his life will continually challenge him.                                                                 \r\n\r\nWhen S.H.I.E.L.D. Director, Nick Fury, offers Peter the chance to raise his game and become THE ULTIMATE SPIDER-MAN, Midtown High becomes a secret operations base for Spider-Man and other young heroes under the watchful eye of Fury and the schoolâ€™s new principal, Agent Coulson. "
+  },
+  {
+    "ID": 1010803,
+    "Name": "Ultimates",
+    "Description": ""
+  },
+  {
+    "ID": 1009684,
+    "Name": "Ultimatum",
+    "Description": ""
+  },
+  {
+    "ID": 1011311,
+    "Name": "Ultimo",
+    "Description": "Ultimo was a robotic construct that was developed several thousand years ago on an unknown world, which the Mandarin eventually discovered and claimed as his own creation."
+  },
+  {
+    "ID": 1011125,
+    "Name": "Ultra-Adaptoid",
+    "Description": ""
+  },
+  {
+    "ID": 1010847,
+    "Name": "Ultragirl (Earth-93060)",
+    "Description": ""
+  },
+  {
+    "ID": 1009685,
+    "Name": "Ultron",
+    "Description": "Arguably the greatest and certainly the most horrific creation of scientific genius Dr. Henry Pym, Ultron is a criminally insane rogue sentient robot dedicated to conquest and the extermination of humanity."
+  },
+  {
+    "ID": 1009686,
+    "Name": "Umar",
+    "Description": "Umar and her sibling Dormammu gathered matter to themselves to increase their power, a practice anathema to their fellow Faltine who consider energy to be superior to matter."
+  },
+  {
+    "ID": 1010862,
+    "Name": "Unicorn",
+    "Description": "Milos Masaryk, a Soviet intelligence agent assigned as a security guard for Anton Vanko, a Soviet inventor who developed the Crimson Dynamo armor, was tasked by the Soviet government to retrieve Vanko after he defected to the United States."
+  },
+  {
+    "ID": 1010985,
+    "Name": "Union Jack (Brian Falsworth)",
+    "Description": "Imprisoned in Germany during WWII, Brian Falsworth shared a cell with a German scientist who had tried to recreate the super-soldier serum, but didn't want it to fall into Nazi hands, so he gave his only sample to Brian, who gained enhanced strength, speed, stamina and reflexes."
+  },
+  {
+    "ID": 1010696,
+    "Name": "Union Jack (Joseph Chapman)",
+    "Description": "Joey Chapman, the new Union Jack continued to fight evil, both alone and as a member of the Knights of Pendragon and the new Invaders."
+  },
+  {
+    "ID": 1010984,
+    "Name": "Union Jack (Montgomery Falsworth)",
+    "Description": "During World War I, Lord Montgomery Falsworth was recruited by the British army to become one of the first public superhero champions: Union Jack."
+  },
+  {
+    "ID": 1009687,
+    "Name": "Unus",
+    "Description": "Angelo Unuscione is a mutant whose powers did not surface until adolescence, when he first used them as a school bully and later as a small time criminal before immigrating to America and using his ability to create a virtually impenetrable force field around himself to launch a career as a flamboyant, invincible costumed wrestler known by the stage name of Unus the Untouchable."
+  },
+  {
+    "ID": 1010987,
+    "Name": "Unus (Age of Apocalypse)",
+    "Description": "Unus worked for Apocalypse and was sent into Old New York City to search for any remaining humans there and to kill them."
+  },
+  {
+    "ID": 1010988,
+    "Name": "Unus (House of M)",
+    "Description": "Unus is an agent for the House of M royal family."
+  },
+  {
+    "ID": 1010986,
+    "Name": "Unus (Ultimate)",
+    "Description": "Unus worked with the Brotherhood of Mutants and with Magneto directly, projecting Magneto's image to allow him to converse with Charles Xavier without a face-to-face meeting."
+  },
+  {
+    "ID": 1009525,
+    "Name": "Valeria Richards",
+    "Description": ""
+  },
+  {
+    "ID": 1010350,
+    "Name": "Valkyrie (Samantha Parrington)",
+    "Description": "Amora magically transformed Samantha Parrington into a raging, man-hating facsimile of the Asgardian warrior goddess Brunnhilde the Valkyrie, whose form and might Amora could replicate at will, having trapped Brunnhilde's soul in a mystical crystal centuries earlier."
+  },
+  {
+    "ID": 1011239,
+    "Name": "Valkyrie (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1011182,
+    "Name": "Vampiro",
+    "Description": "Vampiro, part of the race known as the Eternals, lived on Earth for many years, eventually taking a wife and making a career for himself as a professional wrestler."
+  },
+  {
+    "ID": 1011342,
+    "Name": "Vance Astro",
+    "Description": ""
+  },
+  {
+    "ID": 1010989,
+    "Name": "Vanisher (Age of Apocalypse)",
+    "Description": "Vanisher worked for Apocalypse."
+  },
+  {
+    "ID": 1011365,
+    "Name": "Vanisher (Telford Porter)",
+    "Description": "Nothing is known about the Vanisher's past before he embarked on a one-man crime wave of spectacular thefts using his power of self-teleportation."
+  },
+  {
+    "ID": 1009689,
+    "Name": "Vanisher (Ultimate)",
+    "Description": "Vanisher is a mutant with the power to teleport himself and possibly others across an undefined amount of distance who was recruited by Magneto into his Brotherhood of Mutants."
+  },
+  {
+    "ID": 1011316,
+    "Name": "Vapor",
+    "Description": "Vapor, along with her brother, was among the small group led by Simon Utrecht to simulate the crash that gave the Fantastic Four their powers, and has remained with the U-Foes ever since."
+  },
+  {
+    "ID": 1009690,
+    "Name": "Vargas",
+    "Description": "Vargas claimed that mutants are deviations from the norm, an evolutionary dead end nature explored until it found the true path for the next step in mutant kinds development, the legitimate Homo Sapiens Superior, namely, himself."
+  },
+  {
+    "ID": 1010872,
+    "Name": "Vector",
+    "Description": "Simon Utrecht wanted superhuman powers in order to persue personal power and gain, and commissioned a project that would ultimately simulate the crash that gave the Fantastic Four their powers; he has remained with the U-Foes ever since."
+  },
+  {
+    "ID": 1011231,
+    "Name": "Veda",
+    "Description": "Magdalena Marie Neuntauben became an accomplished martial artist, then a model, and later an actress, from which she donated all of her proceeds to her charity, which made her a prime candidate for recruitment into the Order."
+  },
+  {
+    "ID": 1009691,
+    "Name": "Vengeance (Michael Badilino)",
+    "Description": "Michael Badilino became consumed with gaining vengeance on Ghost Rider for what happened to his family, and the demon Mephisto granted him the power with which to do so, transforming him into Vengeance."
+  },
+  {
+    "ID": 1009663,
+    "Name": "Venom (Flash Thompson)",
+    "Description": "Flash Thompson was the high school bully of Peter Parker while also being one of Spider-Man's biggest fans. After losing his legs during military service, he became the new Venom, working as an operative of the United States government."
+  },
+  {
+    "ID": 1010788,
+    "Name": "Venom (Mac Gargan)",
+    "Description": "One of Spider-Man's oldest enemies, Mac Gargan has recently abandoned his Scorpion suit and identity and bonded with the alien symbiote that had previously been hosted by Peter Parker and Eddie Brock, becoming the new Venom."
+  },
+  {
+    "ID": 1011128,
+    "Name": "Venom (Ultimate)",
+    "Description": "While Eddie Brock’s academic career seemed to take off, his personal life was in shambles due to his quick temper and inability to connect with women on any level, and Eddie became isolated, but when his old friend Peter Parker contacted him, he felt a rush of enthusiasm: here, at last, was someone with whom he could truly bond."
+  },
+  {
+    "ID": 1011106,
+    "Name": "Venus (Siren)",
+    "Description": "During her time as an adventurer, Venus was approached by FBI agent Jimmy Woo, and she agreed to join Jimmy and his allies in freeing President Eisenhower from the clutches of the Yellow Claw."
+  },
+  {
+    "ID": 1009693,
+    "Name": "Venus Dee Milo",
+    "Description": "When Dee Milo was a teenager, her mutant powers manifested, transforming her into a being of energy and seemingly killing her entire family in the resultant explosion, after which she was found by Professor Charles Xavier, mutant mentor and researcher, and Xavier designed a special containment suit that helped her regain some level of humanity."
+  },
+  {
+    "ID": 1010353,
+    "Name": "Vermin (Edward Whelan)",
+    "Description": "Edward Whelan was found roaming the streets of New York by Baron Helmut Zemo, who subjected Whelan to Zemo's genetic experiments, which granted him superhuman strength, but, in the process of the mutation, he manifested a rat-like physical appearance, and was called Vermin."
+  },
+  {
+    "ID": 1009694,
+    "Name": "Vertigo (Savage Land Mutate)",
+    "Description": "Vertigo was a native of the Savage Land and mutated by the mutant known as Magneto, granting her the power to alter the perceptions of others."
+  },
+  {
+    "ID": 1011066,
+    "Name": "Victor Mancha",
+    "Description": ""
+  },
+  {
+    "ID": 1010324,
+    "Name": "Victor Von Doom",
+    "Description": ""
+  },
+  {
+    "ID": 1011261,
+    "Name": "Vin Gonzales",
+    "Description": ""
+  },
+  {
+    "ID": 1009695,
+    "Name": "Vindicator",
+    "Description": "Heather McNeil-Hudson married James Hudson, founder of Canadian super-team, Alpha Flight, and donned a version of his Vindicator armor after his death."
+  },
+  {
+    "ID": 1010666,
+    "Name": "Violations",
+    "Description": ""
+  },
+  {
+    "ID": 1011097,
+    "Name": "Captain Marvel (Phyla-Vell)",
+    "Description": ""
+  },
+  {
+    "ID": 1011355,
+    "Name": "Captain Midlands",
+    "Description": ""
+  },
+  {
+    "ID": 1009225,
+    "Name": "Captain Stacy",
+    "Description": "NYPD Captain George Stacy was the father of one-time Peter Parker girlfriend Gwen Stacy."
+  },
+  {
+    "ID": 1011027,
+    "Name": "Captain Universe",
+    "Description": ""
+  },
+  {
+    "ID": 1011052,
+    "Name": "Cardiac",
+    "Description": ""
+  },
+  {
+    "ID": 1010143,
+    "Name": "Caretaker",
+    "Description": ""
+  },
+  {
+    "ID": 1009226,
+    "Name": "Cargill",
+    "Description": ""
+  },
+  {
+    "ID": 1011258,
+    "Name": "Carlie Cooper",
+    "Description": ""
+  },
+  {
+    "ID": 1009688,
+    "Name": "Carmella Unuscione",
+    "Description": "Carmella Unuscione was one of the first members of the Magneto's Acolytes."
+  },
+  {
+    "ID": 1009227,
+    "Name": "Carnage",
+    "Description": ""
+  },
+  {
+    "ID": 1010916,
+    "Name": "Carnage (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1009261,
+    "Name": "Carol Danvers",
+    "Description": ""
+  },
+  {
+    "ID": 1009344,
+    "Name": "Carol Hines",
+    "Description": ""
+  },
+  {
+    "ID": 1009478,
+    "Name": "Cassandra Nova",
+    "Description": ""
+  },
+  {
+    "ID": 1009230,
+    "Name": "Catseye",
+    "Description": ""
+  },
+  {
+    "ID": 1009536,
+    "Name": "Cecilia Reyes",
+    "Description": ""
+  },
+  {
+    "ID": 1010813,
+    "Name": "Celestials",
+    "Description": ""
+  },
+  {
+    "ID": 1011039,
+    "Name": "Centennial",
+    "Description": ""
+  },
+  {
+    "ID": 1011140,
+    "Name": "Centurions",
+    "Description": ""
+  },
+  {
+    "ID": 1009231,
+    "Name": "Cerebro",
+    "Description": ""
+  },
+  {
+    "ID": 1011141,
+    "Name": "Cerise",
+    "Description": ""
+  },
+  {
+    "ID": 1009232,
+    "Name": "Ch'od",
+    "Description": ""
+  },
+  {
+    "ID": 1009233,
+    "Name": "Chamber",
+    "Description": ""
+  },
+  {
+    "ID": 1009234,
+    "Name": "Chameleon",
+    "Description": ""
+  },
+  {
+    "ID": 1010756,
+    "Name": "Champions",
+    "Description": ""
+  },
+  {
+    "ID": 1011015,
+    "Name": "Changeling",
+    "Description": ""
+  },
+  {
+    "ID": 1009733,
+    "Name": "Charles Xavier",
+    "Description": ""
+  },
+  {
+    "ID": 1011331,
+    "Name": "Charlie Campion",
+    "Description": ""
+  },
+  {
+    "ID": 1010754,
+    "Name": "Chase Stein",
+    "Description": "Chase Stein is the son of mad scientists Victor and Janet Stein and is the tech genius of the Runaways."
+  },
+  {
+    "ID": 1011359,
+    "Name": "Chat",
+    "Description": ""
+  },
+  {
+    "ID": 1009237,
+    "Name": "Chimera",
+    "Description": ""
+  },
+  {
+    "ID": 1011411,
+    "Name": "Chores MacGillicudy",
+    "Description": ""
+  },
+  {
+    "ID": 1011187,
+    "Name": "Christian Walker",
+    "Description": ""
+  },
+  {
+    "ID": 1009238,
+    "Name": "Chronomancer",
+    "Description": ""
+  },
+  {
+    "ID": 1011270,
+    "Name": "ClanDestine",
+    "Description": ""
+  },
+  {
+    "ID": 1009239,
+    "Name": "Clea",
+    "Description": ""
+  },
+  {
+    "ID": 1014999,
+    "Name": "Clea (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1010809,
+    "Name": "Clint Barton",
+    "Description": ""
+  },
+  {
+    "ID": 1009241,
+    "Name": "Cloak",
+    "Description": ""
+  },
+  {
+    "ID": 1010823,
+    "Name": "Cloud 9",
+    "Description": ""
+  },
+  {
+    "ID": 1011286,
+    "Name": "Cobalt Man",
+    "Description": ""
+  },
+  {
+    "ID": 1010676,
+    "Name": "Colleen Wing",
+    "Description": "Colleen Wing was raised in Japan by her grandfather Kanji Ozawa, who taught her the ways of a samurai, in which she became highly skilled, after which she teamed up with Misty Knight at the behest of Tony Stark as a new Heroes for Hire tasked with capturing superhumans who have not registered."
+  },
+  {
+    "ID": 1010798,
+    "Name": "Colonel America",
+    "Description": ""
+  },
+  {
+    "ID": 1009243,
+    "Name": "Colossus",
+    "Description": ""
+  },
+  {
+    "ID": 1010917,
+    "Name": "Colossus (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1011410,
+    "Name": "Confederates of the Curious",
+    "Description": ""
+  },
+  {
+    "ID": 1009245,
+    "Name": "Constrictor",
+    "Description": ""
+  },
+  {
+    "ID": 1011407,
+    "Name": "Contessa (Vera Vidal)",
+    "Description": ""
+  },
+  {
+    "ID": 1010346,
+    "Name": "Controller",
+    "Description": ""
+  },
+  {
+    "ID": 1009246,
+    "Name": "Cornelius",
+    "Description": ""
+  },
+  {
+    "ID": 1009247,
+    "Name": "Corsair",
+    "Description": ""
+  },
+  {
+    "ID": 1011353,
+    "Name": "Cosmo (dog)",
+    "Description": ""
+  },
+  {
+    "ID": 1011362,
+    "Name": "Cottonmouth",
+    "Description": ""
+  },
+  {
+    "ID": 1009249,
+    "Name": "Count Nefaria",
+    "Description": ""
+  },
+  {
+    "ID": 1009250,
+    "Name": "Countess",
+    "Description": ""
+  },
+  {
+    "ID": 1011272,
+    "Name": "Crimson Crusader",
+    "Description": ""
+  },
+  {
+    "ID": 1009251,
+    "Name": "Crimson Dynamo",
+    "Description": ""
+  },
+  {
+    "ID": 1017323,
+    "Name": "Crimson Dynamo (Iron Man 3 - The Official Game)",
+    "Description": ""
+  },
+  {
+    "ID": 1011169,
+    "Name": "Crimson King",
+    "Description": ""
+  },
+  {
+    "ID": 1009252,
+    "Name": "Crossbones",
+    "Description": ""
+  },
+  {
+    "ID": 1009253,
+    "Name": "Crule",
+    "Description": ""
+  },
+  {
+    "ID": 1009254,
+    "Name": "Crusher Hogan",
+    "Description": ""
+  },
+  {
+    "ID": 1014991,
+    "Name": "Crusher Hogan (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1009255,
+    "Name": "Crystal",
+    "Description": ""
+  },
+  {
+    "ID": 1011268,
+    "Name": "Cuckoo",
+    "Description": ""
+  },
+  {
+    "ID": 1009244,
+    "Name": "Curt Conners",
+    "Description": ""
+  },
+  {
+    "ID": 1011174,
+    "Name": "Cuthbert",
+    "Description": ""
+  },
+  {
+    "ID": 1009256,
+    "Name": "Cyber",
+    "Description": ""
+  },
+  {
+    "ID": 1009257,
+    "Name": "Cyclops",
+    "Description": ""
+  },
+  {
+    "ID": 1010918,
+    "Name": "Cyclops (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1017473,
+    "Name": "Cyclops (X-Men: Battle of the Atom)",
+    "Description": ""
+  },
+  {
+    "ID": 1011385,
+    "Name": "Cypher",
+    "Description": ""
+  },
+  {
+    "ID": 1011050,
+    "Name": "D'Ken Neramani",
+    "Description": ""
+  },
+  {
+    "ID": 1009258,
+    "Name": "Dagger",
+    "Description": ""
+  },
+  {
+    "ID": 1010774,
+    "Name": "Daily Bugle",
+    "Description": ""
+  },
+  {
+    "ID": 1010719,
+    "Name": "Daimon Hellstrom",
+    "Description": ""
+  },
+  {
+    "ID": 1011001,
+    "Name": "Daken",
+    "Description": ""
+  },
+  {
+    "ID": 1011333,
+    "Name": "Dakota North",
+    "Description": ""
+  },
+  {
+    "ID": 1009259,
+    "Name": "Damage Control",
+    "Description": ""
+  },
+  {
+    "ID": 1009453,
+    "Name": "Dani Moonstar",
+    "Description": ""
+  },
+  {
+    "ID": 1010776,
+    "Name": "Danny Rand",
+    "Description": ""
+  },
+  {
+    "ID": 1009262,
+    "Name": "Daredevil",
+    "Description": "Abandoned by his mother, Matt Murdock was raised by his father, boxer \"Battling Jack\" Murdock, in Hell's Kitchen. Realizing that rules were needed to prevent people from behaving badly, young Matt decided to study law; however, when he saved a man from an oncoming truck, it spilled a radioactive cargo that rendered Matt blind while enhancing his remaining senses. Under the harsh tutelage of blind martial arts master Stick, Matt mastered his heightened senses and became a formidable fighter."
+  },
+  {
+    "ID": 1017292,
+    "Name": "Daredevil (LEGO Marvel Super Heroes)",
+    "Description": ""
+  },
+  {
+    "ID": 1017312,
+    "Name": "Daredevil (Marvel Heroes)",
+    "Description": ""
+  },
+  {
+    "ID": 1010919,
+    "Name": "Daredevil (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1011306,
+    "Name": "Dargo Ktor",
+    "Description": ""
+  },
+  {
+    "ID": 1011367,
+    "Name": "Dark Avengers",
+    "Description": ""
+  },
+  {
+    "ID": 1010907,
+    "Name": "Dark Beast",
+    "Description": ""
+  },
+  {
+    "ID": 1009265,
+    "Name": "Dark Phoenix",
+    "Description": ""
+  },
+  {
+    "ID": 1011387,
+    "Name": "Dark X-Men",
+    "Description": ""
+  },
+  {
+    "ID": 1011020,
+    "Name": "Darkhawk",
+    "Description": ""
+  },
+  {
+    "ID": 1009266,
+    "Name": "Darkstar",
+    "Description": ""
+  },
+  {
+    "ID": 1011016,
+    "Name": "Darwin",
+    "Description": ""
+  },
+  {
+    "ID": 1009267,
+    "Name": "Dazzler",
+    "Description": ""
+  },
+  {
+    "ID": 1010920,
+    "Name": "Dazzler (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1010341,
+    "Name": "Deacon Frost",
+    "Description": ""
+  },
+  {
+    "ID": 1011087,
+    "Name": "Dead Girl",
+    "Description": ""
+  },
+  {
+    "ID": 1009268,
+    "Name": "Deadpool",
+    "Description": ""
+  },
+  {
+    "ID": 1017316,
+    "Name": "Deadpool (Deadpool)",
+    "Description": ""
+  },
+  {
+    "ID": 1017336,
+    "Name": "Deadpool (LEGO Marvel Super Heroes)",
+    "Description": ""
+  },
+  {
+    "ID": 1010363,
+    "Name": "Logan",
+    "Description": ""
+  },
+  {
+    "ID": 1009407,
+    "Name": "Loki",
+    "Description": ""
+  },
+  {
+    "ID": 1017299,
+    "Name": "Loki (LEGO Marvel Super Heroes)",
+    "Description": ""
+  },
+  {
+    "ID": 1010768,
+    "Name": "Loners",
+    "Description": ""
+  },
+  {
+    "ID": 1009408,
+    "Name": "Longshot",
+    "Description": ""
+  },
+  {
+    "ID": 1010940,
+    "Name": "Longshot (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1011145,
+    "Name": "Lord Hawal",
+    "Description": ""
+  },
+  {
+    "ID": 1014980,
+    "Name": "Lord Tyger",
+    "Description": ""
+  },
+  {
+    "ID": 1011283,
+    "Name": "Lords of Avalon",
+    "Description": ""
+  },
+  {
+    "ID": 1009260,
+    "Name": "Lorna Dane",
+    "Description": ""
+  },
+  {
+    "ID": 1009409,
+    "Name": "Luckman",
+    "Description": ""
+  },
+  {
+    "ID": 1011405,
+    "Name": "Lucky Pierre",
+    "Description": ""
+  },
+  {
+    "ID": 1010751,
+    "Name": "Lucy in the Sky",
+    "Description": ""
+  },
+  {
+    "ID": 1009215,
+    "Name": "Luke Cage",
+    "Description": ""
+  },
+  {
+    "ID": 1011200,
+    "Name": "Luminals",
+    "Description": ""
+  },
+  {
+    "ID": 1010896,
+    "Name": "Lyja",
+    "Description": ""
+  },
+  {
+    "ID": 1011068,
+    "Name": "M (Monet St. Croix)",
+    "Description": ""
+  },
+  {
+    "ID": 1011004,
+    "Name": "M.O.D.A.M.",
+    "Description": ""
+  },
+  {
+    "ID": 1011320,
+    "Name": "M.O.D.O.G.",
+    "Description": ""
+  },
+  {
+    "ID": 1010726,
+    "Name": "M.O.D.O.K.",
+    "Description": ""
+  },
+  {
+    "ID": 1017321,
+    "Name": "M.O.D.O.K. (Iron Man 3 - The Official Game)",
+    "Description": ""
+  },
+  {
+    "ID": 1009418,
+    "Name": "Ma Gnuci",
+    "Description": ""
+  },
+  {
+    "ID": 1009314,
+    "Name": "Mac Gargan",
+    "Description": ""
+  },
+  {
+    "ID": 1010851,
+    "Name": "Mach IV",
+    "Description": ""
+  },
+  {
+    "ID": 1010805,
+    "Name": "Machine Man",
+    "Description": ""
+  },
+  {
+    "ID": 1009411,
+    "Name": "Mad Thinker",
+    "Description": ""
+  },
+  {
+    "ID": 1009412,
+    "Name": "Madame Hydra",
+    "Description": ""
+  },
+  {
+    "ID": 1010352,
+    "Name": "Madame Masque",
+    "Description": ""
+  },
+  {
+    "ID": 1010796,
+    "Name": "Madame Web (Julia Carpenter)",
+    "Description": ""
+  },
+  {
+    "ID": 1010724,
+    "Name": "Maddog",
+    "Description": ""
+  },
+  {
+    "ID": 1009509,
+    "Name": "Madelyne Pryor",
+    "Description": ""
+  },
+  {
+    "ID": 1011205,
+    "Name": "Madripoor",
+    "Description": ""
+  },
+  {
+    "ID": 1009413,
+    "Name": "Madrox",
+    "Description": ""
+  },
+  {
+    "ID": 1011053,
+    "Name": "Maelstrom",
+    "Description": ""
+  },
+  {
+    "ID": 1011328,
+    "Name": "Maestro",
+    "Description": ""
+  },
+  {
+    "ID": 1010867,
+    "Name": "Magdalene",
+    "Description": ""
+  },
+  {
+    "ID": 1009414,
+    "Name": "Maggott",
+    "Description": ""
+  },
+  {
+    "ID": 1010942,
+    "Name": "Magik (Amanda Sefton)",
+    "Description": ""
+  },
+  {
+    "ID": 1009415,
+    "Name": "Magik (Illyana Rasputin)",
+    "Description": ""
+  },
+  {
+    "ID": 1011135,
+    "Name": "Maginty",
+    "Description": ""
+  },
+  {
+    "ID": 1009416,
+    "Name": "Magma (Amara Aquilla)",
+    "Description": ""
+  },
+  {
+    "ID": 1009417,
+    "Name": "Magneto",
+    "Description": ""
+  },
+  {
+    "ID": 1010944,
+    "Name": "Magneto (Age of Apocalypse)",
+    "Description": ""
+  },
+  {
+    "ID": 1010945,
+    "Name": "Magneto (House of M)",
+    "Description": ""
+  },
+  {
+    "ID": 1010943,
+    "Name": "Magneto (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1017477,
+    "Name": "Magneto (X-Men: Battle of the Atom)",
+    "Description": ""
+  },
+  {
+    "ID": 1010904,
+    "Name": "Magus (Adam Warlock)",
+    "Description": ""
+  },
+  {
+    "ID": 1011364,
+    "Name": "Magus (Technarch)",
+    "Description": ""
+  },
+  {
+    "ID": 1011085,
+    "Name": "Major Mapleleaf",
+    "Description": ""
+  },
+  {
+    "ID": 1010725,
+    "Name": "Makkari",
+    "Description": ""
+  },
+  {
+    "ID": 1009242,
+    "Name": "Malcolm Colcord",
+    "Description": ""
+  },
+  {
+    "ID": 1011229,
+    "Name": "Malice (Earth-161)",
+    "Description": ""
+  },
+  {
+    "ID": 1009420,
+    "Name": "Man-Thing",
+    "Description": ""
+  },
+  {
+    "ID": 1010811,
+    "Name": "Man-Wolf",
+    "Description": ""
+  },
+  {
+    "ID": 1009421,
+    "Name": "Mandarin",
+    "Description": ""
+  },
+  {
+    "ID": 1011243,
+    "Name": "Mandrill",
+    "Description": ""
+  },
+  {
+    "ID": 1009422,
+    "Name": "Mandroid",
+    "Description": ""
+  },
+  {
+    "ID": 1009423,
+    "Name": "Manta",
+    "Description": ""
+  },
+  {
+    "ID": 1011026,
+    "Name": "Mantis",
+    "Description": ""
+  },
+  {
+    "ID": 1009424,
+    "Name": "Marauders",
+    "Description": ""
+  },
+  {
+    "ID": 1015018,
+    "Name": "Marcus Van Sciver",
+    "Description": ""
+  },
+  {
+    "ID": 1011335,
+    "Name": "Maria Hill",
+    "Description": ""
+  },
+  {
+    "ID": 1009735,
+    "Name": "Mariko Yashida",
+    "Description": "Mariko Yashida was the daughter of Japanese crimelord Lord Shingen, leader of Clan Yashida, and one-time fiance of Wolverine."
+  },
+  {
+    "ID": 1009425,
+    "Name": "Marrow",
+    "Description": ""
+  },
+  {
+    "ID": 1011173,
+    "Name": "Marten Broadcloak",
+    "Description": ""
+  },
+  {
+    "ID": 1011263,
+    "Name": "Martin Li",
+    "Description": ""
+  },
+  {
+    "ID": 1011350,
+    "Name": "Marvel Apes",
+    "Description": ""
+  },
+  {
+    "ID": 1009427,
+    "Name": "Marvel Boy",
+    "Description": ""
+  },
+  {
+    "ID": 1011002,
+    "Name": "Marvel Zombies",
+    "Description": ""
+  },
+  {
+    "ID": 1011417,
+    "Name": "Marvex",
+    "Description": ""
+  },
+  {
+    "ID": 1009708,
+    "Name": "Mary Jane Watson",
+    "Description": "Mary Jane Watson was the guiding light in Peter Parker's life, and their love had overcome countless obstacles."
+  },
+  {
+    "ID": 1010993,
+    "Name": "Mary Jane Watson (House of M)",
+    "Description": "Mary Jane Watson always wanted to be an actress, but all the roles seemed to go to mutants, until her former high school friend, and world famous performer, Peter Parker asked her to play his love interest in his newest movie, upon the release of which made her America's sweetheart and one of the only human movies stars able to launch her own solo projects."
+  },
+  {
+    "ID": 1011203,
+    "Name": "Mary Jane Watson (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1010869,
+    "Name": "Masked Marvel (Unrevealed)",
+    "Description": ""
+  },
+  {
+    "ID": 1010367,
+    "Name": "Masque",
+    "Description": ""
+  },
+  {
+    "ID": 1010732,
+    "Name": "Master Chief",
+    "Description": ""
+  },
+  {
+    "ID": 1009433,
+    "Name": "Master Mold",
+    "Description": ""
+  },
+  {
+    "ID": 1009434,
+    "Name": "Mastermind",
+    "Description": ""
+  },
+  {
+    "ID": 1011279,
+    "Name": "Masters of Evil",
+    "Description": ""
+  },
+  {
+    "ID": 1010877,
+    "Name": "Mathemanic",
+    "Description": ""
+  },
+  {
+    "ID": 1009677,
+    "Name": "Matsu'o Tsurayaba",
+    "Description": "Tsurayaba became leader of a faction of the ninja clan the Hand, finding himself at odds with his lover Kwannon who was an assassin for rival crimelord Nyoirin."
+  },
+  {
+    "ID": 1009463,
+    "Name": "Matthew Murdock",
+    "Description": ""
+  },
+  {
+    "ID": 1010793,
+    "Name": "Mattie Franklin",
+    "Description": ""
+  },
+  {
+    "ID": 1009436,
+    "Name": "Mauler",
+    "Description": ""
+  },
+  {
+    "ID": 1010947,
+    "Name": "Maverick (Chris Bradley)",
+    "Description": ""
+  },
+  {
+    "ID": 1009437,
+    "Name": "Maverick (Christoph Nord)",
+    "Description": ""
+  },
+  {
+    "ID": 1011305,
+    "Name": "Maximus",
+    "Description": ""
+  },
+  {
+    "ID": 1009490,
+    "Name": "May Parker",
+    "Description": ""
+  },
+  {
+    "ID": 1009438,
+    "Name": "Medusa",
+    "Description": ""
+  },
+  {
+    "ID": 1011399,
+    "Name": "Meggan",
+    "Description": ""
+  },
+  {
+    "ID": 1009439,
+    "Name": "Meltdown",
+    "Description": "When Tabitha Smith's mutant nature manifested at age 13, she ran away from her abusive home before eventually hooking up with the New Mutants and, subsequently, X-Force."
+  },
+  {
+    "ID": 1011241,
+    "Name": "Menace",
+    "Description": ""
+  },
+  {
+    "ID": 1011099,
+    "Name": "Mentallo",
+    "Description": ""
+  },
+  {
+    "ID": 1011184,
+    "Name": "Mentor",
+    "Description": ""
+  },
+  {
+    "ID": 1009440,
+    "Name": "Mephisto",
+    "Description": ""
+  },
+  {
+    "ID": 1009441,
+    "Name": "Mephistopheles",
+    "Description": ""
+  },
+  {
+    "ID": 1010681,
+    "Name": "Mercury",
+    "Description": ""
+  },
+  {
+    "ID": 1009442,
+    "Name": "Mesmero",
+    "Description": ""
+  },
+  {
+    "ID": 1009443,
+    "Name": "Metal Master",
+    "Description": ""
+  },
+  {
+    "ID": 1010361,
+    "Name": "Meteorite",
+    "Description": ""
+  },
+  {
+    "ID": 1011191,
+    "Name": "Queen Noir",
+    "Description": ""
+  },
+  {
+    "ID": 1009387,
+    "Name": "Quentin Quire",
+    "Description": ""
+  },
+  {
+    "ID": 1009524,
+    "Name": "Quicksilver",
+    "Description": ""
+  },
+  {
+    "ID": 1010964,
+    "Name": "Quicksilver (Age of Apocalypse)",
+    "Description": ""
+  },
+  {
+    "ID": 1010963,
+    "Name": "Quicksilver (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1009430,
+    "Name": "Rachel Grey",
+    "Description": ""
+  },
+  {
+    "ID": 1009526,
+    "Name": "Radioactive Man",
+    "Description": ""
+  },
+  {
+    "ID": 1011280,
+    "Name": "Rafael Vega",
+    "Description": ""
+  },
+  {
+    "ID": 1010817,
+    "Name": "Rage",
+    "Description": ""
+  },
+  {
+    "ID": 1009527,
+    "Name": "Raider",
+    "Description": ""
+  },
+  {
+    "ID": 1009528,
+    "Name": "Randall",
+    "Description": ""
+  },
+  {
+    "ID": 1011326,
+    "Name": "Randall Flagg",
+    "Description": ""
+  },
+  {
+    "ID": 1010767,
+    "Name": "Random",
+    "Description": ""
+  },
+  {
+    "ID": 1010838,
+    "Name": "Rattler",
+    "Description": ""
+  },
+  {
+    "ID": 1011154,
+    "Name": "Ravenous",
+    "Description": ""
+  },
+  {
+    "ID": 1010892,
+    "Name": "Rawhide Kid",
+    "Description": ""
+  },
+  {
+    "ID": 1009531,
+    "Name": "Raza",
+    "Description": ""
+  },
+  {
+    "ID": 1009532,
+    "Name": "Reaper",
+    "Description": ""
+  },
+  {
+    "ID": 1009533,
+    "Name": "Reavers",
+    "Description": ""
+  },
+  {
+    "ID": 1015000,
+    "Name": "Reavers (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1011249,
+    "Name": "Red 9",
+    "Description": ""
+  },
+  {
+    "ID": 1009534,
+    "Name": "Red Ghost",
+    "Description": ""
+  },
+  {
+    "ID": 1011238,
+    "Name": "Red Ghost (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1011360,
+    "Name": "Red Hulk",
+    "Description": ""
+  },
+  {
+    "ID": 1017099,
+    "Name": "Red Hulk (HAS)",
+    "Description": "US Army General Thunderbolt Ross used to a be a huge pain in Hulk's you know what! But as the saying goes, if you can't beat 'em, join 'em! He decided to supersize himself and join the team as Red! Just as cranky as before, Red still gives Hulk a hard time, but deep down he loves being a part of the Agents of S.M.A.S.H. - that, and his Gatling Laser Cannon. "
+  },
+  {
+    "ID": 1011436,
+    "Name": "Red She-Hulk",
+    "Description": ""
+  },
+  {
+    "ID": 1011155,
+    "Name": "Red Shift",
+    "Description": ""
+  },
+  {
+    "ID": 1009535,
+    "Name": "Red Skull",
+    "Description": ""
+  },
+  {
+    "ID": 1010965,
+    "Name": "Red Skull (Albert Malik)",
+    "Description": ""
+  },
+  {
+    "ID": 1010837,
+    "Name": "Red Wolf",
+    "Description": ""
+  },
+  {
+    "ID": 1011390,
+    "Name": "Redwing",
+    "Description": ""
+  },
+  {
+    "ID": 1011376,
+    "Name": "Reptil",
+    "Description": ""
+  },
+  {
+    "ID": 1011189,
+    "Name": "Retro Girl",
+    "Description": ""
+  },
+  {
+    "ID": 1011330,
+    "Name": "Revanche",
+    "Description": ""
+  },
+  {
+    "ID": 1009537,
+    "Name": "Rhino",
+    "Description": ""
+  },
+  {
+    "ID": 1009702,
+    "Name": "Rhodey",
+    "Description": ""
+  },
+  {
+    "ID": 1011401,
+    "Name": "Richard Fisk",
+    "Description": ""
+  },
+  {
+    "ID": 1009379,
+    "Name": "Rick Jones",
+    "Description": ""
+  },
+  {
+    "ID": 1015006,
+    "Name": "Rick Jones (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1011348,
+    "Name": "Ricochet",
+    "Description": ""
+  },
+  {
+    "ID": 1009542,
+    "Name": "Rictor",
+    "Description": ""
+  },
+  {
+    "ID": 1009543,
+    "Name": "Riptide",
+    "Description": ""
+  },
+  {
+    "ID": 1009544,
+    "Name": "Risque",
+    "Description": ""
+  },
+  {
+    "ID": 1009545,
+    "Name": "Robbie Robertson",
+    "Description": ""
+  },
+  {
+    "ID": 1010792,
+    "Name": "Robert Baldwin ",
+    "Description": ""
+  },
+  {
+    "ID": 1009235,
+    "Name": "Robin Chapel",
+    "Description": ""
+  },
+  {
+    "ID": 1010744,
+    "Name": "Rocket Raccoon",
+    "Description": "A genetically-engineered alien with a knack for big guns and fast ships, Rocket serves as the backbone of the Guardians of the Galaxy!"
+  },
+  {
+    "ID": 1017314,
+    "Name": "Rocket Raccoon (Marvel Heroes)",
+    "Description": ""
+  },
+  {
+    "ID": 1010769,
+    "Name": "Rocket Racer",
+    "Description": ""
+  },
+  {
+    "ID": 1010692,
+    "Name": "Rockslide",
+    "Description": ""
+  },
+  {
+    "ID": 1009546,
+    "Name": "Rogue",
+    "Description": ""
+  },
+  {
+    "ID": 1010967,
+    "Name": "Rogue (Age of Apocalypse)",
+    "Description": ""
+  },
+  {
+    "ID": 1017319,
+    "Name": "Rogue (Deadpool)",
+    "Description": ""
+  },
+  {
+    "ID": 1010966,
+    "Name": "Rogue (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1017478,
+    "Name": "Rogue (X-Men: Battle of the Atom)",
+    "Description": ""
+  },
+  {
+    "ID": 1010781,
+    "Name": "Roland Deschain",
+    "Description": ""
+  },
+  {
+    "ID": 1011398,
+    "Name": "Romulus",
+    "Description": ""
+  },
+  {
+    "ID": 1010344,
+    "Name": "Ronan",
+    "Description": ""
+  },
+  {
+    "ID": 1011117,
+    "Name": "Roughhouse",
+    "Description": ""
+  },
+  {
+    "ID": 1009549,
+    "Name": "Roulette",
+    "Description": ""
+  },
+  {
+    "ID": 1009595,
+    "Name": "Roxanne Simpson",
+    "Description": ""
+  },
+  {
+    "ID": 1009311,
+    "Name": "Rumiko Fujikawa",
+    "Description": ""
+  },
+  {
+    "ID": 1010747,
+    "Name": "Runaways",
+    "Description": "The teens who became the Runaways found that some family secrets are bigger than others when they witnessed their parents, part of a cabal known as the Pride, murdering a young girl during a secret sacrificial ritual. "
+  },
+  {
+    "ID": 1009551,
+    "Name": "Russian",
+    "Description": ""
+  },
+  {
+    "ID": 1009552,
+    "Name": "S.H.I.E.L.D.",
+    "Description": ""
+  },
+  {
+    "ID": 1009553,
+    "Name": "Sabra",
+    "Description": "Ruth Bat-Seraph is an Israeli national who, along with her family, was taken to a special community by the Israeli government when her genetic mutation manifested."
+  },
+  {
+    "ID": 1009554,
+    "Name": "Sabretooth",
+    "Description": ""
+  },
+  {
+    "ID": 1010969,
+    "Name": "Sabretooth (Age of Apocalypse)",
+    "Description": ""
+  },
+  {
+    "ID": 1010970,
+    "Name": "Sabretooth (House of M)",
+    "Description": ""
+  },
+  {
+    "ID": 1010968,
+    "Name": "Sabretooth (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1009555,
+    "Name": "Sage",
+    "Description": ""
+  },
+  {
+    "ID": 1011325,
+    "Name": "Salem's Seven (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1011126,
+    "Name": "Sally Floyd",
+    "Description": ""
+  },
+  {
+    "ID": 1011156,
+    "Name": "Salo",
+    "Description": ""
+  },
+  {
+    "ID": 1009558,
+    "Name": "Sandman",
+    "Description": ""
+  },
+  {
+    "ID": 1010711,
+    "Name": "Santa Claus",
+    "Description": ""
+  },
+  {
+    "ID": 1009559,
+    "Name": "Saracen (Muzzafar Lambert)",
+    "Description": ""
+  },
+  {
+    "ID": 1009560,
+    "Name": "Sasquatch (Walter Langkowski)",
+    "Description": ""
+  },
+  {
+    "ID": 1011035,
+    "Name": "Satana",
+    "Description": ""
+  },
+  {
+    "ID": 1009561,
+    "Name": "Sauron",
+    "Description": ""
+  },
+  {
+    "ID": 1011048,
+    "Name": "Scalphunter",
+    "Description": ""
+  },
+  {
+    "ID": 1010861,
+    "Name": "Scarecrow (Ebenezer Laughton)",
+    "Description": "Realizing the criminal potential of his abilities, Umberto stole a flock of trained birds from a fellow performer to assist him in his new costumed criminal guise as the Scarecrow."
+  },
+  {
+    "ID": 1011197,
+    "Name": "Scarlet Spider (Ben Reilly)",
+    "Description": ""
+  },
+  {
+    "ID": 1011426,
+    "Name": "Scarlet Spider (Kaine)",
+    "Description": ""
+  },
+  {
+    "ID": 1009562,
+    "Name": "Scarlet Witch",
+    "Description": ""
+  },
+  {
+    "ID": 1010972,
+    "Name": "Scarlet Witch (Age of Apocalypse)",
+    "Description": ""
+  },
+  {
+    "ID": 1017308,
+    "Name": "Scarlet Witch (Marvel Heroes)",
+    "Description": ""
+  },
+  {
+    "ID": 1010971,
+    "Name": "Scarlet Witch (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1010790,
+    "Name": "Scorpion (Carmilla Black)",
+    "Description": "Carmilla Black is a genetically engineered human, created by Advanced Idea Mechanics (A.I.M.)."
+  },
+  {
+    "ID": 1011079,
+    "Name": "Scorpion (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1009565,
+    "Name": "Scourge",
+    "Description": ""
+  },
+  {
+    "ID": 1011230,
+    "Name": "Scrambler",
+    "Description": "Korean national Kim Il Sung was the youngest member of the Marauders, the superhuman assassins responsible for massacring the underground mutant community known as the Morlocks."
+  },
+  {
+    "ID": 1009566,
+    "Name": "Scream (Donna Diego)",
+    "Description": "Out of the five alien symbiotes that were forcefully extracted from Venom (while bonded with Eddie Brock) by the Life Foundation, Donna's is the only one still active today that is not bonded to Hybrid."
+  },
+  {
+    "ID": 1011242,
+    "Name": "Screwball",
+    "Description": "Trained in parkour, Screwball, fairly new to the New York City superhuman criminal community, specializes in recording he crimes and broadcasting them live over the internet."
+  },
+  {
+    "ID": 1009581,
+    "Name": "Sebastian Shaw",
+    "Description": "Sebastian Shaw was invited to join the elite Hellfire Club and quickly worked his way into a position within the Inner Circle."
+  },
+  {
+    "ID": 1011368,
+    "Name": "Secret Warriors",
+    "Description": ""
+  },
+  {
+    "ID": 1009568,
+    "Name": "Selene",
+    "Description": "The long-standing Black Queen of the Hellfire Club's Inner Circle, Selene Gallio professes to have lived for several millennia, and to have been a foe of the ancient sorcerer, Kulan Gath."
+  },
+  {
+    "ID": 1009569,
+    "Name": "Senator Kelly",
+    "Description": ""
+  },
+  {
+    "ID": 1009570,
+    "Name": "Sentinel",
+    "Description": ""
+  },
+  {
+    "ID": 1011323,
+    "Name": "Sentinels",
+    "Description": ""
+  },
+  {
+    "ID": 1010351,
+    "Name": "Hellcat (Patsy Walker)",
+    "Description": ""
+  },
+  {
+    "ID": 1009340,
+    "Name": "Hellfire Club",
+    "Description": ""
+  },
+  {
+    "ID": 1014996,
+    "Name": "Hellfire Club (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1010678,
+    "Name": "Hellion",
+    "Description": ""
+  },
+  {
+    "ID": 1011044,
+    "Name": "Hellions (Squad)",
+    "Description": ""
+  },
+  {
+    "ID": 1009341,
+    "Name": "Hemingway",
+    "Description": ""
+  },
+  {
+    "ID": 1011371,
+    "Name": "Henry Peter Gyrich",
+    "Description": ""
+  },
+  {
+    "ID": 1009342,
+    "Name": "Hepzibah",
+    "Description": ""
+  },
+  {
+    "ID": 1009343,
+    "Name": "Hercules",
+    "Description": ""
+  },
+  {
+    "ID": 1010759,
+    "Name": "Heroes For Hire",
+    "Description": ""
+  },
+  {
+    "ID": 1011274,
+    "Name": "Hex",
+    "Description": ""
+  },
+  {
+    "ID": 1011300,
+    "Name": "High Evolutionary",
+    "Description": ""
+  },
+  {
+    "ID": 1010839,
+    "Name": "Hindsight Lad",
+    "Description": ""
+  },
+  {
+    "ID": 1010703,
+    "Name": "Hiroim",
+    "Description": ""
+  },
+  {
+    "ID": 1009345,
+    "Name": "Hitman",
+    "Description": ""
+  },
+  {
+    "ID": 1011383,
+    "Name": "Hitomi Sakuma",
+    "Description": ""
+  },
+  {
+    "ID": 1010930,
+    "Name": "Hobgoblin (Jason Macendale)",
+    "Description": ""
+  },
+  {
+    "ID": 1010931,
+    "Name": "Hobgoblin (Robin Borne)",
+    "Description": ""
+  },
+  {
+    "ID": 1009347,
+    "Name": "Hobgoblin (Roderick Kingsley)",
+    "Description": ""
+  },
+  {
+    "ID": 1009349,
+    "Name": "Holocaust (Age of Apocalypse)",
+    "Description": ""
+  },
+  {
+    "ID": 1009350,
+    "Name": "Holy",
+    "Description": ""
+  },
+  {
+    "ID": 1011428,
+    "Name": "Hope Summers",
+    "Description": ""
+  },
+  {
+    "ID": 1009557,
+    "Name": "Howard Saint",
+    "Description": ""
+  },
+  {
+    "ID": 1010373,
+    "Name": "Howard The Duck",
+    "Description": ""
+  },
+  {
+    "ID": 1009351,
+    "Name": "Hulk",
+    "Description": "Caught in a gamma bomb explosion while trying to save the life of a teenager, Dr. Bruce Banner was transformed into the incredibly powerful creature called the Hulk. An all too often misunderstood hero, the angrier the Hulk gets, the stronger the Hulk gets."
+  },
+  {
+    "ID": 1017098,
+    "Name": "Hulk (HAS)",
+    "Description": "The Hulk is the biggest, strongest, smashing-est hero in the Marvel Universe - the green glue that holds his crazy family-like team together. Hulk loves saving the world by smashing every alien, sea creature, and planet (literally) that tries to destroy it. He is the star of his best bud A-Bomb's web series, and just wants to show people his good intentions!"
+  },
+  {
+    "ID": 1017333,
+    "Name": "Hulk (LEGO Marvel Super Heroes)",
+    "Description": ""
+  },
+  {
+    "ID": 1011118,
+    "Name": "Hulk (Marvel Zombies)",
+    "Description": ""
+  },
+  {
+    "ID": 1017303,
+    "Name": "Hulk (Marvel: Avengers Alliance)",
+    "Description": ""
+  },
+  {
+    "ID": 1011005,
+    "Name": "Hulk (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1010721,
+    "Name": "Hulk-dok",
+    "Description": ""
+  },
+  {
+    "ID": 1017107,
+    "Name": "Hulk/Bruce Banner (MAA)",
+    "Description": "Scientist Bruce Banner was transformed into the Hulk as a result to gamma radiation exposure. Over 8 feet tall and weighing 1,040 pounds, it's Hulk's strength that makes him the strongest hero in the Marvel Universe! Hulk smashes all threats that dare disturb the peace and friendship he has found in the Avengers. "
+  },
+  {
+    "ID": 1009355,
+    "Name": "Hulkling",
+    "Description": ""
+  },
+  {
+    "ID": 1010343,
+    "Name": "Human Cannonball",
+    "Description": ""
+  },
+  {
+    "ID": 1011415,
+    "Name": "Human Fly (Richard Deacon)",
+    "Description": ""
+  },
+  {
+    "ID": 1010722,
+    "Name": "Human Robot",
+    "Description": ""
+  },
+  {
+    "ID": 1009356,
+    "Name": "Human Torch",
+    "Description": ""
+  },
+  {
+    "ID": 1010932,
+    "Name": "Human Torch (Jim Hammond)",
+    "Description": ""
+  },
+  {
+    "ID": 1011102,
+    "Name": "Human Torch (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1010675,
+    "Name": "Humbug",
+    "Description": ""
+  },
+  {
+    "ID": 1009357,
+    "Name": "Husk",
+    "Description": ""
+  },
+  {
+    "ID": 1009358,
+    "Name": "Hussar",
+    "Description": ""
+  },
+  {
+    "ID": 1009359,
+    "Name": "Hydra",
+    "Description": ""
+  },
+  {
+    "ID": 1009360,
+    "Name": "Hydro-Man",
+    "Description": ""
+  },
+  {
+    "ID": 1009361,
+    "Name": "Hyperion (Earth-712)",
+    "Description": ""
+  },
+  {
+    "ID": 1011246,
+    "Name": "Hypno-Hustler",
+    "Description": ""
+  },
+  {
+    "ID": 1009362,
+    "Name": "Iceman",
+    "Description": ""
+  },
+  {
+    "ID": 1010933,
+    "Name": "Iceman (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1017475,
+    "Name": "Iceman (X-Men: Battle of the Atom)",
+    "Description": ""
+  },
+  {
+    "ID": 1011077,
+    "Name": "Ikaris",
+    "Description": ""
+  },
+  {
+    "ID": 1010758,
+    "Name": "Illuminati",
+    "Description": ""
+  },
+  {
+    "ID": 1009529,
+    "Name": "Ilyana Rasputin",
+    "Description": ""
+  },
+  {
+    "ID": 1011273,
+    "Name": "Imp",
+    "Description": ""
+  },
+  {
+    "ID": 1011089,
+    "Name": "Imperfects",
+    "Description": ""
+  },
+  {
+    "ID": 1009363,
+    "Name": "Imperial Guard",
+    "Description": ""
+  },
+  {
+    "ID": 1009364,
+    "Name": "Impossible Man",
+    "Description": ""
+  },
+  {
+    "ID": 1011063,
+    "Name": "In-Betweener",
+    "Description": ""
+  },
+  {
+    "ID": 1011064,
+    "Name": "Inertia",
+    "Description": ""
+  },
+  {
+    "ID": 1011146,
+    "Name": "Infant Terrible",
+    "Description": ""
+  },
+  {
+    "ID": 1009365,
+    "Name": "Inhumans",
+    "Description": ""
+  },
+  {
+    "ID": 1011293,
+    "Name": "Ink",
+    "Description": ""
+  },
+  {
+    "ID": 1011024,
+    "Name": "Invaders",
+    "Description": ""
+  },
+  {
+    "ID": 1009366,
+    "Name": "Invisible Woman",
+    "Description": ""
+  },
+  {
+    "ID": 1017301,
+    "Name": "Invisible Woman (Marvel: Avengers Alliance)",
+    "Description": ""
+  },
+  {
+    "ID": 1010934,
+    "Name": "Invisible Woman (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1011379,
+    "Name": "Iron Cross Army",
+    "Description": ""
+  },
+  {
+    "ID": 1011318,
+    "Name": "Iron Fist (Bei Bang-Wen)",
+    "Description": ""
+  },
+  {
+    "ID": 1009367,
+    "Name": "Iron Fist (Danny Rand)",
+    "Description": ""
+  },
+  {
+    "ID": 1010888,
+    "Name": "Iron Fist (Orson Randall)",
+    "Description": ""
+  },
+  {
+    "ID": 1011413,
+    "Name": "Iron Fist (Quan Yaozu)",
+    "Description": ""
+  },
+  {
+    "ID": 1016839,
+    "Name": "Iron Fist (USM)",
+    "Description": "Danny is always focused yet relaxed - more Zen-focused than chill surfer dude. But when Danny turns into Iron First, he becomes very rigid with perfect posture. A very Yin/Yang character. \r\n\r\nDanny is THE Danny Rand â€“ the 17-year-old head of the giant Rand Corporation.  His wealth rivals Osbornâ€™s â€“ but youâ€™d never know it from his laid- back attitude. However, as Iron Fist, he takes his powers very seriously. \r\n\r\nWhile Danny and Luke are best friends, Danny has a special respect for Spider-Man, acting as a non-judgmental moral commentator on all of Spider-Manâ€™s actions. "
+  },
+  {
+    "ID": 1011412,
+    "Name": "Iron Fist (Wu Ao-Shi)",
+    "Description": ""
+  },
+  {
+    "ID": 1010704,
+    "Name": "Iron Lad",
+    "Description": ""
+  },
+  {
+    "ID": 1009368,
+    "Name": "Iron Man",
+    "Description": "Wounded, captured and forced to build a weapon by his enemies, billionaire industrialist Tony Stark instead created an advanced suit of armor to save his life and escape captivity. Now with a new outlook on life, Tony uses his money and intelligence to make the world a safer, better place as Iron Man."
+  },
+  {
+    "ID": 1017320,
+    "Name": "Iron Man (Iron Man 3 - The Official Game)",
+    "Description": ""
+  },
+  {
+    "ID": 1017294,
+    "Name": "Iron Man (LEGO Marvel Super Heroes)",
+    "Description": ""
+  },
+  {
+    "ID": 1017310,
+    "Name": "Iron Man (Marvel Heroes)",
+    "Description": ""
+  },
+  {
+    "ID": 1017326,
+    "Name": "Iron Man (Marvel War of Heroes)",
+    "Description": ""
+  },
+  {
+    "ID": 1010935,
+    "Name": "Iron Man (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1017104,
+    "Name": "Iron Man/Tony Stark (MAA)",
+    "Description": "Tony Stark is the genius inventor/billionaire/philanthropist owner of Stark Industries. With his super high-tech Iron Man suit, he is practically indestructible, able to fly, and has a large selection of weapons to choose from - but it's Tony's quick thinking and ability to adapt and improvise that make him an effective leader of the Avengers.        "
+  },
+  {
+    "ID": 1009371,
+    "Name": "Iron Monger",
+    "Description": ""
+  },
+  {
+    "ID": 1009487,
+    "Name": "Iron Patriot",
+    "Description": ""
+  },
+  {
+    "ID": 1009538,
+    "Name": "Iron Patriot (James Rhodes)",
+    "Description": "U.S. Air Force pilot and Tony Stark's friend who has his own suit of Iron Man armor, nicknamed, \"War Machine.\""
+  },
+  {
+    "ID": 1010844,
+    "Name": "Ironclad",
+    "Description": ""
+  },
+  {
+    "ID": 1009372,
+    "Name": "J. Jonah Jameson",
+    "Description": ""
+  },
+  {
+    "ID": 1010736,
+    "Name": "Jack Flag",
+    "Description": ""
+  },
+  {
+    "ID": 1010786,
+    "Name": "Jack Murdock",
+    "Description": ""
+  },
+  {
+    "ID": 1010766,
+    "Name": "Jack O' Lantern",
+    "Description": ""
+  },
+  {
+    "ID": 1011251,
+    "Name": "Jack Power",
+    "Description": ""
+  },
+  {
+    "ID": 1011288,
+    "Name": "Jackal",
+    "Description": ""
+  },
+  {
+    "ID": 1011259,
+    "Name": "Jackpot",
+    "Description": ""
+  },
+  {
+    "ID": 1010775,
+    "Name": "James Buchanan Barnes",
+    "Description": ""
+  },
+  {
+    "ID": 1010777,
+    "Name": "James Howlett",
+    "Description": ""
+  },
+  {
+    "ID": 1011343,
+    "Name": "Jamie Braddock",
+    "Description": ""
+  },
+  {
+    "ID": 1010329,
+    "Name": "Jane Foster",
+    "Description": ""
+  },
+  {
+    "ID": 1010878,
+    "Name": "Janus, the Nega-Man",
+    "Description": ""
+  },
+  {
+    "ID": 1009597,
+    "Name": "Jasper Sitwell",
+    "Description": ""
+  },
+  {
+    "ID": 1011344,
+    "Name": "Jazinda",
+    "Description": ""
+  },
+  {
+    "ID": 1009327,
+    "Name": "Jean Grey",
+    "Description": ""
+  },
+  {
+    "ID": 1009496,
+    "Name": "Jean Grey",
+    "Description": ""
+  },
+  {
+    "ID": 1009489,
+    "Name": "Ben Parker",
+    "Description": ""
+  },
+  {
+    "ID": 1011346,
+    "Name": "Ben Reilly",
+    "Description": "Ben Reilly was the most genetically stable of the many clones of Spider-Man created by Professor Miles Warren, the Jackal."
+  },
+  {
+    "ID": 1010782,
+    "Name": "Ben Urich",
+    "Description": "Ben Urich is a reporter for the Daily Bugle who has many ties to the city's superhero community."
+  },
+  {
+    "ID": 1010829,
+    "Name": "Bengal",
+    "Description": ""
+  },
+  {
+    "ID": 1009180,
+    "Name": "Beta-Ray Bill",
+    "Description": ""
+  },
+  {
+    "ID": 1010325,
+    "Name": "Betty Brant",
+    "Description": ""
+  },
+  {
+    "ID": 1009548,
+    "Name": "Betty Ross",
+    "Description": ""
+  },
+  {
+    "ID": 1011138,
+    "Name": "Beyonder",
+    "Description": ""
+  },
+  {
+    "ID": 1011296,
+    "Name": "Bi-Beast",
+    "Description": ""
+  },
+  {
+    "ID": 1010843,
+    "Name": "Big Bertha",
+    "Description": ""
+  },
+  {
+    "ID": 1009181,
+    "Name": "Big Wheel",
+    "Description": ""
+  },
+  {
+    "ID": 1011262,
+    "Name": "Bill Hollister",
+    "Description": ""
+  },
+  {
+    "ID": 1009182,
+    "Name": "Bishop",
+    "Description": ""
+  },
+  {
+    "ID": 1011224,
+    "Name": "Bishop (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1009183,
+    "Name": "Black Bird",
+    "Description": ""
+  },
+  {
+    "ID": 1009184,
+    "Name": "Black Bolt",
+    "Description": ""
+  },
+  {
+    "ID": 1017330,
+    "Name": "Black Bolt (Marvel War of Heroes)",
+    "Description": ""
+  },
+  {
+    "ID": 1009185,
+    "Name": "Black Cat",
+    "Description": ""
+  },
+  {
+    "ID": 1010910,
+    "Name": "Black Cat (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1010859,
+    "Name": "Black Crow",
+    "Description": ""
+  },
+  {
+    "ID": 1009186,
+    "Name": "Black Knight (Sir Percy of Scandia)",
+    "Description": ""
+  },
+  {
+    "ID": 1009187,
+    "Name": "Black Panther",
+    "Description": ""
+  },
+  {
+    "ID": 1011130,
+    "Name": "Black Panther (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1010356,
+    "Name": "Black Queen",
+    "Description": ""
+  },
+  {
+    "ID": 1010687,
+    "Name": "Black Tarantula",
+    "Description": ""
+  },
+  {
+    "ID": 1009188,
+    "Name": "Black Tom",
+    "Description": ""
+  },
+  {
+    "ID": 1009189,
+    "Name": "Black Widow",
+    "Description": ""
+  },
+  {
+    "ID": 1017296,
+    "Name": "Black Widow (LEGO Marvel Super Heroes)",
+    "Description": ""
+  },
+  {
+    "ID": 1010911,
+    "Name": "Black Widow (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1017109,
+    "Name": "Black Widow/Natasha Romanoff (MAA)",
+    "Description": "Natasha Romanoff, also known as Black Widow, is a world-renowned super spy and one of S.H.I.E.L.D.'s top agents. Her hand-to-hand combat skills, intelligence, and unpredictability make her a deadly secret weapon. True to her mysterious nature, Black Widow comes and goes as she pleases, but always appears exactly when her particular skills are needed."
+  },
+  {
+    "ID": 1009190,
+    "Name": "Blackheart",
+    "Description": ""
+  },
+  {
+    "ID": 1010881,
+    "Name": "Blacklash",
+    "Description": ""
+  },
+  {
+    "ID": 1011349,
+    "Name": "Blackout",
+    "Description": ""
+  },
+  {
+    "ID": 1009191,
+    "Name": "Blade",
+    "Description": ""
+  },
+  {
+    "ID": 1009195,
+    "Name": "Blastaar",
+    "Description": ""
+  },
+  {
+    "ID": 1010830,
+    "Name": "Blazing Skull",
+    "Description": ""
+  },
+  {
+    "ID": 1011291,
+    "Name": "Blindfold",
+    "Description": ""
+  },
+  {
+    "ID": 1009197,
+    "Name": "Blink",
+    "Description": ""
+  },
+  {
+    "ID": 1009198,
+    "Name": "Blizzard",
+    "Description": ""
+  },
+  {
+    "ID": 1009199,
+    "Name": "Blob",
+    "Description": ""
+  },
+  {
+    "ID": 1011132,
+    "Name": "Blob (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1009200,
+    "Name": "Blockbuster",
+    "Description": ""
+  },
+  {
+    "ID": 1009201,
+    "Name": "Blok",
+    "Description": ""
+  },
+  {
+    "ID": 1009202,
+    "Name": "Bloke",
+    "Description": ""
+  },
+  {
+    "ID": 1011416,
+    "Name": "Blonde Phantom",
+    "Description": ""
+  },
+  {
+    "ID": 1011073,
+    "Name": "Bloodaxe",
+    "Description": ""
+  },
+  {
+    "ID": 1009203,
+    "Name": "Bloodscream",
+    "Description": ""
+  },
+  {
+    "ID": 1009204,
+    "Name": "Bloodstorm",
+    "Description": ""
+  },
+  {
+    "ID": 1010850,
+    "Name": "Bloodstrike",
+    "Description": ""
+  },
+  {
+    "ID": 1011113,
+    "Name": "Blue Blade",
+    "Description": ""
+  },
+  {
+    "ID": 1011339,
+    "Name": "Blue Marvel",
+    "Description": ""
+  },
+  {
+    "ID": 1011264,
+    "Name": "Blue Shield",
+    "Description": ""
+  },
+  {
+    "ID": 1010688,
+    "Name": "Blur",
+    "Description": ""
+  },
+  {
+    "ID": 1011119,
+    "Name": "Bob, Agent of Hydra",
+    "Description": "A cowardly young man, Bob was persuaded into joining the criminal organization HYDRA and has had numerous encounters with Deadpool and other Marvel heroes."
+  },
+  {
+    "ID": 1010366,
+    "Name": "Boom Boom",
+    "Description": "When Tabitha Smith's mutant nature manifested at age 13, she ran away from her abusive home and eventually hooked up with the New Mutants and, subsequently, X-Force."
+  },
+  {
+    "ID": 1009205,
+    "Name": "Boomer",
+    "Description": ""
+  },
+  {
+    "ID": 1010371,
+    "Name": "Boomerang",
+    "Description": ""
+  },
+  {
+    "ID": 1009206,
+    "Name": "Box",
+    "Description": ""
+  },
+  {
+    "ID": 1011236,
+    "Name": "Bride of Nine Spiders (Immortal Weapons)",
+    "Description": ""
+  },
+  {
+    "ID": 1014981,
+    "Name": "Bromley",
+    "Description": ""
+  },
+  {
+    "ID": 1009208,
+    "Name": "Brood",
+    "Description": ""
+  },
+  {
+    "ID": 1011090,
+    "Name": "Brother Voodoo",
+    "Description": ""
+  },
+  {
+    "ID": 1009209,
+    "Name": "Brotherhood of Evil Mutants",
+    "Description": ""
+  },
+  {
+    "ID": 1014973,
+    "Name": "Brotherhood of Mutants (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1009167,
+    "Name": "Bruce Banner",
+    "Description": ""
+  },
+  {
+    "ID": 1009210,
+    "Name": "Brute",
+    "Description": ""
+  },
+  {
+    "ID": 1009211,
+    "Name": "Bucky",
+    "Description": ""
+  },
+  {
+    "ID": 1011038,
+    "Name": "Bug",
+    "Description": ""
+  },
+  {
+    "ID": 1010887,
+    "Name": "Bulldozer",
+    "Description": ""
+  },
+  {
+    "ID": 1009212,
+    "Name": "Bullseye",
+    "Description": ""
+  },
+  {
+    "ID": 1009213,
+    "Name": "Bushwacker",
+    "Description": ""
+  },
+  {
+    "ID": 1011101,
+    "Name": "Butterfly",
+    "Description": ""
+  },
+  {
+    "ID": 1009214,
+    "Name": "Cable",
+    "Description": ""
+  },
+  {
+    "ID": 1017317,
+    "Name": "Cable (Deadpool)",
+    "Description": ""
+  },
+  {
+    "ID": 1017307,
+    "Name": "Cable (Marvel: Avengers Alliance)",
+    "Description": ""
+  },
+  {
+    "ID": 1011252,
+    "Name": "Cable (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1017472,
+    "Name": "Cable (X-Men: Battle of the Atom)",
+    "Description": ""
+  },
+  {
+    "ID": 1011209,
+    "Name": "Calamity",
+    "Description": ""
+  },
+  {
+    "ID": 1009216,
+    "Name": "Caliban",
+    "Description": ""
+  },
+  {
+    "ID": 1009217,
+    "Name": "Callisto",
+    "Description": ""
+  },
+  {
+    "ID": 1010912,
+    "Name": "Callisto (Age of Apocalypse)",
+    "Description": ""
+  },
+  {
+    "ID": 1009218,
+    "Name": "Calypso",
+    "Description": ""
+  },
+  {
+    "ID": 1011139,
+    "Name": "Cammi",
+    "Description": ""
+  },
+  {
+    "ID": 1009219,
+    "Name": "Cannonball",
+    "Description": ""
+  },
+  {
+    "ID": 1011276,
+    "Name": "Cap'n Oz",
+    "Description": "William was born into the ClanDestine, making him a creature that is part magic.  After events surrounding the death of his brother Vincent, he moved to Australia where he started an acting career as the superhero Cap'n Oz."
+  },
+  {
+    "ID": 1009220,
+    "Name": "Captain America",
+    "Description": "Vowing to serve his country any way he could, young Steve Rogers took the super soldier serum to become America's one-man army. Fighting for the red, white and blue for over 60 years, Captain America is the living, breathing symbol of freedom and liberty."
+  },
+  {
+    "ID": 1010914,
+    "Name": "Captain America (House of M)",
+    "Description": ""
+  },
+  {
+    "ID": 1017295,
+    "Name": "Captain America (LEGO Marvel Super Heroes)",
+    "Description": ""
+  },
+  {
+    "ID": 1017327,
+    "Name": "Captain America (Marvel War of Heroes)",
+    "Description": ""
+  },
+  {
+    "ID": 1017575,
+    "Name": "Captain America (Sam Wilson)",
+    "Description": "<p class=\"Body\">Sam Wilson, a Harlem native, previously operated under the name Falcon, fighting alongside the Avengers. When his longtime friend Steve Rogers stepped down as Captain America, Wilson was hand-picked to fill the role. Now the former Falcon soars through the skies wearing red, white and blue.</p>"
+  },
+  {
+    "ID": 1010913,
+    "Name": "Captain America (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1017105,
+    "Name": "Captain America/Steve Rogers (MAA)",
+    "Description": "During World War II, Steve Rogers enlisted in the military and was injected with a super-serum that turned him into super-soldier Captain America! He's a skilled strategist and even more skilled with his shield, but it's his courage and good heart that makes Captain America both a leader and a true hero. "
+  },
+  {
+    "ID": 1009223,
+    "Name": "Captain Britain",
+    "Description": ""
+  },
+  {
+    "ID": 1010915,
+    "Name": "Captain Britain (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1011190,
+    "Name": "Captain Cross",
+    "Description": ""
+  },
+  {
+    "ID": 1011196,
+    "Name": "Captain Flint",
+    "Description": ""
+  },
+  {
+    "ID": 1010338,
+    "Name": "Captain Marvel (Carol Danvers)",
+    "Description": ""
+  },
+  {
+    "ID": 1011096,
+    "Name": "Captain Marvel (Genis-Vell)",
+    "Description": ""
+  },
+  {
+    "ID": 1009224,
+    "Name": "Captain Marvel (Mar-Vell)",
+    "Description": ""
+  },
+  {
+    "ID": 1011095,
+    "Name": "Captain Marvel (Monica Rambeau)",
+    "Description": ""
+  },
+  {
+    "ID": 1011340,
+    "Name": "MI: 13",
+    "Description": ""
+  },
+  {
+    "ID": 1009444,
+    "Name": "Micro/Macro",
+    "Description": ""
+  },
+  {
+    "ID": 1010690,
+    "Name": "Microbe",
+    "Description": ""
+  },
+  {
+    "ID": 1011134,
+    "Name": "Microchip",
+    "Description": ""
+  },
+  {
+    "ID": 1010871,
+    "Name": "Micromax",
+    "Description": ""
+  },
+  {
+    "ID": 1010891,
+    "Name": "Midnight (Earth-811)",
+    "Description": ""
+  },
+  {
+    "ID": 1010924,
+    "Name": "Miek",
+    "Description": ""
+  },
+  {
+    "ID": 1009530,
+    "Name": "Mikhail Rasputin",
+    "Description": ""
+  },
+  {
+    "ID": 1011192,
+    "Name": "Millenium Guard",
+    "Description": ""
+  },
+  {
+    "ID": 1010894,
+    "Name": "Millie the Model",
+    "Description": ""
+  },
+  {
+    "ID": 1009445,
+    "Name": "Mimic",
+    "Description": ""
+  },
+  {
+    "ID": 1011204,
+    "Name": "Mindworm",
+    "Description": ""
+  },
+  {
+    "ID": 1013727,
+    "Name": "Miracleman",
+    "Description": "Michael Moran has a superhuman alter ego. By saying the trigger word \"Kimota!\" Michael turns into Miracleman! But is the good of being Miracleman enough to outweigh the cost?"
+  },
+  {
+    "ID": 1011424,
+    "Name": "Miss America",
+    "Description": ""
+  },
+  {
+    "ID": 1009446,
+    "Name": "Mister Fear",
+    "Description": ""
+  },
+  {
+    "ID": 1009447,
+    "Name": "Mister Sinister",
+    "Description": ""
+  },
+  {
+    "ID": 1017318,
+    "Name": "Mister Sinister (Deadpool)",
+    "Description": ""
+  },
+  {
+    "ID": 1010948,
+    "Name": "Mister Sinister (House of M)",
+    "Description": ""
+  },
+  {
+    "ID": 1011254,
+    "Name": "Mister Sinister (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1010682,
+    "Name": "Misty Knight",
+    "Description": ""
+  },
+  {
+    "ID": 1011220,
+    "Name": "Mockingbird",
+    "Description": ""
+  },
+  {
+    "ID": 1009410,
+    "Name": "Moira MacTaggert",
+    "Description": ""
+  },
+  {
+    "ID": 1010941,
+    "Name": "Moira MacTaggert (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1009448,
+    "Name": "Mojo",
+    "Description": ""
+  },
+  {
+    "ID": 1009449,
+    "Name": "Mole Man",
+    "Description": ""
+  },
+  {
+    "ID": 1011019,
+    "Name": "Molecule Man",
+    "Description": ""
+  },
+  {
+    "ID": 1010691,
+    "Name": "Molly Hayes",
+    "Description": ""
+  },
+  {
+    "ID": 1009541,
+    "Name": "Molly Von Richtofen",
+    "Description": ""
+  },
+  {
+    "ID": 1011370,
+    "Name": "Molten Man",
+    "Description": ""
+  },
+  {
+    "ID": 1010876,
+    "Name": "Mongoose",
+    "Description": ""
+  },
+  {
+    "ID": 1009450,
+    "Name": "Mongu (Unrevealed)",
+    "Description": ""
+  },
+  {
+    "ID": 1010331,
+    "Name": "Monster Badoon",
+    "Description": ""
+  },
+  {
+    "ID": 1017814,
+    "Name": "Moon Girl (Lunella Layfayette)",
+    "Description": ""
+  },
+  {
+    "ID": 1009452,
+    "Name": "Moon Knight",
+    "Description": ""
+  },
+  {
+    "ID": 1010949,
+    "Name": "Moon Knight (House of M)",
+    "Description": ""
+  },
+  {
+    "ID": 1014998,
+    "Name": "Moon Knight (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1009451,
+    "Name": "Moondragon",
+    "Description": ""
+  },
+  {
+    "ID": 1010362,
+    "Name": "Moonstone",
+    "Description": ""
+  },
+  {
+    "ID": 1009454,
+    "Name": "Morbius",
+    "Description": ""
+  },
+  {
+    "ID": 1010902,
+    "Name": "Mordo",
+    "Description": ""
+  },
+  {
+    "ID": 1009455,
+    "Name": "Morg",
+    "Description": ""
+  },
+  {
+    "ID": 1009623,
+    "Name": "Morgan Stark",
+    "Description": ""
+  },
+  {
+    "ID": 1011008,
+    "Name": "Morlocks",
+    "Description": ""
+  },
+  {
+    "ID": 1011088,
+    "Name": "Morlun",
+    "Description": ""
+  },
+  {
+    "ID": 1009456,
+    "Name": "Morph",
+    "Description": ""
+  },
+  {
+    "ID": 1009457,
+    "Name": "Mother Askani",
+    "Description": ""
+  },
+  {
+    "ID": 1009458,
+    "Name": "Mr. Bumpo",
+    "Description": ""
+  },
+  {
+    "ID": 1009459,
+    "Name": "Mr. Fantastic",
+    "Description": ""
+  },
+  {
+    "ID": 1010950,
+    "Name": "Mr. Fantastic (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1010900,
+    "Name": "Mr. Fish",
+    "Description": ""
+  },
+  {
+    "ID": 1009460,
+    "Name": "Mr. Fixit",
+    "Description": ""
+  },
+  {
+    "ID": 1010347,
+    "Name": "Mr. Hyde",
+    "Description": ""
+  },
+  {
+    "ID": 1010840,
+    "Name": "Mr. Immortal",
+    "Description": ""
+  },
+  {
+    "ID": 1014984,
+    "Name": "Mr. Meugniot",
+    "Description": ""
+  },
+  {
+    "ID": 1011244,
+    "Name": "Mr. Negative",
+    "Description": ""
+  },
+  {
+    "ID": 1009461,
+    "Name": "Mr. Payback",
+    "Description": ""
+  },
+  {
+    "ID": 1009462,
+    "Name": "Mr. X",
+    "Description": ""
+  },
+  {
+    "ID": 1017577,
+    "Name": "Ms. Marvel (Kamala Khan)",
+    "Description": "A Muslim-American teenager growing up in Jersey City, Kamala Khan gained shape-shifting powers when Inhumanity spread over the Earth. A fan of super heroes, in particular Carol Danvers, Kamala took up Captain Marvel's former identity, becoming the new Ms. Marvel. This up and coming hero works to protect her community and understand her place in the world."
+  },
+  {
+    "ID": 1011372,
+    "Name": "MS2",
+    "Description": ""
+  },
+  {
+    "ID": 1011210,
+    "Name": "Mulholland Black",
+    "Description": ""
+  },
+  {
+    "ID": 1011056,
+    "Name": "Multiple Man",
+    "Description": ""
+  },
+  {
+    "ID": 1010826,
+    "Name": "MVP",
+    "Description": ""
+  },
+  {
+    "ID": 1009464,
+    "Name": "Mysterio",
+    "Description": ""
+  },
+  {
+    "ID": 1010951,
+    "Name": "Mysterio (Daniel Berkhart)",
+    "Description": ""
+  },
+  {
+    "ID": 1010952,
+    "Name": "Mysterio (Francis Klum)",
+    "Description": ""
+  },
+  {
+    "ID": 1009465,
+    "Name": "Mystique",
+    "Description": ""
+  },
+  {
+    "ID": 1010953,
+    "Name": "Mystique (Age of Apocalypse)",
+    "Description": ""
+  },
+  {
+    "ID": 1010954,
+    "Name": "Mystique (House of M)",
+    "Description": ""
+  },
+  {
+    "ID": 1011129,
+    "Name": "Mystique (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1013483,
+    "Name": "Nakia (Nakia)",
+    "Description": ""
+  },
+  {
+    "ID": 1009466,
+    "Name": "Namor",
+    "Description": ""
+  },
+  {
+    "ID": 1009468,
+    "Name": "Namora",
+    "Description": ""
+  },
+  {
+    "ID": 1009469,
+    "Name": "Namorita",
+    "Description": ""
+  },
+  {
+    "ID": 1014978,
+    "Name": "Naoko",
+    "Description": ""
+  },
+  {
+    "ID": 1009547,
+    "Name": "Natasha Romanoff",
+    "Description": ""
+  },
+  {
+    "ID": 1010365,
+    "Name": "Nebula",
+    "Description": ""
+  },
+  {
+    "ID": 1011302,
+    "Name": "Nehzno",
+    "Description": ""
+  },
+  {
+    "ID": 1011422,
+    "Name": "Nekra",
+    "Description": ""
+  },
+  {
+    "ID": 1011086,
+    "Name": "Nemesis",
+    "Description": ""
+  },
+  {
+    "ID": 1010831,
+    "Name": "Network",
+    "Description": ""
+  },
+  {
+    "ID": 1010815,
+    "Name": "New Goblin",
+    "Description": ""
+  },
+  {
+    "ID": 1011336,
+    "Name": "New Mutants",
+    "Description": ""
+  },
+  {
+    "ID": 1010683,
+    "Name": "New Warriors",
+    "Description": ""
+  },
+  {
+    "ID": 1011271,
+    "Name": "New X-Men",
+    "Description": ""
+  },
+  {
+    "ID": 1011269,
+    "Name": "Newton Destine",
+    "Description": ""
+  },
+  {
+    "ID": 1011303,
+    "Name": "Next Avengers",
+    "Description": ""
+  },
+  {
+    "ID": 1010685,
+    "Name": "Nextwave",
+    "Description": ""
+  },
+  {
+    "ID": 1009471,
+    "Name": "Nick Fury",
+    "Description": ""
+  },
+  {
+    "ID": 1017298,
+    "Name": "Nick Fury (LEGO Marvel Super Heroes)",
+    "Description": ""
+  },
+  {
+    "ID": 1011007,
+    "Name": "Nick Fury (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1010746,
+    "Name": "Nico Minoru",
+    "Description": ""
+  },
+  {
+    "ID": 1010706,
+    "Name": "Nicolaos",
+    "Description": ""
+  },
+  {
+    "ID": 1011282,
+    "Name": "Night Nurse (Earth-9997)",
+    "Description": ""
+  },
+  {
+    "ID": 1010684,
+    "Name": "Night Thrasher",
+    "Description": ""
+  },
+  {
+    "ID": 1014063,
+    "Name": "Night Thrasher (Dwayne Taylor)",
+    "Description": ""
+  },
+  {
+    "ID": 1009472,
+    "Name": "Nightcrawler",
+    "Description": ""
+  },
+  {
+    "ID": 1011337,
+    "Name": "Nightcrawler (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1010349,
+    "Name": "Nighthawk",
+    "Description": ""
+  },
+  {
+    "ID": 1009473,
+    "Name": "Nightmare",
+    "Description": ""
+  },
+  {
+    "ID": 1011124,
+    "Name": "Nightshade",
+    "Description": ""
+  },
+  {
+    "ID": 1010794,
+    "Name": "Spider-Woman (Mattie Franklin)",
+    "Description": "Mattie Franklin was granted her powers when, after overhearing a phone call between her father and Norman Osborn about the Gathering of the Five, she took her father's place during the Gathering and was endowed with the awesome powers that Norman Osborn had wanted for himself."
+  },
+  {
+    "ID": 1009614,
+    "Name": "Spiral (Rita Wayword)",
+    "Description": "Spiral was created to be an agent of Mojo, the despotic leader of Mojo World, often used as his favored personal servant, executioner, and spy."
+  },
+  {
+    "ID": 1011158,
+    "Name": "Spirit",
+    "Description": "Spirit is a member of the Luphomoid race and she is one of the few survivors of her planet's destruction."
+  },
+  {
+    "ID": 1010899,
+    "Name": "Spitfire",
+    "Description": "During World War II, Jacqueline Falsworth bravely served in Britain’s Home Guard."
+  },
+  {
+    "ID": 1009616,
+    "Name": "Spot",
+    "Description": "Jonathan Ohnn was working as a research scientist on behalf of Wilson Fisk, the Kingpin of Crime."
+  },
+  {
+    "ID": 1011180,
+    "Name": "Sprite",
+    "Description": "Sprite is a mischievous Eternal who maintains a perpetual youthful appearance."
+  },
+  {
+    "ID": 1009617,
+    "Name": "Spyke",
+    "Description": ""
+  },
+  {
+    "ID": 1014905,
+    "Name": "Squadron Sinister",
+    "Description": ""
+  },
+  {
+    "ID": 1010814,
+    "Name": "Squadron Supreme (Earth-712)",
+    "Description": ""
+  },
+  {
+    "ID": 1010860,
+    "Name": "Squirrel Girl",
+    "Description": "Escaping the taunts of her fellow school students regarding her physical mutation, Los-Angeles born Doreen Green fled into the nearby woods where she quickly discovered her affinity for squirrels."
+  },
+  {
+    "ID": 1009618,
+    "Name": "Stacy X",
+    "Description": ""
+  },
+  {
+    "ID": 1015003,
+    "Name": "Stacy X (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1011307,
+    "Name": "Star Brand",
+    "Description": ""
+  },
+  {
+    "ID": 1010733,
+    "Name": "Star-Lord (Peter Quill)",
+    "Description": "Refusing to miss his opportunity, Peter Jason Quill stole a scoutship from Cape Canaveral, returned to Eve, and shot his way to the appointed spot, where his old rival Harrelson, NASA's choice to be Star-Lord, was awaiting selection, where Quill was transported away in his stead, and transformed into Star-Lord."
+  },
+  {
+    "ID": 1009621,
+    "Name": "Starbolt",
+    "Description": "Starbolt is a member of the Shi'ar Imperial Guard."
+  },
+  {
+    "ID": 1010764,
+    "Name": "Stardust",
+    "Description": "As Herald for the world devourer, Galactus, Stardust found suitable worlds for her master to consume."
+  },
+  {
+    "ID": 1011084,
+    "Name": "Starfox",
+    "Description": "The youngest son of Mentor and Sui-San, Eros had the natural ability to excite pleasure in others, but his power had no effect upon his mutant older brother, Thanos, who worshiped the cosmic embodiment of Death and led an army against Titan."
+  },
+  {
+    "ID": 1011341,
+    "Name": "Starhawk (Stakar Ogord)",
+    "Description": "Though best known as a 31st century hero in the alternate Reality-691 timeline, the enigmatic, space-faring Starhawk originated a millennium earlier."
+  },
+  {
+    "ID": 1011078,
+    "Name": "Starjammers",
+    "Description": ""
+  },
+  {
+    "ID": 1009622,
+    "Name": "Stark Industries",
+    "Description": ""
+  },
+  {
+    "ID": 1010828,
+    "Name": "Stature",
+    "Description": "Cassie Lang is the daughter of deceased Avenger Scott Lang and a member of the Young Avengers."
+  },
+  {
+    "ID": 1010889,
+    "Name": "Steel Serpent (Davos)",
+    "Description": ""
+  },
+  {
+    "ID": 1011159,
+    "Name": "Stellaris",
+    "Description": "It is unknown how Stellaris survived the extermination of her home world by the Celestials or how she acquired her living armor, but ever since she has committed herself to their destruction."
+  },
+  {
+    "ID": 1009625,
+    "Name": "Stepford Cuckoos",
+    "Description": "The Stepford Cuckoos were five identical mutant sisters who enrolled at the Xavier Institute and soon proved to be the crème de la crème of Emma Frost's telepathy class."
+  },
+  {
+    "ID": 1009615,
+    "Name": "Stephanie de la Spiroza",
+    "Description": ""
+  },
+  {
+    "ID": 1010901,
+    "Name": "Stephen Strange",
+    "Description": ""
+  },
+  {
+    "ID": 1010326,
+    "Name": "Steve Rogers",
+    "Description": ""
+  },
+  {
+    "ID": 1009626,
+    "Name": "Stick",
+    "Description": "Stick, who trained both Daredevil and Elektra in the martial arts, is the leader of the warrior order called The Chaste, and has fought alongside the clan's other members against The Hand for years."
+  },
+  {
+    "ID": 1009627,
+    "Name": "Stilt-Man (Wibur Day)",
+    "Description": "Wilbur Day was a scientist at Kaxton Labs who stole designs for a hydraulic ramming device from his company out of frustration of his position in his job."
+  },
+  {
+    "ID": 1009628,
+    "Name": "Stingray (Walter Newell)",
+    "Description": "Creating the Stingray costume, Newell succeeded in capturing the Sub-Mariner, although Namor soon escaped and Newell, while initially defeating him a second time, allowed his friend to go."
+  },
+  {
+    "ID": 1010327,
+    "Name": "Stone Men",
+    "Description": ""
+  },
+  {
+    "ID": 1009629,
+    "Name": "Storm",
+    "Description": "Ororo Monroe is the descendant of an ancient line of African priestesses, all of whom have white hair, blue eyes, and the potential to wield magic."
+  },
+  {
+    "ID": 1010979,
+    "Name": "Storm (Age of Apocalypse)",
+    "Description": "Calling herself the Windrider, Storm carved out a small area of Africa as her own and intended to keep it safe from the strife of the war between humans and mutants."
+  },
+  {
+    "ID": 1017309,
+    "Name": "Storm (Marvel Heroes)",
+    "Description": ""
+  },
+  {
+    "ID": 1010978,
+    "Name": "Storm (Ultimate)",
+    "Description": "Ororo Munroe was raised in Morocco, learning English from American films, and after her family was murdered she fled to America, stealing cars in Harlem before relocating to Texas."
+  },
+  {
+    "ID": 1011062,
+    "Name": "Stranger",
+    "Description": "By his own account, the Stranger is a composite being possessing the combined strength and intellect of the billions of humanoid beings who once lived on the planet Gigantus, an ancient world in the Andromeda Galaxy whose size approached the limit at which a planet can exist before fissioning into a sun."
+  },
+  {
+    "ID": 1011051,
+    "Name": "Strong Guy",
+    "Description": "According to his own admission, Guido was a nerdy-looking kid in his early life, bullied by other children, but after he discovered his mutant ability at a young age, when he was struck by a school bus, no one bullied him again."
+  },
+  {
+    "ID": 1009632,
+    "Name": "Stryfe",
+    "Description": "Stryfe is the clone of Nathan Christopher Summers, alias Cable, the son of Cyclops of the X-Men."
+  },
+  {
+    "ID": 1011225,
+    "Name": "Stryfe (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1010791,
+    "Name": "Sub-Mariner",
+    "Description": "Prince Namor is the half-human/half-Atlantean ruler of Atlantis."
+  },
+  {
+    "ID": 1009631,
+    "Name": "Sue Storm",
+    "Description": ""
+  },
+  {
+    "ID": 1011212,
+    "Name": "Sugar Man",
+    "Description": "The Sugar Man was in charge of the Seattle Core, a slave camp that helped power North America during the Age of Apocalypse."
+  },
+  {
+    "ID": 1009635,
+    "Name": "Sumo",
+    "Description": ""
+  },
+  {
+    "ID": 1009636,
+    "Name": "Sunfire",
+    "Description": "Shiro Yoshida’s mother was exposed to the atomic devastation of Hiroshima during World War II and died giving birth to him."
+  },
+  {
+    "ID": 1010981,
+    "Name": "Sunfire (Age of Apocalypse)",
+    "Description": "During the beginning of Apocalypse's rise, Magneto approached Japan's greatest heroes, Sunfire and the Silver Samurai, and asked them to work with him and the X-Men to stop Apocalypse."
+  },
+  {
+    "ID": 1009637,
+    "Name": "Sunset Bain",
+    "Description": ""
+  },
+  {
+    "ID": 1009638,
+    "Name": "Sunspot",
+    "Description": "Growing up in a wealthy Brazilian family, Roberto da Costa was forging a career as a skilled soccer player until his mutant nature manifested during a match."
+  },
+  {
+    "ID": 1015280,
+    "Name": "Super Hero Squad",
+    "Description": ""
+  },
+  {
+    "ID": 1011022,
+    "Name": "Super-Adaptoid",
+    "Description": "The Super-Adaptoid was created by the organization known as A.I.M. using a piece of the Cosmic Cube."
+  },
+  {
+    "ID": 1009639,
+    "Name": "Super-Skrull",
+    "Description": "After the Fantastic Four stopped the Skrulls' attempted invasion of Earth, Skrull Emperor Dorrek invested vast resources into creating a superbeing of his own."
+  },
+  {
+    "ID": 1011232,
+    "Name": "Supernaut",
+    "Description": "Sergeant Milo Fields was recruited for the Order and regained the use of his legs after his nervous system intermingled with that of Aralune."
+  },
+  {
+    "ID": 1011160,
+    "Name": "Supreme Intelligence",
+    "Description": "The Supreme Intelligence is an organic, computer construct, created by the Kree to act as their supreme leader."
+  },
+  {
+    "ID": 1010695,
+    "Name": "Surge",
+    "Description": "Prior to enrolling at the Xavier Institute, Noriko Ashida lived on the street and was reliant on illegally obtained prescription drugs to reduce her highly accelerated mutant brain functions to a manageable rate."
+  },
+  {
+    "ID": 1011172,
+    "Name": "Susan Delgado",
+    "Description": ""
+  },
+  {
+    "ID": 1011075,
+    "Name": "Swarm",
+    "Description": "Fritz von Meyer was once a Nazi scientist, the details of which remain unrevealed, although it is known he had access to looted gold from countless European capitals to fund his research."
+  },
+  {
+    "ID": 1011017,
+    "Name": "Sway",
+    "Description": "Suzanne Chan saw her parents gunned down in front of her, though she remained unscathed due to her manifesting mutant ability to stop time."
+  },
+  {
+    "ID": 1009640,
+    "Name": "Switch",
+    "Description": ""
+  },
+  {
+    "ID": 1009641,
+    "Name": "Swordsman",
+    "Description": "Andreas reappeared as the Swordsman in the latest incarnation of the Thunderbolts, though his true identity was kept secret for some time."
+  },
+  {
+    "ID": 1010982,
+    "Name": "Swordsman (Jaques Duquesne)",
+    "Description": "When Clint Barton came to the Carson Carnival of Traveling Wonders, the Swordsman became one of his mentors."
+  },
+  {
+    "ID": 1009642,
+    "Name": "Sym",
+    "Description": ""
+  },
+  {
+    "ID": 1009643,
+    "Name": "Synch",
+    "Description": "Everett Thomas was a founding member of Generation X."
+  },
+  {
+    "ID": 1009644,
+    "Name": "T'Challa",
+    "Description": ""
+  },
+  {
+    "ID": 1011042,
+    "Name": "Tag",
+    "Description": ""
+  },
+  {
+    "ID": 1009646,
+    "Name": "Talisman (Elizabeth Twoyoungmen)",
+    "Description": "Elizabeth Twoyoungmen was born in Calgary, Alberta, Canada, the daughter of Michael Twoyoungman (Shaman) of the Canadian superhero team Alpha Flight."
+  },
+  {
+    "ID": 1010753,
+    "Name": "Talkback (Chase Stein)",
+    "Description": "Chase Stein is the son of mad scientists Victor and Janet Stein and is the tech genius of the Runaways."
+  },
+  {
+    "ID": 1011395,
+    "Name": "Talon (Fraternity of Raptors)",
+    "Description": "Falling to Earth wrapped in a ball of flame, Talon crash landed next to the home of Chris Powell, the young hero known as Darkhawk."
+  },
+  {
+    "ID": 1011161,
+    "Name": "Talos",
+    "Description": "Born without the ability to shape shift like other Skrulls, Talos became a savage fighter and a decorated military commander."
+  },
+  {
+    "ID": 1011149,
+    "Name": "Tana Nile",
+    "Description": ""
+  },
+  {
+    "ID": 1010713,
+    "Name": "Tarantula (Luis Alvarez)",
+    "Description": "Alvarez replaced the original Tarantula after his death by the dictatorship Delvadian government."
+  },
+  {
+    "ID": 1009647,
+    "Name": "Tarot",
+    "Description": ""
+  },
+  {
+    "ID": 1009648,
+    "Name": "Taskmaster",
+    "Description": "Taskmaster first exhibited his unusual ability, called \"photographic reflexes,\" which allowed him to mimic the motion of anyone he saw, when he was a young boy."
+  },
+  {
+    "ID": 1011115,
+    "Name": "Tattoo",
+    "Description": ""
+  },
+  {
+    "ID": 1011000,
+    "Name": "Ted Forrester",
+    "Description": ""
+  },
+  {
+    "ID": 1009650,
+    "Name": "Tempest",
+    "Description": ""
+  },
+  {
+    "ID": 1011162,
+    "Name": "Tenebrous",
+    "Description": "Tenebrous has existed in this universe since its infancy, and was imprisoned in the planet Kyln after a battle with Galactus."
+  },
+  {
+    "ID": 1009651,
+    "Name": "Terrax",
+    "Description": "Tyros was once the dictator of the city Lanlak on the planet Birj, where his superhuman ability to command rocks and earth enabled him to overcome all resistance, but his rule of Lanlak came to an end when he was sought by the world-devouring Galactus to serve as his latest Herald."
+  },
+  {
+    "ID": 1011034,
+    "Name": "Terror",
+    "Description": "In the distant past, Terror battled a green bear-like demon that threatened early mankind, sacrificing his own form to overcome it; he was then cursed to wear its decayed form but gained its power."
+  },
+  {
+    "ID": 1010819,
+    "Name": "Texas Twister",
+    "Description": ""
+  },
+  {
+    "ID": 1011003,
+    "Name": "Thaddeus Ross",
+    "Description": ""
+  },
+  {
+    "ID": 1009652,
+    "Name": "Thanos",
+    "Description": "The Mad Titan Thanos, a melancholy, brooding individual, consumed with the concept of death, sought out personal power and increased strength, endowing himself with cybernetic implants until he became more powerful than any of his brethren."
+  },
+  {
+    "ID": 1015004,
+    "Name": "Thanos (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1011083,
+    "Name": "The 198",
+    "Description": ""
+  },
+  {
+    "ID": 1009653,
+    "Name": "The Anarchist",
+    "Description": ""
+  },
+  {
+    "ID": 1009654,
+    "Name": "The Call",
+    "Description": ""
+  },
+  {
+    "ID": 1010714,
+    "Name": "The Captain",
+    "Description": ""
+  },
+  {
+    "ID": 1011294,
+    "Name": "The Enforcers",
+    "Description": ""
+  },
+  {
+    "ID": 1010728,
+    "Name": "The Executioner",
+    "Description": ""
+  },
+  {
+    "ID": 1009655,
+    "Name": "The Fallen",
+    "Description": ""
+  },
+  {
+    "ID": 1011219,
+    "Name": "The Fury",
+    "Description": ""
+  },
+  {
+    "ID": 1010359,
+    "Name": "The Hand",
+    "Description": ""
+  },
+  {
+    "ID": 1010715,
+    "Name": "The Hood",
+    "Description": ""
+  },
+  {
+    "ID": 1011295,
+    "Name": "The Howling Commandos",
+    "Description": ""
+  },
+  {
+    "ID": 1014986,
+    "Name": "The Hunter",
+    "Description": ""
+  },
+  {
+    "ID": 1010998,
+    "Name": "The Initiative",
+    "Description": ""
+  },
+  {
+    "ID": 1017103,
+    "Name": "The Leader (HAS)",
+    "Description": "What the Hulk has in strength, the Leader has in brains. Hulk's arch nemesis was affected by the same Gamma radiation that transformed Bruce Banner; but, instead of Hulk-ified muscles, the Leader got a Hulk-ified head. He's smart, sinister, and obsessed with destroying the Hulk!"
+  },
+  {
+    "ID": 1011216,
+    "Name": "The Liberteens",
+    "Description": ""
+  },
+  {
+    "ID": 1011215,
+    "Name": "The Liberty Legion",
+    "Description": ""
+  },
+  {
+    "ID": 1011018,
+    "Name": "The Order",
+    "Description": ""
+  },
+  {
+    "ID": 1009656,
+    "Name": "The Phantom",
+    "Description": ""
+  },
+  {
+    "ID": 1009657,
+    "Name": "The Professor",
+    "Description": ""
+  },
+  {
+    "ID": 1009571,
+    "Name": "Sentry (Robert Reynolds)",
+    "Description": "Empowered by the enigmatic Professor's secret formula, high school student Robert Reynolds became a superhuman."
+  },
+  {
+    "ID": 1011167,
+    "Name": "Ser Duncan",
+    "Description": ""
+  },
+  {
+    "ID": 1009572,
+    "Name": "Serpent Society",
+    "Description": ""
+  },
+  {
+    "ID": 1010345,
+    "Name": "Sersi",
+    "Description": "Sersi is a member of the Eternals, a species diverted from humanity by experiments conducted by the Celestials one million years ago."
+  },
+  {
+    "ID": 1009573,
+    "Name": "Shadow King",
+    "Description": "One of the oldest and more powerful mutants ever, Amahl Farouk has been a threat to mankind at least for decades. He was the first evil mutant met by Charles Xavier, convincing him of the need of the X-Men."
+  },
+  {
+    "ID": 1010973,
+    "Name": "Shadow King (Age of Apocalypse)",
+    "Description": ""
+  },
+  {
+    "ID": 1009574,
+    "Name": "Shadowcat",
+    "Description": ""
+  },
+  {
+    "ID": 1010975,
+    "Name": "Shadowcat (Age of Apocalypse)",
+    "Description": "Katherine Pryde lived in the suburbs of Illinois and kept her mutant abilities a secret."
+  },
+  {
+    "ID": 1010974,
+    "Name": "Shadowcat (Ultimate)",
+    "Description": "After fourteen-year-old Kitty Pryde's mutant powers emerged, causing terrifying incidents where she uncontrollably phased out of the family apartment in to moving traffic andsewers, her mother Theresa contacted Professor Xavier."
+  },
+  {
+    "ID": 1011406,
+    "Name": "Shadu the Shady",
+    "Description": "Shadu the Shady claimed to travel to many unseen magical lands and witnessed miracles he would duplicate at a club called the 53rd Card."
+  },
+  {
+    "ID": 1009575,
+    "Name": "Shalla-bal",
+    "Description": ""
+  },
+  {
+    "ID": 1009576,
+    "Name": "Shaman",
+    "Description": "Dr. Michael Twoyoungmen was a surgeon who found that modern science was insufficient to accomplish everything he wished to do, and so he turned to mysticism that his grandfather told him about."
+  },
+  {
+    "ID": 1014979,
+    "Name": "Shane Yamada-Jones",
+    "Description": ""
+  },
+  {
+    "ID": 1009577,
+    "Name": "Shang-Chi",
+    "Description": "Shang-Chi is the son of an internationally-renowned and powerful criminal mastermind whose childhood was a lonely one, full of constant training in rigorous mental and martial arts, with only limited contact with his parents."
+  },
+  {
+    "ID": 1015001,
+    "Name": "Shang-Chi (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1009578,
+    "Name": "Shanna the She-Devil",
+    "Description": "The only daughter of a wealthy diamond miner, Shanna grew up in the Zaire jungles, where, at age six, she witnessed her father’s accidental fatal shooting of her mother, starting a lifelong loathing of firearms."
+  },
+  {
+    "ID": 1010712,
+    "Name": "Shape",
+    "Description": "Often clashing with the heroes of the Squadron Supreme, the Shape was later subjected to the mind-altering behavior modification device used as part of the Squadron Supreme's \"Utopia Program.\""
+  },
+  {
+    "ID": 1009579,
+    "Name": "Shard",
+    "Description": "Shard and her older brother Bishop were raised in the 21st Century, some eighty years into an alternate future, by their grandmother, in a timeline in which the X-Men were betrayed by one of their own and killed, causing a disaster that caused the government to place a stylized 'M' tattoo over the left eyes of all mutants."
+  },
+  {
+    "ID": 1009228,
+    "Name": "Sharon Carter",
+    "Description": ""
+  },
+  {
+    "ID": 1010895,
+    "Name": "Sharon Ventura",
+    "Description": ""
+  },
+  {
+    "ID": 1009580,
+    "Name": "Shatterstar",
+    "Description": "Shatterstar is Gaveedra Seven, the product of bio-engineering on an otherdimensional world, who was at one point merged with an Earth mutant named Benjamin Russell, the nature of whose genetic mutation remains unknown."
+  },
+  {
+    "ID": 1017111,
+    "Name": "She-Hulk (HAS)",
+    "Description": "She-Hulk is the Hulk's action-loving cousin. She's unbelievably strong, pilots the group's heavily armed Jump Jet, and uses a pair of Gamma Gauntlets that give her fists an added energy wallop. As the most competitive member of the team, She-Hulk never backs down from a fight, arm-wrestling match, or burping contest!  "
+  },
+  {
+    "ID": 1009583,
+    "Name": "She-Hulk (Jennifer Walters)",
+    "Description": "Seriously wounded, young lawyer Jennifer Walters was given a blood transfusion by her cousin Bruce Banner. Usually in better control of her powers and temper than the Hulk, She-Hulk has been a high profile New York lawyer as well as an upstanding member of both the Avengers and Fantastic Four."
+  },
+  {
+    "ID": 1011392,
+    "Name": "She-Hulk (Lyra)",
+    "Description": ""
+  },
+  {
+    "ID": 1017331,
+    "Name": "She-Hulk (Marvel War of Heroes)",
+    "Description": ""
+  },
+  {
+    "ID": 1011393,
+    "Name": "She-Hulk (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1015035,
+    "Name": "Shen",
+    "Description": ""
+  },
+  {
+    "ID": 1011168,
+    "Name": "Sheva Callister",
+    "Description": ""
+  },
+  {
+    "ID": 1011093,
+    "Name": "Shi'Ar",
+    "Description": ""
+  },
+  {
+    "ID": 1011381,
+    "Name": "Shinko Yamashiro",
+    "Description": ""
+  },
+  {
+    "ID": 1009582,
+    "Name": "Shinobi Shaw",
+    "Description": "Shinobi Shaw is the illegitimate son of Sebastian Shaw, who was rejected and abandoned by his father at an early age and grew tired of waiting to inherit his father's wealth and wearied of the elder Shaw's contempt for his decadent lifestyle."
+  },
+  {
+    "ID": 1009584,
+    "Name": "Shiva",
+    "Description": ""
+  },
+  {
+    "ID": 1011394,
+    "Name": "Shiver Man",
+    "Description": "The Shiver Man is an undead bounty hunter who has worked with Nick Fury and Wolverine."
+  },
+  {
+    "ID": 1009585,
+    "Name": "Shocker (Herman Schultz)",
+    "Description": "Herman Schultz is a career criminal who, after several prison terms for robbery, built a battle suit that sent out shock waves to quickly open safes as well as give him a significant advantage over the New York police."
+  },
+  {
+    "ID": 1010858,
+    "Name": "Shockwave",
+    "Description": "Lancaster Sneed was a secret agent working for the United Kingdom’s MI:6, but no one esteemed him as highly as himself, and despite his pride, he was wounded in an explosion on his first field assignment and forced to undergo a radical surgery that grafted metal plates and cybernetic systems to his body."
+  },
+  {
+    "ID": 1010824,
+    "Name": "Shooting Star",
+    "Description": ""
+  },
+  {
+    "ID": 1009586,
+    "Name": "Shotgun",
+    "Description": ""
+  },
+  {
+    "ID": 1009587,
+    "Name": "Shriek",
+    "Description": "Shriek became a groupie for a rock band and a drug dealer on the side until the vigilantes Cloak and Dagger happened by during one of her deals."
+  },
+  {
+    "ID": 1009588,
+    "Name": "Sif",
+    "Description": "Sif was born a second generation goddess of Asgard and eventually became Thor's lover."
+  },
+  {
+    "ID": 1010848,
+    "Name": "Silhouette",
+    "Description": "Silhouette Chord is a descendant of the Dragon's Breadth cult, which spent centuries trying to master the Well of All Things, a hidden interdimensional mystic energy breach in Cambodia."
+  },
+  {
+    "ID": 1010856,
+    "Name": "Silk Fever",
+    "Description": ""
+  },
+  {
+    "ID": 1010339,
+    "Name": "Silver Centurion",
+    "Description": ""
+  },
+  {
+    "ID": 1009589,
+    "Name": "Silver Fox",
+    "Description": "Silver Fox was a young member of the Blackfoot Indian tribe who, in the early 1910s, fell in love with a young mutant named Logan and shared a cabin with him in a remote community in the Canadian Rockies."
+  },
+  {
+    "ID": 1009590,
+    "Name": "Silver Sable",
+    "Description": "Silver Sable trained her entire life, becoming a master of a wide variety of weapons and training in all forms of hand-to-hand combat in preparation for the day she would inherit leadership of the Wild Pack."
+  },
+  {
+    "ID": 1009591,
+    "Name": "Silver Samurai",
+    "Description": "Keniuchio Harada is the mutant son of the former Japanese crimelord Shingen Harada."
+  },
+  {
+    "ID": 1010976,
+    "Name": "Silver Samurai (Age of Apocalypse)",
+    "Description": "Silver Samurai was a mutant rebel in his homeland of Japan, where, alongside Sunfire, he stood as the last line of defense against the hordes of Apocalypse."
+  },
+  {
+    "ID": 1009592,
+    "Name": "Silver Surfer",
+    "Description": "When Zenn-La was threatened by the world-devouring entity known as Galactus, Norrin Radd stood up for his home planet and offered to work for Galactus, finding him new planets to eat, in exchange for saving his own. Years later, the Surfer has protected Earth and many other planets, becoming one of the greatest heroes in the universe."
+  },
+  {
+    "ID": 1010864,
+    "Name": "Silverclaw",
+    "Description": "When her father died, Lupe was taken in by the Church orphanage, despite their misgivings about her “ungodly” powers."
+  },
+  {
+    "ID": 1009594,
+    "Name": "Silvermane",
+    "Description": "Silvio Manfredi has been a career criminal for most of his life."
+  },
+  {
+    "ID": 1010898,
+    "Name": "Sin",
+    "Description": ""
+  },
+  {
+    "ID": 1011265,
+    "Name": "Sinister Six",
+    "Description": ""
+  },
+  {
+    "ID": 1014975,
+    "Name": "Sir Ram",
+    "Description": ""
+  },
+  {
+    "ID": 1010834,
+    "Name": "Siren (Earth-93060)",
+    "Description": "Jennifer Pearson appeared on the Ultra hero scene as Siren after being held hostage by her fathers foe known as Mannequin."
+  },
+  {
+    "ID": 1010745,
+    "Name": "Sister Grimm",
+    "Description": ""
+  },
+  {
+    "ID": 1011223,
+    "Name": "Skaar",
+    "Description": "The Hulk fathered a son while on the planet Sakaar, but thought him killed while still in his mother's womb; he was wrong."
+  },
+  {
+    "ID": 1017101,
+    "Name": "Skaar (HAS)",
+    "Description": "No one knows where Skaar, the savage sword-swinger, came from, but one thing is for sure...he's a Hulk. The intensity of Skaarâ€™s war cry \"Skaar Slash!\" is matched only by his ferocious appetite. Although he is a great asset in the fight against evil, Skaar is just as destructive at home as he is on the battlefield. "
+  },
+  {
+    "ID": 1009598,
+    "Name": "Skin",
+    "Description": "Angelo Espinosa, a founding member of Generation X, code-named \"Skin\" due to his mutant ability to extend and control his extra skin in any number of ways."
+  },
+  {
+    "ID": 1011157,
+    "Name": "Skreet",
+    "Description": "The Proemial God Aegis revealed that Skreet was a Chaos Mite, a race of very small and powerful beings, which were deemed unstable by the Cosmic Consonance."
+  },
+  {
+    "ID": 1009599,
+    "Name": "Skrulls",
+    "Description": ""
+  },
+  {
+    "ID": 1015002,
+    "Name": "Skrulls (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1009600,
+    "Name": "Skullbuster (Cylla Markham)",
+    "Description": ""
+  },
+  {
+    "ID": 1011057,
+    "Name": "Slapstick",
+    "Description": "Steven Harmon's powers have been described as \"all of the abilities of a Saturday morning cartoon character.\""
+  },
+  {
+    "ID": 1011070,
+    "Name": "Slayback",
+    "Description": "Ten years ago, Slayback was killed by Deadpool before returning from the dead to break into Department K, from which he stole the Weapon X Program files of Kane and Deadpool."
+  },
+  {
+    "ID": 1009601,
+    "Name": "Sleeper",
+    "Description": ""
+  },
+  {
+    "ID": 1010761,
+    "Name": "Sleepwalker",
+    "Description": "Sleepwalkers are guardians of the Mindscape -- they apprehended beings that invade the sleeping minds of humans."
+  },
+  {
+    "ID": 1009602,
+    "Name": "Slipstream",
+    "Description": "Australian mutant siblings Heather and Davis Cameron were sent to live in Surfer's Paradise by their father in an effort to spare them from his life as Viceroy, godfather of Australian organized crime."
+  },
+  {
+    "ID": 1010874,
+    "Name": "Slyde",
+    "Description": "A scientist at Beemont Manufacturing, Jalome Beacher created a chemical that could be used to coat a surface and thereby eliminate all friction between it and any other object, which he used, after being downsized, to rob banks and his former employers."
+  },
+  {
+    "ID": 1009603,
+    "Name": "Smasher (Vril Rokk)",
+    "Description": "Smasher is a member of the Imperial Guard, a multi-ethnic group of super-powered alien beings who act as enforcers of the laws of the Shi'ar Empire."
+  },
+  {
+    "ID": 1010845,
+    "Name": "Smiling Tiger",
+    "Description": ""
+  },
+  {
+    "ID": 1009606,
+    "Name": "Snowbird",
+    "Description": "Narya's origins trace back to ancient times when the Eskimo Gods of the North battled the mystical Great Beasts for the fate of the world."
+  },
+  {
+    "ID": 1010855,
+    "Name": "Solo (James Bourne)",
+    "Description": "James Bourne was drafted to a top-secret special forces operation where he endured ten months of hard and brutal training to earn his place in the new counter-terrorist group Omega Strike."
+  },
+  {
+    "ID": 1010693,
+    "Name": "Songbird",
+    "Description": "Melissa Gold grew up on the streets, adopting her mother's name \"Mimi\" as part of a hard, cold persona she developed as a survival mechanism."
+  },
+  {
+    "ID": 1011373,
+    "Name": "Sons of the Tiger",
+    "Description": ""
+  },
+  {
+    "ID": 1009607,
+    "Name": "Spacker Dave",
+    "Description": ""
+  },
+  {
+    "ID": 1010705,
+    "Name": "Spectrum",
+    "Description": ""
+  },
+  {
+    "ID": 1010833,
+    "Name": "Speed",
+    "Description": "Tommy Shepherd may be the son of the Scarlet Witch and the Vision, and thus the twin brother of Wiccan."
+  },
+  {
+    "ID": 1011032,
+    "Name": "Speed Demon",
+    "Description": "James Saunders, a disgruntled chemist tired of his job with the Hudson Pharmaceutical Company of West Caldwell, New Jersey, was contacted by the Grandmaster and offered superhuman powers in exchange for joining a team that would compete on his behalf."
+  },
+  {
+    "ID": 1010694,
+    "Name": "Speedball (Robert Baldwin)",
+    "Description": ""
+  },
+  {
+    "ID": 1009605,
+    "Name": "Spencer Smythe",
+    "Description": ""
+  },
+  {
+    "ID": 1011366,
+    "Name": "Sphinx (Anath-Na Mut)",
+    "Description": ""
+  },
+  {
+    "ID": 1010727,
+    "Name": "Spider-dok",
+    "Description": ""
+  },
+  {
+    "ID": 1009157,
+    "Name": "Spider-Girl (Anya Corazon)",
+    "Description": " "
+  },
+  {
+    "ID": 1009609,
+    "Name": "Spider-Girl (May Parker)",
+    "Description": "May \"Mayday\" Parker is the daughter of Spider-Man and Mary Jane Watson-Parker. Born with all her fatherï¿½s powers-and the same silly sense of humor-sheï¿½s grown up to become one of Earthï¿½s most trusted heroes and a fitting tribute to her proud papa."
+  },
+  {
+    "ID": 1017603,
+    "Name": "Spider-Gwen (Spider-Gwen)",
+    "Description": ""
+  },
+  {
+    "ID": 1011347,
+    "Name": "Spider-Ham (Larval Earth)",
+    "Description": "As Spider-Ham Peter faced such nefarious foes as Ductor Doom, Bull-Frog, Raven the Hunter, Hogzilla, the Buzzard and the King-Pig!"
+  },
+  {
+    "ID": 1009610,
+    "Name": "Spider-Man",
+    "Description": "Bitten by a radioactive spider, high school student Peter Parker gained the speed, strength and powers of a spider. Adopting the name Spider-Man, Peter hoped to start a career using his new abilities. Taught that with great power comes great responsibility, Spidey has vowed to use his powers to help people."
+  },
+  {
+    "ID": 1011054,
+    "Name": "Spider-Man (1602)",
+    "Description": ""
+  },
+  {
+    "ID": 1014873,
+    "Name": "Spider-Man (2099)",
+    "Description": ""
+  },
+  {
+    "ID": 1016452,
+    "Name": "Spider-Man (Ai Apaec)",
+    "Description": ""
+  },
+  {
+    "ID": 1014858,
+    "Name": "Spider-Man (Ben Reilly)",
+    "Description": ""
+  },
+  {
+    "ID": 1012200,
+    "Name": "Spider-Man (House of M)",
+    "Description": "In the House of M universe, surrounded by his family, including his young son Richard and close friends, Peter Parker is the envy of the world and its most popular mutant; but lately, Peter has felt like something is wrong in his world."
+  },
+  {
+    "ID": 1017332,
+    "Name": "Spider-Man (LEGO Marvel Super Heroes)",
+    "Description": ""
+  },
+  {
+    "ID": 1011114,
+    "Name": "Spider-Man (Marvel Zombies)",
+    "Description": "Zombie Spider-Man ate his own wife and aunt, the only two people left in the world who truly loved him."
+  },
+  {
+    "ID": 1017305,
+    "Name": "Spider-Man (Marvel: Avengers Alliance)",
+    "Description": ""
+  },
+  {
+    "ID": 1016181,
+    "Name": "Spider-Man (Miles Morales)",
+    "Description": "Teenager Miles Morales grew up in Brooklyn, New York. Recently, Miles took on the controversial and pressured role of Spider-Man shortly after the death of the original. Morales made his debut against The Kangaroo, much to the surprise and disapproval of many present at the confrontation."
+  },
+  {
+    "ID": 1012295,
+    "Name": "Spider-Man (Noir)",
+    "Description": ""
+  },
+  {
+    "ID": 1011377,
+    "Name": "Spider-Man (Takuya Yamashiro)",
+    "Description": ""
+  },
+  {
+    "ID": 1011010,
+    "Name": "Spider-Man (Ultimate)",
+    "Description": "Peter’s relatively normal life changed abruptly during a school trip to Osborn Industries, Inc, where the company had been working on a super soldier serum, the Oz Compound; a spider exposed to it escaped and bit Peter before it was destroyed."
+  },
+  {
+    "ID": 1010795,
+    "Name": "Spider-Woman (Charlotte Witter)",
+    "Description": ""
+  },
+  {
+    "ID": 1009608,
+    "Name": "Spider-Woman (Jessica Drew)",
+    "Description": "When young Jessica Drew suffered uranium poisoning in 1931, her father was forced to inject her with his untested spider serum and seal her in a genetic accelerator."
+  },
+  {
+    "ID": 1011409,
+    "Name": "Nine-Fold Daughters of Xao",
+    "Description": ""
+  },
+  {
+    "ID": 1010797,
+    "Name": "Nitro",
+    "Description": ""
+  },
+  {
+    "ID": 1009474,
+    "Name": "Nocturne",
+    "Description": ""
+  },
+  {
+    "ID": 1009475,
+    "Name": "Nomad",
+    "Description": ""
+  },
+  {
+    "ID": 1011427,
+    "Name": "Nomad (Rikki Barnes)",
+    "Description": ""
+  },
+  {
+    "ID": 1010955,
+    "Name": "Nomad (Steve Rogers)",
+    "Description": ""
+  },
+  {
+    "ID": 1009325,
+    "Name": "Norman Osborn",
+    "Description": ""
+  },
+  {
+    "ID": 1010063,
+    "Name": "Norrin Radd",
+    "Description": ""
+  },
+  {
+    "ID": 1009476,
+    "Name": "Northstar",
+    "Description": ""
+  },
+  {
+    "ID": 1009477,
+    "Name": "Nova",
+    "Description": ""
+  },
+  {
+    "ID": 1010956,
+    "Name": "Nova (Frankie Raye)",
+    "Description": ""
+  },
+  {
+    "ID": 1017078,
+    "Name": "Nova (Sam Alexander)",
+    "Description": "Sam Alexander inherited the role of Nova from his father, who went missing mysteriously. The new Human Rocket struggles to become a hero while searching for his dad."
+  },
+  {
+    "ID": 1016837,
+    "Name": "Nova (USM)",
+    "Description": "The hyperactive loose cannon of the team. Sam Alexander always feels like he has something to prove. \r\n\r\nThe hyperactive loose cannon of the group. Sam always feels like he has something to prove.\r\n\r\nSamâ€™s powers derive from the Nova Force, which is channeled through his helmet. These powers include flight, enhanced durability, and the ability to absorb and release pulses of energy. However, Sam does not know the extent of his powers, let alone how they work.  \r\n\r\nEnthusiastic and immature, Samâ€™s eagerness can be a blessing and a curse. His personality will constantly clash with Spideyâ€™s as they compete for bragging rights. "
+  },
+  {
+    "ID": 1010707,
+    "Name": "Nuke",
+    "Description": ""
+  },
+  {
+    "ID": 1009620,
+    "Name": "Obadiah Stane",
+    "Description": ""
+  },
+  {
+    "ID": 1009480,
+    "Name": "Odin",
+    "Description": ""
+  },
+  {
+    "ID": 1009481,
+    "Name": "Ogun",
+    "Description": ""
+  },
+  {
+    "ID": 1017840,
+    "Name": "Okoye",
+    "Description": ""
+  },
+  {
+    "ID": 1010882,
+    "Name": "Old Lace",
+    "Description": ""
+  },
+  {
+    "ID": 1010757,
+    "Name": "Omega Flight",
+    "Description": ""
+  },
+  {
+    "ID": 1009482,
+    "Name": "Omega Red",
+    "Description": ""
+  },
+  {
+    "ID": 1011329,
+    "Name": "Omega Sentinel",
+    "Description": ""
+  },
+  {
+    "ID": 1011123,
+    "Name": "Omega the Unknown",
+    "Description": ""
+  },
+  {
+    "ID": 1009483,
+    "Name": "Onslaught",
+    "Description": ""
+  },
+  {
+    "ID": 1011255,
+    "Name": "Onslaught (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1009484,
+    "Name": "Oracle",
+    "Description": ""
+  },
+  {
+    "ID": 1011202,
+    "Name": "Ord",
+    "Description": ""
+  },
+  {
+    "ID": 1009485,
+    "Name": "Orphan",
+    "Description": ""
+  },
+  {
+    "ID": 1010957,
+    "Name": "Orphan-Maker",
+    "Description": ""
+  },
+  {
+    "ID": 1009479,
+    "Name": "Otto Octavius",
+    "Description": ""
+  },
+  {
+    "ID": 1011228,
+    "Name": "Outlaw Kid",
+    "Description": ""
+  },
+  {
+    "ID": 1010332,
+    "Name": "Overlord",
+    "Description": ""
+  },
+  {
+    "ID": 1011028,
+    "Name": "Owl",
+    "Description": ""
+  },
+  {
+    "ID": 1009488,
+    "Name": "Ozymandias",
+    "Description": ""
+  },
+  {
+    "ID": 1011150,
+    "Name": "Paibok",
+    "Description": ""
+  },
+  {
+    "ID": 1010873,
+    "Name": "Paladin",
+    "Description": ""
+  },
+  {
+    "ID": 1010708,
+    "Name": "Pandemic",
+    "Description": ""
+  },
+  {
+    "ID": 1011321,
+    "Name": "Paper Doll",
+    "Description": ""
+  },
+  {
+    "ID": 1010357,
+    "Name": "Patch",
+    "Description": ""
+  },
+  {
+    "ID": 1009492,
+    "Name": "Patriot",
+    "Description": ""
+  },
+  {
+    "ID": 1011351,
+    "Name": "Payback",
+    "Description": ""
+  },
+  {
+    "ID": 1009493,
+    "Name": "Penance (Robert Baldwin)",
+    "Description": ""
+  },
+  {
+    "ID": 1009494,
+    "Name": "Pepper Potts",
+    "Description": ""
+  },
+  {
+    "ID": 1009495,
+    "Name": "Pestilence",
+    "Description": ""
+  },
+  {
+    "ID": 1011388,
+    "Name": "Pet Avengers",
+    "Description": ""
+  },
+  {
+    "ID": 1010779,
+    "Name": "Pete Wisdom",
+    "Description": "Pete Wisdom is a former agent of the British intelligence agency Black Air, which was charged with the observation of, and interaction with, extranormal activity, and he was the agency's liaison with the British superhero group Excalibur, whom he eventually aided in exposing Black Air's subversive criminal activities."
+  },
+  {
+    "ID": 1009491,
+    "Name": "Peter Parker",
+    "Description": ""
+  },
+  {
+    "ID": 1010734,
+    "Name": "Peter Quill",
+    "Description": ""
+  },
+  {
+    "ID": 1011021,
+    "Name": "Phalanx",
+    "Description": ""
+  },
+  {
+    "ID": 1011419,
+    "Name": "Phantom Reporter",
+    "Description": ""
+  },
+  {
+    "ID": 1017839,
+    "Name": "Phil Coulson (Phil Coulson)",
+    "Description": ""
+  },
+  {
+    "ID": 1011369,
+    "Name": "Phil Sheldon",
+    "Description": ""
+  },
+  {
+    "ID": 1011045,
+    "Name": "Photon",
+    "Description": ""
+  },
+  {
+    "ID": 1010741,
+    "Name": "Phyla-Vell",
+    "Description": ""
+  },
+  {
+    "ID": 1010886,
+    "Name": "Piledriver",
+    "Description": ""
+  },
+  {
+    "ID": 1010762,
+    "Name": "Pip",
+    "Description": ""
+  },
+  {
+    "ID": 1011179,
+    "Name": "Pixie",
+    "Description": ""
+  },
+  {
+    "ID": 1009498,
+    "Name": "Plazm",
+    "Description": ""
+  },
+  {
+    "ID": 1009499,
+    "Name": "Polaris",
+    "Description": ""
+  },
+  {
+    "ID": 1009501,
+    "Name": "Post",
+    "Description": ""
+  },
+  {
+    "ID": 1016840,
+    "Name": "Power Man (USM)",
+    "Description": "A former street kid whoâ€™s not quite used to the Super Hero world, Luke is a no-nonsense tough guy who serves as the emotional heart and big brother of the group. He is fiercely loyal and nearly fearless in battle. \r\n\r\nLukeâ€™s unbreakable skin and super strength make him the bruiser out of all the trainees. Heâ€™s the first guy to jump into a fight. However, he can still be hurt by concussive blasts and other forms of energy.\r\n\r\nAs Dannyâ€™s best friend, Luke is the translator for Dannyâ€™s sometimes spacey, non-sequitur comments. Luke will always be the first to defend Peter from others, both as civilians and Super Heroes."
+  },
+  {
+    "ID": 1010770,
+    "Name": "Power Pack",
+    "Description": ""
+  },
+  {
+    "ID": 1011151,
+    "Name": "Praxagora",
+    "Description": ""
+  },
+  {
+    "ID": 1011152,
+    "Name": "Preak",
+    "Description": ""
+  },
+  {
+    "ID": 1009502,
+    "Name": "Pretty Boy",
+    "Description": ""
+  },
+  {
+    "ID": 1011104,
+    "Name": "Pride",
+    "Description": ""
+  },
+  {
+    "ID": 1014989,
+    "Name": "Prima",
+    "Description": ""
+  },
+  {
+    "ID": 1011234,
+    "Name": "Prince of Orphans",
+    "Description": ""
+  },
+  {
+    "ID": 1010750,
+    "Name": "Princess Powerful",
+    "Description": ""
+  },
+  {
+    "ID": 1009503,
+    "Name": "Prism",
+    "Description": ""
+  },
+  {
+    "ID": 1011030,
+    "Name": "Prodigy",
+    "Description": ""
+  },
+  {
+    "ID": 1011153,
+    "Name": "Proemial Gods",
+    "Description": ""
+  },
+  {
+    "ID": 1011378,
+    "Name": "Professor Monster",
+    "Description": ""
+  },
+  {
+    "ID": 1009504,
+    "Name": "Professor X",
+    "Description": ""
+  },
+  {
+    "ID": 1010958,
+    "Name": "Professor X (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1009505,
+    "Name": "Proteus",
+    "Description": ""
+  },
+  {
+    "ID": 1010960,
+    "Name": "Proteus (House of M)",
+    "Description": ""
+  },
+  {
+    "ID": 1010959,
+    "Name": "Proteus (Ultimate)",
+    "Description": ""
+  },
+  {
+    "ID": 1009506,
+    "Name": "Proudstar",
+    "Description": ""
+  },
+  {
+    "ID": 1009507,
+    "Name": "Prowler",
+    "Description": ""
+  },
+  {
+    "ID": 1010961,
+    "Name": "Prowler (Rick Lawson)",
+    "Description": ""
+  },
+  {
+    "ID": 1009511,
+    "Name": "Psycho-Man",
+    "Description": ""
+  },
+  {
+    "ID": 1009512,
+    "Name": "Psylocke",
+    "Description": ""
+  },
+  {
+    "ID": 1009510,
+    "Name": "PsyNapse",
+    "Description": ""
+  },
+  {
+    "ID": 1009513,
+    "Name": "Puck",
+    "Description": ""
+  },
+  {
+    "ID": 1010962,
+    "Name": "Puck (Zuzha Yu)",
+    "Description": ""
+  },
+  {
+    "ID": 1010865,
+    "Name": "Puff Adder",
+    "Description": ""
+  },
+  {
+    "ID": 1011165,
+    "Name": "pug",
+    "Description": ""
+  },
+  {
+    "ID": 1009514,
+    "Name": "Puma",
+    "Description": ""
+  },
+  {
+    "ID": 1009515,
+    "Name": "Punisher",
+    "Description": ""
+  },
+  {
+    "ID": 1009517,
+    "Name": "Punisher (2099)",
+    "Description": ""
+  },
+  {
+    "ID": 1017306,
+    "Name": "Punisher (Marvel: Avengers Alliance)",
+    "Description": ""
+  },
+  {
+    "ID": 1009519,
+    "Name": "Puppet Master",
+    "Description": ""
+  },
+  {
+    "ID": 1011207,
+    "Name": "Purifiers",
+    "Description": ""
+  },
+  {
+    "ID": 1009520,
+    "Name": "Purple Man",
+    "Description": ""
+  },
+  {
+    "ID": 1009522,
+    "Name": "Pyro",
+    "Description": ""
+  },
+  {
+    "ID": 1014528,
+    "Name": "Quake (Daisy Johnson)",
+    "Description": ""
+  },
+  {
+    "ID": 1009523,
+    "Name": "Quasar (Phyla-Vell)",
+    "Description": ""
+  },
+  {
+    "ID": 1010778,
+    "Name": "Quasar (Wendell Vaughn)",
+    "Description": ""
+  },
+  {
+    "ID": 1010334,
+    "Name": "Quasimodo",
+    "Description": ""
+  }
+]

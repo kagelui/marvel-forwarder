@@ -2,8 +2,11 @@ package marvel
 
 import (
 	"context"
+	"encoding/json"
+	"fmt"
 	"io/ioutil"
 	"net/http"
+	"sort"
 	"strings"
 	"testing"
 
@@ -89,7 +92,7 @@ func TestApiClient_retrieveOneBatchCharacters(t *testing.T) {
 				}),
 				PublicKey:  "006127f9ec4cdd9da3973a1090fa1a75",
 				PrivateKey: "random",
-				Retries:    1,
+				Retries:    0,
 			},
 			args: args{
 				offset: 0,
@@ -113,7 +116,7 @@ func TestApiClient_retrieveOneBatchCharacters(t *testing.T) {
 				}),
 				PublicKey:  "006127f9ec4cdd9da3973a1090fa1a75",
 				PrivateKey: "random",
-				Retries:    1,
+				Retries:    0,
 			},
 			args: args{
 				offset: 0,
@@ -153,6 +156,50 @@ func TestApiClient_retrieveOneBatchCharacters(t *testing.T) {
 }
 
 func TestApiClient_RetrieveCharacters(t *testing.T) {
+	alwaysNaughtyClient := newTestClient(func(req *http.Request) *http.Response {
+		if !strings.Contains(req.URL.String(), "006127f9ec4cdd9da3973a1090fa1a75") {
+			return &http.Response{StatusCode: http.StatusOK}
+		}
+		return &http.Response{StatusCode: http.StatusInternalServerError}
+	})
+	occasionallyNaughtyClient := newTestClient(func(req *http.Request) *http.Response {
+		if !strings.Contains(req.URL.String(), "006127f9ec4cdd9da3973a1090fa1a75") {
+			return &http.Response{StatusCode: http.StatusOK}
+		}
+		offsets, ok := req.URL.Query()["offset"]
+		if !ok || len(offsets) < 1 {
+			return &http.Response{StatusCode: http.StatusBadRequest}
+		}
+		if offsets[0] == "300" {
+			return &http.Response{StatusCode: http.StatusInternalServerError}
+		}
+		fileName := fmt.Sprintf("testdata/%v.json", offsets[0])
+		return &http.Response{
+			StatusCode: http.StatusOK,
+			Body:       ioutil.NopCloser(testutil.MustOpen(fileName)),
+			Header:     make(http.Header),
+		}
+	})
+	normalClient := newTestClient(func(req *http.Request) *http.Response {
+		if !strings.Contains(req.URL.String(), "006127f9ec4cdd9da3973a1090fa1a75") {
+			return &http.Response{StatusCode: http.StatusBadRequest}
+		}
+		offsets, ok := req.URL.Query()["offset"]
+		if !ok || len(offsets) < 1 {
+			return &http.Response{StatusCode: http.StatusBadRequest}
+		}
+		fileName := fmt.Sprintf("testdata/%v.json", offsets[0])
+		return &http.Response{
+			StatusCode: http.StatusOK,
+			Body:       ioutil.NopCloser(testutil.MustOpen(fileName)),
+			Header:     make(http.Header),
+		}
+	})
+
+	normalResult := make([]Character, 0)
+	bytes, _ := ioutil.ReadAll(testutil.MustOpen("testdata/result.json"))
+	_ = json.Unmarshal(bytes, &normalResult)
+
 	type fields struct {
 		Client     *http.Client
 		APIAddr    string
@@ -169,13 +216,35 @@ func TestApiClient_RetrieveCharacters(t *testing.T) {
 		{
 			name: "normal",
 			fields: fields{
-				Client:     http.DefaultClient,
+				Client:     normalClient,
 				PublicKey:  "006127f9ec4cdd9da3973a1090fa1a75",
 				PrivateKey: "--",
-				Retries:    1,
+				Retries:    0,
+			},
+			want:    normalResult,
+			wantErr: "",
+		},
+		{
+			name: "error in first call",
+			fields: fields{
+				Client:     alwaysNaughtyClient,
+				PublicKey:  "006127f9ec4cdd9da3973a1090fa1a75",
+				PrivateKey: "--",
+				Retries:    0,
 			},
 			want:    nil,
-			wantErr: "",
+			wantErr: "result error",
+		},
+		{
+			name: "error in parallel call",
+			fields: fields{
+				Client:     occasionallyNaughtyClient,
+				PublicKey:  "006127f9ec4cdd9da3973a1090fa1a75",
+				PrivateKey: "--",
+				Retries:    0,
+			},
+			want:    nil,
+			wantErr: "error in parallel run",
 		},
 	}
 	for _, tt := range tests {
@@ -190,8 +259,15 @@ func TestApiClient_RetrieveCharacters(t *testing.T) {
 			got, err := ac.RetrieveCharacters(context.TODO())
 			testutil.CompareError(t, tt.wantErr, err)
 			if err == nil {
-				testutil.Equals(t, tt.want, got)
+				testutil.Equals(t, sortCharacters(tt.want), sortCharacters(got))
 			}
 		})
 	}
+}
+
+func sortCharacters(characters []Character) []Character {
+	sort.Slice(characters, func(i, j int) bool {
+		return characters[i].ID < characters[j].ID
+	})
+	return characters
 }

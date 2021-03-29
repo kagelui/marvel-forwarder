@@ -47,6 +47,7 @@ func (ac ApiClient) RetrieveCharacters(ctx context.Context) ([]Character, error)
 	total := firstTrunk.Total
 	numConnections := total / apiLimit
 	var wg sync.WaitGroup
+	var hasError bool
 	for i := 1; i <= numConnections; i++ {
 		wg.Add(1)
 		go func(num int) {
@@ -55,12 +56,17 @@ func (ac ApiClient) RetrieveCharacters(ctx context.Context) ([]Character, error)
 			resp, err := ac.retrieveOneBatchCharacters(ctx, num*apiLimit, apiLimit)
 			if err != nil {
 				lg.ErrorF(err.Error())
+				hasError = true
 			}
 			result = append(result, responseToCharacters(resp)...)
 			lg.InfoF("End runner %d", num)
 		}(i)
 	}
 	wg.Wait()
+
+	if hasError {
+		return nil, fmt.Errorf("error in parallel run")
+	}
 
 	return result, nil
 }
