@@ -1,15 +1,23 @@
 package main
 
 import (
-	"github.com/kagelui/marvel-forwarder/cmd/serverd/handler"
 	"log"
 	"net/http"
+	"os"
 
+	"github.com/jmoiron/sqlx"
+	"github.com/kagelui/marvel-forwarder/cmd/serverd/handler"
 	"github.com/kagelui/marvel-forwarder/internal/pkg/server"
 )
 
 func main() {
 	log.Println("server started")
+
+	_, err := sqlx.Connect("postgres", os.Getenv("DATABASE_URL"))
+	if err != nil {
+		log.Println(err.Error())
+		os.Exit(2)
+	}
 
 	mux := http.NewServeMux()
 	mux.Handle("/characters", handler.WrapError(handler.GetMarvelCharacterList))

@@ -19,8 +19,8 @@ services:
   db-api:
     container_name: db-marvel-forwarder-api-${CONTAINER_SUFFIX:-local}
     image: postgres:13-alpine
-    expose:
-      - "5432"
+    ports:
+      - 5432:5432
     networks:
       - marvel-forwarder-network
     restart: always

@@ -4,6 +4,7 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
+	"github.com/kagelui/marvel-forwarder/internal/models/characters"
 	"io/ioutil"
 	"net/http"
 	"sort"
@@ -196,7 +197,7 @@ func TestApiClient_RetrieveCharacters(t *testing.T) {
 		}
 	})
 
-	normalResult := make([]Character, 0)
+	normalResult := make([]characters.Character, 0)
 	bytes, _ := ioutil.ReadAll(testutil.MustOpen("testdata/result.json"))
 	_ = json.Unmarshal(bytes, &normalResult)
 
@@ -210,7 +211,7 @@ func TestApiClient_RetrieveCharacters(t *testing.T) {
 	tests := []struct {
 		name    string
 		fields  fields
-		want    []Character
+		want    []characters.Character
 		wantErr string
 	}{
 		{
@@ -265,7 +266,7 @@ func TestApiClient_RetrieveCharacters(t *testing.T) {
 	}
 }
 
-func sortCharacters(characters []Character) []Character {
+func sortCharacters(characters []characters.Character) []characters.Character {
 	sort.Slice(characters, func(i, j int) bool {
 		return characters[i].ID < characters[j].ID
 	})

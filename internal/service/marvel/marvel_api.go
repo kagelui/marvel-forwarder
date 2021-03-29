@@ -5,6 +5,7 @@ import (
 	"crypto/md5"
 	"encoding/json"
 	"fmt"
+	"github.com/kagelui/marvel-forwarder/internal/models/characters"
 	"io"
 	"io/ioutil"
 	"net/http"
@@ -27,17 +28,10 @@ type ApiClient struct {
 	Retries    int
 }
 
-// Character contains the information of a character used in this app
-type Character struct {
-	ID          int
-	Name        string
-	Description string
-}
-
 // RetrieveCharacters retrieves all the characters from the API
-func (ac ApiClient) RetrieveCharacters(ctx context.Context) ([]Character, error) {
+func (ac ApiClient) RetrieveCharacters(ctx context.Context) (characters.CharacterSlice, error) {
 	lg := loglib.GetLogger(ctx)
-	result := make([]Character, 0)
+	result := make([]characters.Character, 0)
 	firstTrunk, err := ac.retrieveOneBatchCharacters(ctx, 0, apiLimit)
 	if err != nil {
 		return nil, err
@@ -149,10 +143,10 @@ func withRetries(ctx context.Context, callback func() error, retries int) error 
 	return backoff.Retry(callback, bo)
 }
 
-func responseToCharacters(rd responseData) []Character {
-	result := make([]Character, len(rd.Results))
+func responseToCharacters(rd responseData) []characters.Character {
+	result := make([]characters.Character, len(rd.Results))
 	for i, one := range rd.Results {
-		result[i] = Character{
+		result[i] = characters.Character{
 			ID:          one.ID,
 			Name:        one.Name,
 			Description: one.Description,
