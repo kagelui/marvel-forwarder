@@ -9,6 +9,7 @@ import (
 	"github.com/jmoiron/sqlx"
 	"github.com/kagelui/marvel-forwarder/internal/pkg/loglib"
 	"github.com/kagelui/marvel-forwarder/internal/service/marvel"
+	_ "github.com/lib/pq"
 )
 
 const retries = 3
