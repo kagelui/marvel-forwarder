@@ -40,11 +40,13 @@ func (s CharacterSlice) saveWithTx(ctx context.Context, tx *sqlx.Tx) error {
 	if len(s) == 0 {
 		return nil
 	}
+
+	u := unique(s)
 	insertQuery := `INSERT INTO characters (external_id, name, description) VALUES `
-	positionStrSlice := make([]string, len(s))
+	positionStrSlice := make([]string, len(u))
 	insertParams := make([]interface{}, 0)
 
-	for i, c := range s {
+	for i, c := range u {
 		positionStrSlice[i] = fmt.Sprintf("($%d, $%d, $%d)", 3*i+1, 3*i+2, 3*i+3)
 		insertParams = append(insertParams, c.ID, c.Name, c.Description)
 	}
@@ -54,6 +56,18 @@ func (s CharacterSlice) saveWithTx(ctx context.Context, tx *sqlx.Tx) error {
 
 	_, err := tx.ExecContext(ctx, insertQuery, insertParams...)
 	return err
+}
+
+func unique(s []Character) []Character {
+	m := make(map[int]Character)
+	for _, c := range s {
+		m[c.ID] = c
+	}
+	result := make([]Character, 0)
+	for _, v := range m {
+		result = append(result, v)
+	}
+	return result
 }
 
 type inquirer interface {
