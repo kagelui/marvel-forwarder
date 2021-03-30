@@ -18,7 +18,7 @@ NO_COLOR=\033[0m
 OK_COLOR=\033[32;01m
 ERROR_COLOR=\033[31;01m
 test: setup
-	@if $(GO_COMPOSE) env $(shell cat .env.dev | egrep -v '^#|^DATABASE_URL' | xargs) make go-test; \
+	@if $(GO_COMPOSE) env $(shell cat .env | egrep -v '^#|^DATABASE_URL' | xargs) make go-test; \
 	then printf "\n\n$(OK_COLOR)[Test okay -- `date`]$(NO_COLOR)\n"; \
 	else printf "\n\n$(ERROR_COLOR)[Test FAILED -- `date`]$(NO_COLOR)\n"; exit 1; fi
 
@@ -28,7 +28,7 @@ go-test:
 
 # run starts the web server in a golang container
 run: setup
-	@$(RUN_COMPOSE) env $(shell cat .env.dev | egrep -v '^#|^DATABASE_URL' | xargs) \
+	@$(RUN_COMPOSE) env $(shell cat .env | egrep -v '^#|^DATABASE_URL' | xargs) \
 		go run cmd/serverd/main.go
 
 build: setup
