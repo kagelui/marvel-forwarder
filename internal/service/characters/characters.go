@@ -34,7 +34,7 @@ func (m *ModelStore) GetCharacter(ctx context.Context, id int) (characters.Chara
 	ch, err := characters.GetCharacter(ctx, m.DB, id)
 	switch {
 	case err == sql.ErrNoRows:
-		return characters.Character{}, web.Error{
+		return characters.Character{}, &web.Error{
 			Status: http.StatusNotFound,
 			Code:   "no_such_character",
 			Desc:   "no such character",

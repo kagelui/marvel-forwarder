@@ -2,9 +2,9 @@ package main
 
 import (
 	"log"
-	"net/http"
 	"os"
 
+	"github.com/gorilla/mux"
 	"github.com/jmoiron/sqlx"
 	"github.com/kagelui/marvel-forwarder/cmd/serverd/handler"
 	"github.com/kagelui/marvel-forwarder/internal/pkg/server"
@@ -23,9 +23,9 @@ func main() {
 
 	modelStore := &characters.ModelStore{DB: db}
 
-	mux := http.NewServeMux()
-	mux.Handle("/characters", handler.WrapError(handler.GetMarvelCharacterList(modelStore)))
-	mux.Handle("/characters/{id}", handler.WrapError(handler.GetMarvelCharacterDetail))
+	r := mux.NewRouter()
+	r.Handle("/characters", handler.WrapError(handler.GetMarvelCharacterList(modelStore))).Methods("GET")
+	r.Handle("/characters/{id:[0-9]+}", handler.WrapError(handler.GetMarvelCharacterDetail(modelStore))).Methods("GET")
 
-	server.New(":8080", mux).Start()
+	server.New(":8080", r).Start()
 }

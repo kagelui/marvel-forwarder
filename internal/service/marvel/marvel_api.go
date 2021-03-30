@@ -5,7 +5,6 @@ import (
 	"crypto/md5"
 	"encoding/json"
 	"fmt"
-	"github.com/kagelui/marvel-forwarder/internal/models/characters"
 	"io"
 	"io/ioutil"
 	"net/http"
@@ -13,6 +12,7 @@ import (
 	"time"
 
 	"github.com/cenkalti/backoff/v4"
+	"github.com/kagelui/marvel-forwarder/internal/models/characters"
 	"github.com/kagelui/marvel-forwarder/internal/pkg/loglib"
 )
 
