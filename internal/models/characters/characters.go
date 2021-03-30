@@ -29,14 +29,15 @@ func (s CharacterSlice) Save(ctx context.Context, db *sqlx.DB) error {
 		return err
 	}
 
-	if err = s.saveWithTx(ctx, tx); err != nil {
+	if err = s.SaveWithTx(ctx, tx); err != nil {
 		return err
 	}
 
 	return tx.Commit()
 }
 
-func (s CharacterSlice) saveWithTx(ctx context.Context, tx *sqlx.Tx) error {
+// SaveWithTx inserts the characters with a *sqlx.Tx
+func (s CharacterSlice) SaveWithTx(ctx context.Context, tx *sqlx.Tx) error {
 	if len(s) == 0 {
 		return nil
 	}
@@ -70,15 +71,26 @@ func unique(s []Character) []Character {
 	return result
 }
 
-type inquirer interface {
+// Inquirer unifies *sqlx.DB and *sqlx.Tx to facilitate testing
+type Inquirer interface {
 	GetContext(ctx context.Context, dest interface{}, query string, args ...interface{}) error
+	SelectContext(ctx context.Context, dest interface{}, query string, args ...interface{}) error
 }
 
 // GetCharacter returns the Character struct for the given external ID
-func GetCharacter(ctx context.Context, db inquirer, extID int) (Character, error) {
+func GetCharacter(ctx context.Context, db Inquirer, extID int) (Character, error) {
 	var ch Character
 	if err := db.GetContext(ctx, &ch, "SELECT external_id, name, description FROM characters WHERE external_id = $1", extID); err != nil {
 		return Character{}, err
 	}
 	return ch, nil
+}
+
+// GetCharacters returns all Character in the DB
+func GetCharacters(ctx context.Context, db Inquirer) ([]Character, error) {
+	characters := make([]Character, 0)
+	if err := db.SelectContext(ctx, &characters, `SELECT external_id, name, description FROM characters ORDER BY external_id`); err != nil {
+		return nil, err
+	}
+	return characters, nil
 }

@@ -23,12 +23,8 @@ func TestWithStack(t *testing.T) {
 
 	for _, tc := range testCases {
 		t.Run(tc.given.Error(), func(t *testing.T) {
-			// Given:
-
-			// When:
 			result := WithStack(tc.given)
 
-			// Then:
 			testutil.Asserts(t, result.Err != nil, "err should not be nil")
 			testutil.Equals(t, tc.expectedStatus, result.Status)
 			testutil.Equals(t, tc.expectedCode, result.Code)
@@ -52,12 +48,8 @@ func TestNewError(t *testing.T) {
 
 	for _, tc := range testCases {
 		t.Run(tc.given.Error(), func(t *testing.T) {
-			// Given:
-
-			// When:
 			result := NewError(tc.given, tc.message)
 
-			// Then:
 			testutil.Asserts(t, result.Err != nil, "err should not be nil")
 			testutil.Equals(t, tc.expectedStatus, result.Status)
 			testutil.Equals(t, tc.expectedCode, result.Code)
