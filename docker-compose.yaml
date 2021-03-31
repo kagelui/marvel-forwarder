@@ -14,7 +14,7 @@ services:
       GOARCH: amd64
       GOOS: linux
       TZ: Asia/Singapore
-      DATABASE_URL: postgres://marvel-forwarder-api:marvel-forwarder-api@db-api:5432/marvel-forwarder-api?sslmode=disable
+      DATABASE_URL: ${DATABASE_URL}
 
   db-api:
     container_name: db-marvel-forwarder-api-${CONTAINER_SUFFIX:-local}
@@ -33,6 +33,16 @@ services:
       POSTGRES_USER: marvel-forwarder-api
       POSTGRES_PASSWORD: marvel-forwarder-api
 
+  bifrost:
+    build:
+      context: .
+      dockerfile: bifrost.Dockerfile
+    container_name: marvel-forwarder-bifrost-${CONTAINER_SUFFIX:-local}
+    networks:
+      - marvel-forwarder-network
+    env_file:
+      - .env
+
   migrate-api:
     container_name: migrate-marvel-forwarder-api-${CONTAINER_SUFFIX:-local}
     image: migrate/migrate:v4.10.0
@@ -41,7 +51,7 @@ services:
     restart: "no"
     entrypoint: ""
     environment:
-      DATABASE_URL: postgres://marvel-forwarder-api:marvel-forwarder-api@db-api:5432/marvel-forwarder-api?sslmode=disable
+      DATABASE_URL: ${DATABASE_URL}
 
 networks:
   marvel-forwarder-network:

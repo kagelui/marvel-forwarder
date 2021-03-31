@@ -19,7 +19,7 @@ OK_COLOR=\033[32;01m
 ERROR_COLOR=\033[31;01m
 test: setup
 	@if $(GO_COMPOSE) env $(shell cat .env | egrep -v '^#|^DATABASE_URL' | xargs) make go-test; \
-	then printf "\n\n$(OK_COLOR)[Test okay -- `date`]$(NO_COLOR)\n"; \
+	then printf "\n\n$(OK_COLOR)[Test ok -- `date`]$(NO_COLOR)\n"; \
 	else printf "\n\n$(ERROR_COLOR)[Test FAILED -- `date`]$(NO_COLOR)\n"; exit 1; fi
 
 # go-test executes test for all packages
@@ -27,16 +27,19 @@ go-test:
 	go test -coverprofile=c.out -failfast -timeout 5m ./...
 
 # run starts the web server in a golang container
-run: setup
+run: setup bifrost-run
 	@$(RUN_COMPOSE) env $(shell cat .env | egrep -v '^#|^DATABASE_URL' | xargs) \
 		go run cmd/serverd/main.go
 
 build: setup
 	$(GO_COMPOSE) make go-build
-	$(GO_COMPOSE) make go-build-batch
+	$(GO_COMPOSE) make go-build-bifrost
 
 go-build:
 	go build -v ./cmd/serverd
+
+go-build-bifrost:
+	go build -v ./cmd/bifrost
 
 # teardown stops and removes all containers and resources associated to docker-compose.yml
 teardown:
@@ -49,6 +52,12 @@ db-api:
 migrate-api:
 	$(COMPOSE) run --rm -v $(APP_PWD)/data/migrations:/migrations migrate-api \
 	sh -c './migrate -path /migrations -database $$DATABASE_URL up'
+
+docker-compose-build-bifrost:
+	$(COMPOSE) up -d --build bifrost
+
+bifrost-run: docker-compose-build-bifrost
+	$(COMPOSE) start bifrost
 
 # sleep is to delay the test from running to ensure all services (i.e. mq, db, redis) are up
 sleep:
