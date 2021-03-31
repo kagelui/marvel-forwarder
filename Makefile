@@ -31,6 +31,9 @@ run: setup bifrost-run
 	@$(RUN_COMPOSE) env $(shell cat .env | egrep -v '^#|^DATABASE_URL' | xargs) \
 		go run cmd/serverd/main.go
 
+coverage: test
+	go tool cover -html=c.out
+
 build: setup
 	$(GO_COMPOSE) make go-build
 	$(GO_COMPOSE) make go-build-bifrost
