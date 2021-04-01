@@ -17,6 +17,7 @@ A DB is used to persist the characters, and a cronjob (called `bifrost`, the bri
 - Since data is never deleted, all characters live on here even if Marvel deletes them :)
 - If Marvel updates the data right when bifrost is running, be it add/delete/update, if it's at the "page" that bifrost has finished reading, it won't be able to catch it. (it's also worth noting that it won't break, because the result is pruned of duplicates before inserting to DB)
 - I intentionally tried to avoid dependencies to see how far I can go with Go itself. I didn't have time to add the swagger docs, I hope it's ok, but if not, let me know
+- Maximum 10 minutes is needed for the first batch of data to come in the DB
 
 ### ORM
 
@@ -32,7 +33,7 @@ A DB is used to persist the characters, and a cronjob (called `bifrost`, the bri
 
 ### Running the API
 
-- `make run`
+- `make run` (note: you need to wait for bifrost to run at least once, up to 10 minutes, or you can edit `crontab` to adjust the frequency)
 
 ### Running unit testing
 
