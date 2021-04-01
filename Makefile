@@ -59,8 +59,8 @@ migrate-api:
 docker-compose-build-bifrost:
 	$(COMPOSE) up -d --build bifrost
 
-bifrost-run: docker-compose-build-bifrost
-	$(COMPOSE) start bifrost
+bifrost-run:
+	$(COMPOSE) up -d bifrost
 
 # sleep is to delay the test from running to ensure all services (i.e. mq, db, redis) are up
 sleep:
