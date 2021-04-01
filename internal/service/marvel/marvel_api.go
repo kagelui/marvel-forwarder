@@ -52,7 +52,9 @@ func (ac ApiClient) RetrieveCharacters(ctx context.Context) (characters.Characte
 				lg.ErrorF(err.Error())
 				hasError = true
 			}
-			result = append(result, responseToCharacters(resp)...)
+			newTrunk := responseToCharacters(resp)
+			lg.InfoF("runner %d received %d characters", num, len(newTrunk))
+			result = append(result, newTrunk...)
 			lg.InfoF("End runner %d", num)
 		}(i)
 	}
