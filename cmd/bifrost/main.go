@@ -2,11 +2,11 @@ package main
 
 import (
 	"context"
-	"fmt"
 	"net/http"
 	"os"
 
 	"github.com/jmoiron/sqlx"
+	"github.com/kagelui/marvel-forwarder/internal/pkg/envvar"
 	"github.com/kagelui/marvel-forwarder/internal/pkg/loglib"
 	"github.com/kagelui/marvel-forwarder/internal/service/marvel"
 	_ "github.com/lib/pq"
@@ -20,8 +20,9 @@ func main() {
 
 	lg.InfoF("starting syncing with marvel API...")
 
-	e, err := readEnv()
-	if err != nil {
+	var e envVar
+
+	if err := envvar.Read(&e); err != nil {
 		lg.ErrorF(err.Error())
 		os.Exit(1)
 	}
@@ -53,35 +54,8 @@ func main() {
 }
 
 type envVar struct {
-	PublicKey  string
-	PrivateKey string
-	APIAddr    string
-	DBAddr     string
-}
-
-func readEnv() (envVar, error) {
-	var ev envVar
-
-	v, ok := os.LookupEnv("MARVEL_API_URL")
-	if !ok {
-		return envVar{}, fmt.Errorf("missing MARVEL_API_URL")
-	}
-	ev.APIAddr = v
-	v, ok = os.LookupEnv("PUBLIC_KEY")
-	if !ok {
-		return envVar{}, fmt.Errorf("missing PUBLIC_KEY")
-	}
-	ev.PublicKey = v
-	v, ok = os.LookupEnv("PRIVATE_KEY")
-	if !ok {
-		return envVar{}, fmt.Errorf("missing PRIVATE_KEY")
-	}
-	ev.PrivateKey = v
-	v, ok = os.LookupEnv("DATABASE_URL")
-	if !ok {
-		return envVar{}, fmt.Errorf("missing DATABASE_URL")
-	}
-	ev.DBAddr = v
-
-	return ev, nil
+	PublicKey  string `env:"PUBLIC_KEY"`
+	PrivateKey string `env:"PRIVATE_KEY"`
+	APIAddr    string `env:"MARVEL_API_URL"`
+	DBAddr     string `env:"DATABASE_URL"`
 }
