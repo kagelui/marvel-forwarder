@@ -99,7 +99,7 @@ func TestRead(t *testing.T) {
 			wantErr: `parsing "2e+308": value out of range`,
 		},
 		{
-			name: "unsupported type",
+			name: "invalid time duration",
 			target: &struct {
 				One   string        `env:"one"`
 				Two   string        `env:"-"`
@@ -107,9 +107,22 @@ func TestRead(t *testing.T) {
 				Four  string        `env:"-"`
 				Five  time.Duration `env:"five"`
 			}{},
-			envVar:  map[string]string{"one": "hey", "two": "yes", "three": "319826", "four": "yeah", "five": "2020-09-02"},
+			envVar:  map[string]string{"one": "hey", "two": "yes", "three": "319826", "four": "yeah", "five": "10seconds"},
 			want:    nil,
-			wantErr: "unsupported type Duration",
+			wantErr: `unknown unit "seconds" in duration "10seconds"`,
+		},
+		{
+			name: "unsupported type",
+			target: &struct {
+				One   string     `env:"one"`
+				Two   string     `env:"-"`
+				Three int        `env:"three"`
+				Four  string     `env:"-"`
+				Five  complex128 `env:"five"`
+			}{},
+			envVar:  map[string]string{"one": "hey", "two": "yes", "three": "319826", "four": "yeah", "five": "10s"},
+			want:    nil,
+			wantErr: "unsupported type complex128",
 		},
 		{
 			name: "everything set",
@@ -127,20 +140,22 @@ func TestRead(t *testing.T) {
 		{
 			name: "skip some",
 			target: &struct {
-				One   string  `env:"one"`
-				Two   string  `env:"-"`
-				Three int     `env:"three"`
-				Four  string  `env:"-"`
-				Five  float64 `env:"five"`
+				One   string        `env:"one"`
+				Two   string        `env:"-"`
+				Three int           `env:"three"`
+				Four  string        `env:"-"`
+				Five  float64       `env:"five"`
+				Six   time.Duration `env:"six"`
 			}{},
-			envVar: map[string]string{"one": "hey", "two": "yes", "three": "319826", "four": "yeah", "five": "861.8362"},
+			envVar: map[string]string{"one": "hey", "two": "yes", "three": "319826", "four": "yeah", "five": "861.8362", "six": "5s"},
 			want: &struct {
-				One   string  `env:"one"`
-				Two   string  `env:"-"`
-				Three int     `env:"three"`
-				Four  string  `env:"-"`
-				Five  float64 `env:"five"`
-			}{One: "hey", Two: "", Three: 319826, Four: "", Five: 861.8362},
+				One   string        `env:"one"`
+				Two   string        `env:"-"`
+				Three int           `env:"three"`
+				Four  string        `env:"-"`
+				Five  float64       `env:"five"`
+				Six   time.Duration `env:"six"`
+			}{One: "hey", Two: "", Three: 319826, Four: "", Five: 861.8362, Six: time.Second * 5},
 			wantErr: "",
 		},
 	}

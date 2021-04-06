@@ -5,6 +5,8 @@ import (
 	"os"
 	"reflect"
 	"strconv"
+	"strings"
+	"time"
 )
 
 const tagName = "env"
@@ -43,11 +45,26 @@ func Read(target interface{}) error {
 		if !ok {
 			return fmt.Errorf("%s not present", key)
 		}
+		value = strings.TrimSpace(value)
 
 		fieldValue := v.Field(i)
 		if !fieldValue.IsValid() || !fieldValue.CanSet() {
 			return fmt.Errorf("field %s is not valid or cannot be set", refType.Field(i).Name)
 		}
+
+		// try parsing the "type" first
+		fieldType := refType.Field(i)
+		switch fieldType.Type {
+		case reflect.TypeOf(time.Nanosecond):
+			t, err := time.ParseDuration(value)
+			if err != nil {
+				return err
+			}
+			fieldValue.Set(reflect.ValueOf(t))
+			continue
+		}
+
+		// then try the built-in "kinds"
 		switch fieldValue.Kind() {
 		case reflect.String:
 			fieldValue.SetString(value)
